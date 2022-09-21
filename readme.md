@@ -41,20 +41,6 @@
 <img src=".assets/language.png" width="360px">
 
 
-## Aptitudes
-
-<img src=".assets/procrastinyzer.png" width="360px"> <img src=".assets/burst.png" width="360px">
-<img src=".assets/rubix.png" width="360px"> <img src=".assets/typing.png" width="360px">
-
-
-## Languages
-
-<img src=".assets/Antarctican.png" width="360px">
-
-<img src=".assets/English.png" width="360px"> <img src=".assets/Chinese.png" width="360px">
-<img src=".assets/French.png" width="360px"> <img src=".assets/German.png" width="360px">
-
-
 ## Programming Languages
 
 <img src=".assets/Scratch.png" width="360px"> <img src=".assets/Python.png" width="360px">
@@ -78,30 +64,3 @@
 
 <img src=".assets/iOS.png" width="360px"> <!-- <img src=".assets/iPadOS.png" width="360px"> -->
 <img src=".assets/Windows.png" width="360px"> <img src=".assets/XPS.png" width="360px">
-
-
-## Games
-
-<img src=".assets/bloons.png" width="360px"> <img src=".assets/Pop.png" width="360px">
-<img src=".assets/Soul.png" width="360px">
-
-
-## Affine
-
-<img src=".assets/Slytherin.png" width="360px"> <img src=".assets/Ravenclaw.png" width="360px">
-<img src=".assets/Wand.png" width="360px"> <!-- <img src=".assets/Patronus.png" width="360px"> -->
-
-
-## Content
-
-<img src=".assets/Hermitcraft.png" width="360px">
-<img src=".assets/Ultraman.png" width="360px">
-<img src=".assets/Pokemon.png" width="360px">
-
-<img src=".assets/Wikipedia.png" width="360px"> <img src=".assets/fanfiction.png" width="360px">
-
-
-## Miscellaneous
-
-<img src=".assets/Wikia.png" width="360px"> <img src=".assets/Monkeyopolis.png" width="360px">
-<img src=".assets/duelist.png" width="360px">
