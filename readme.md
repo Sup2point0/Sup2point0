@@ -2,7 +2,7 @@
   <img src=".assets/sup.png" width="690px"> </a>
 </p>
 
-<p align="center"> An avid portal with way too much in xis neural cortex. </p>
+<p align="center"> An avid portal with way too much in their neural cortex. </p>
 
 ---
 
