@@ -56,7 +56,7 @@
 
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/PowerPoint.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/MolView.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/VSCode.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Unity.png" width="360px">
-<!--img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/IDLE.png" width="360px"--> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/replit.png" width="360px">
+<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/IDLE.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/replit.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/iMovie.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/MuseScore.png" width="360px">
 
 
