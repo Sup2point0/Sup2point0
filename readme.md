@@ -1,14 +1,16 @@
-<p align="center"> <a href="https://github.com/Sup2point0/Assort/blob/origin/sup.md">
-  <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/sup.png" width="690px"> </a>
-</p>
+<div align="center">
 
-<p align="center"> An avid portal with way too much in their neural cortex. </p>
+<a href="https://github.com/Sup2point0/Assort/blob/origin/sup.md">
+  <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/sup.png" width="690px">
+</a>
+
+An avid portal with way too much in their neural cortex.
 
 ---
 
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Antarctica.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Aventurina.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Arteria.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/NioTech.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Synactris.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Slytherclaw.png" width="360px">
+<!-- <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Arteria.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/NioTech.png" width="360px">
+<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Synactris.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Slytherclaw.png" width="360px"> -->
 
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/light.png" width="360px">
 
@@ -51,16 +53,4 @@
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/SQL.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/MATLAB.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/JSON.png" width="360px">
 
-
-## Applyzacions
-
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/PowerPoint.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/MolView.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/VSCode.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Unity.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/IDLE.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/replit.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/iMovie.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/MuseScore.png" width="360px">
-
-
-## System
-
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/iOS.png" width="360px"> <!-- <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/iPadOS.png" width="360px"> -->
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Windows.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/XPS.png" width="360px">
+</div>
