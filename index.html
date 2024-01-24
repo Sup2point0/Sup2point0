@@ -2,20 +2,64 @@
 
 <html>
 
-  <head>
-    <title> Sup#2.0 </title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="essence.css">
-    <link rel="icon" type="image/x-icon" href=".assets/sup.png">
-  </head>
+<head>
+  <title> Sup#2.0 </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="essence.css">
+  <link rel="icon" type="image/x-icon" href=".assets/sup.png">
+</head>
 
-  <nav>
-    ...
-  </nav>
+<script>
+var secs = document.getElementsByClassName("collapsible");
 
-  <body>
-    ...
-  </body>
+var i
+for (i = 0; i < secs.length; i++) {
+  secs[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight) {
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollheight + "px";
+    }
+  });
+}
+</script>
+
+<nav>
+  ...
+</nav>
+
+<body>
+
+<div class="header">
+  <img alt="Purple Portal" src=".assets/sup.png">
+</div>
+
+<div class="sections">
+  <div class="about">
+    <button class="collapsible"> About Me </button>
+    <div class="content">
+      The quick brown fox jumps over the lazy dog!
+    </div>
+  </div>
+  
+  <div class="interests">
+    <button class="collapsible"> Interests </button>
+    <div class="content">
+      The quick brown fox jumps over the lazy dog!
+    </div>
+  </div>
+  
+  <div class="creations">
+    <button class="collapsible"> Creations </button>
+    <div class="content">
+      The quick brown fox jumps over the lazy dog!
+    </div>
+  </div>
+</div>
+
+</body>
   
 </html>
