@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+html {
+  background-image: url('.assets/cortex-violet.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+::selection {
+  color: #ffffffff;
+  background-color: #ff0090;
+}
+
+body {
+  margin: 0;
+}
+
+p {
+  font-family: 'Abel', 'Segoe UI', sans-serif;
+  color: #fff;
+}
+
+.collapsible {
+  background-color: #00172a;
+  width = 100%;
+  border: none;
+  padding: 1em;
+  text-align: left;
+  font-size: 1em;
+}
+
+.active, .collapsible:hover {
+  background-color: #204080;
+}
+
+.content {
+  background-color: #102040;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease-out;
+}
