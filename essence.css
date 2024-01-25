@@ -14,15 +14,12 @@ html {
 
 body {
   margin: 0;
-}
-
-p {
   font-family: 'Abel', 'Segoe UI', sans-serif;
   color: #fff;
 }
 
-,header {
-  align:center;
+.header {
+  align: center;
 }
 
 .sections {
@@ -30,11 +27,11 @@ p {
 }
 
 .collapsible {
+  width: 100%;
   background-color: #00172a;
-  width = 100%;
   border: none;
-  padding: 1em;
   text-align: left;
+  padding: 1em;
   font-size: 1em;
 }
 .active, .collapsible:hover {
