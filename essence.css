@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 0 10px;
   font-family: 'Abel', 'Segoe UI', sans-serif;
   color: #fff;
 }
@@ -43,4 +43,23 @@ body {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.4s ease-out;
+}
+
+.animate {
+  animation-fill-mode: backwards;
+}
+.animate.fade {
+  animation-name: anim-fade;
+  animation-duration: 0.5s;
+  animation-timing-function: ease-out;
+}
+@keyframes anim-fade {
+  0% {
+    opacity: 0;
+    transform: scale(2, 2);
+  }
+}
+
+.delay {
+  animation-delay: var(--delay);
 }
