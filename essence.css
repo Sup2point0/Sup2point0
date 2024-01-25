@@ -21,6 +21,14 @@ p {
   color: #fff;
 }
 
+,header {
+  align:center;
+}
+
+.sections {
+  align: center;
+}
+
 .collapsible {
   background-color: #00172a;
   width = 100%;
@@ -29,7 +37,6 @@ p {
   text-align: left;
   font-size: 1em;
 }
-
 .active, .collapsible:hover {
   background-color: #204080;
 }
