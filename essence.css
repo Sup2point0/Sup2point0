@@ -9,6 +9,7 @@
   --blue-nova: #4090f1;
   --blue-midnight: #00172a;
   --pink-nova: #ff0090;
+  --grey-nova: #90969e;
 }
 
 /* high-level */
@@ -40,14 +41,24 @@ p {
   text-align: center;
   font-family: var(--font-head);
 }
+.sup {
+  height: 30em;
+  display: flex;
+  justify-content: center;
+}
 .icons {
-  height: 8em;
+  height: 10em;
   display: flex;
   justify-content: center;
 }
 
 .sections {
   text-align: center;
+}
+
+.footer {
+  text-align: center;
+  color: var(--grey-nova);
 }
 
 /* property */
@@ -98,5 +109,6 @@ p {
 
 #sup {
   position: absolute;
+  top: 269px;
   z-index: 2;
 }
