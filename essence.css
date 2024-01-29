@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 
 :root {
-  --font-head: 'Montserrat', 'Segoe UI', sans-serif;
+  --font-head: 'Montserrat', 'Segoe UI Semibold', 'Segoe UI', sans-serif;
   --font-body: 'Abel', 'Segoe UI', sans-serif;
 
   --blue-nova: #4090f1;
@@ -15,8 +15,10 @@
 /* high-level */
 html {
   background-image: url('.assets/cortex-violet.jpg');
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  filter: blur(10px) brightness(69%);
 }
 
 ::selection {
