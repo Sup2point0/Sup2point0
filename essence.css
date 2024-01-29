@@ -42,6 +42,7 @@ body {
   border: none;
   text-align: left;
   padding: 1em;
+  font-family: 'Montserrat', 'Segoe UI', sans-serif;
   font-size: 1em;
 }
 .active, .collapsible:hover {
