@@ -1,6 +1,14 @@
+/* internal */
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 @import url('https://fonts.googleapis.com/css?family=Abel');
 
+:root {
+  --blue-nova: #4090f1;
+  --blue-midnight: #00172a;
+  --pink-nova: #ff0090;
+}
+
+/* high-level */
 html {
   background-image: url('.assets/cortex-violet.jpg');
   background-size: cover;
@@ -8,8 +16,8 @@ html {
 }
 
 ::selection {
-  color: #ffffffff;
-  background-color: #ff0090;
+  color: #fff;
+  background-color: var(--pink-nova);
 }
 
 body {
@@ -20,15 +28,19 @@ body {
 
 .header {
   align: center;
+  text-align: center;
+  font-family: 'Montserrat', 'Segoe UI', sans-serif;
 }
 
 .sections {
   align: center;
+  text-align: center;
 }
 
+/* property */
 .collapsible {
   width: 100%;
-  background-color: #00172a;
+  background-color: var(--blue-midnight);
   border: none;
   text-align: left;
   padding: 1em;
@@ -62,4 +74,13 @@ body {
 
 .delay {
   animation-delay: var(--delay);
+}
+
+/* specific */
+#portal {
+  z-index: 1;
+}
+
+#sup {
+  z-index: 2;
 }
