@@ -3,6 +3,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 
 :root {
+  --font-head: 'Montserrat', 'Segoe UI', sans-serif;
+  --font-body: 'Abel', 'Segoe UI', sans-serif;
+
   --blue-nova: #4090f1;
   --blue-midnight: #00172a;
   --pink-nova: #ff0090;
@@ -22,13 +25,19 @@ html {
 
 body {
   margin: 0 10px;
-  font-family: 'Abel', 'Segoe UI', sans-serif;
+  font-family: var(--font-body);
   color: #fff;
 }
 
+/* section */
 .header {
+  width: 100%;
   text-align: center;
-  font-family: 'Montserrat', 'Segoe UI', sans-serif;
+  font-family: var(--font-head);
+}
+.icons {
+  display: flex;
+  align-items: center;
 }
 
 .sections {
@@ -40,10 +49,11 @@ body {
   width: 100%;
   background-color: var(--blue-midnight);
   border: none;
-  text-align: left;
+  text-align: center;
   padding: 1em;
-  font-family: 'Montserrat', 'Segoe UI', sans-serif;
+  font-family: var(--font-head);
   font-size: 1em;
+  color: #fff;
 }
 .active, .collapsible:hover {
   background-color: #204080;
@@ -81,5 +91,6 @@ body {
 }
 
 #sup {
+  position: absolute;
   z-index: 2;
 }
