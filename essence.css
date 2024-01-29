@@ -25,6 +25,11 @@ html {
 
 body {
   margin: 0 10px;
+  font-family: var(--font-head);
+  color: #fff;
+}
+
+p {
   font-family: var(--font-body);
   color: #fff;
 }
@@ -36,8 +41,9 @@ body {
   font-family: var(--font-head);
 }
 .icons {
+  height: 8em;
   display: flex;
-  align-items: center;
+  justify-content: center;
 }
 
 .sections {
