@@ -24,11 +24,7 @@
 
 /* high-level */
 html {
-  background-image: url('.assets/cortex-violet.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  filter: blur(10px) brightness(69%);
+  background-color: var(--blue-night);
 }
 
 body {
@@ -48,6 +44,14 @@ p {
 }
 
 /* section */
+.back {
+  background-image: url('.assets/cortex-violet.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  filter: blur(10px) brightness(69%);
+}
+
 .header {
   width: 100%;
   text-align: center;
