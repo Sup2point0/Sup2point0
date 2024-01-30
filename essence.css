@@ -49,6 +49,7 @@ p {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  height: 100%;
   filter: blur(10px) brightness(69%);
 }
 
