@@ -100,10 +100,13 @@ a:hover {
   transition: background-color 0.1s linear;
 }
 .collapsible:hover {
-  background-color: var(--blue-ocean);
+  background-color: var(--pink-nova);
 }
 .collapsible.active {
-  background-color: var(--pink-nova);
+  background-color: var(--blue-ocean);
+}
+.collapsible.active:hover {
+  background-color: var(--purp-nova);
 }
 
 .content {
