@@ -31,11 +31,6 @@ html {
   filter: blur(10px) brightness(69%);
 }
 
-::selection {
-  color: #fff;
-  background-color: var(--pink-nova);
-}
-
 body {
   margin: 0 10px;
   font-family: var(--font-head);
@@ -45,6 +40,11 @@ body {
 p {
   font-family: var(--font-body);
   color: #fff;
+}
+
+::selection {
+  color: #fff;
+  background-color: var(--pink-nova);
 }
 
 /* section */
