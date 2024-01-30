@@ -135,6 +135,10 @@ a:hover {
 /* specific */
 #portal {
   z-index: 1;
+  transition: transform 0.69s ease-in-out;
+}
+#portal:hover {
+  transform: rotate(360deg);
 }
 
 #sup {
