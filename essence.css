@@ -82,7 +82,7 @@ p {
 /* property */
 a {
   color: var(--pink-nova);
-  transition: color 0.2s linear;
+  transition: color 0.1s linear;
 }
 a:hover {
   color: var(--purp-nova);
@@ -97,7 +97,7 @@ a:hover {
   color: #fff;
   text-align: center;
   padding: 1em;
-  transition: background-color 0.2s linear;
+  transition: background-color 0.1s linear;
 }
 .collapsible:hover {
   background-color: var(--blue-ocean);
