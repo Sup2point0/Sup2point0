@@ -73,27 +73,40 @@ p {
 }
 
 .footer {
+  background-color: rgba(0, 0, 0, 0.2);
   text-align: center;
   color: var(--grey-nova);
 }
 
 /* property */
+a {
+  color: var(--pink-nova);
+  transition: color 0.4s linear;
+}
+a:hover {
+  color: var(--purp-nova);
+}
+
 .collapsible {
-  width: 100%;
-  background-color: var(--blue-midnight);
+  width: 90%;
+  background-color: var(--blue-deep);
   border: none;
-  text-align: center;
-  padding: 1em;
   font-family: var(--font-head);
   font-size: 1em;
   color: #fff;
+  text-align: center;
+  padding: 1em;
+  transition: background-color 0.4s linear;
 }
-.active, .collapsible:hover {
-  background-color: #204080;
+.collapsible:hover {
+  background-color: var(--blue-ocean);
+}
+.collapsible.active {
+  background-color: var(--pink-nova);
 }
 
 .content {
-  background-color: #102040;
+  background-color: rgba(0, 0, 0, 0.2);
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.4s ease-out;
