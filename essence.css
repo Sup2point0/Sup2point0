@@ -141,7 +141,7 @@ a:hover {
 }
 
 .delay {
-  animation-delay: var(--delay);
+  animation-delay: calc(var(--delay) * 1s);
 }
 
 /* specific */
