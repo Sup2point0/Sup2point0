@@ -130,8 +130,8 @@ a:hover {
 .anim {
   animation-fill-mode: backwards;
 }
-.anim-pop {
-  animation-name: anim-fade;
+.anim.pop {
+  animation-name: anim-pop;
   animation-duration: 0.5s;
   animation-timing-function: ease-out;
 }
@@ -139,11 +139,6 @@ a:hover {
   0% {
     opacity: 0;
     transform: scale(2, 2);
-  }
-}
-@keyframes anim-spin {
-  0% {
-    transform: rotate(360deg), scale(2, 2);
   }
 }
 
@@ -154,7 +149,15 @@ a:hover {
 /* specific */
 #portal {
   z-index: 1;
-  animation: 0.42s ease-out anim-spin, 2s ease-out anim-pop;
+  animation: 0.42s ease-out anim-spin-portal;
+}
+@keyframes anim-spin-portal {
+  0% {
+    transform: rotate(360deg), scale(2, 2);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
 }
 
 #sup {
