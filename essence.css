@@ -117,27 +117,23 @@ a:hover {
   transition: max-height 0.4s ease-out;
 }
 
-.animate {
+.anim {
   animation-fill-mode: backwards;
 }
-.animate.fade {
+.anim-pop {
   animation-name: anim-fade;
   animation-duration: 0.5s;
   animation-timing-function: ease-out;
 }
-@keyframes anim-fade {
-  0% {
-    opacity: 0;
-  }
-}
 @keyframes anim-pop {
   0% {
+    opacity: 0;
     transform: scale(2, 2);
   }
 }
 @keyframes anim-spin {
   0% {
-    transform: rotate(360deg);
+    transform: rotate(360deg), scale(2, 2);
   }
 }
 
