@@ -127,7 +127,16 @@ a:hover {
 @keyframes anim-fade {
   0% {
     opacity: 0;
+  }
+}
+@keyframes anim-pop {
+  0% {
     transform: scale(2, 2);
+  }
+}
+@keyframes anim-spin {
+  0% {
+    transform: rotate(360deg);
   }
 }
 
@@ -138,10 +147,7 @@ a:hover {
 /* specific */
 #portal {
   z-index: 1;
-  transition: transform 0.69s ease-in-out;
-}
-#portal:hover {
-  transform: rotate(360deg);
+  animation: 0.42s ease-out anim-spin, 2s ease-out anim-pop;
 }
 
 #sup {
