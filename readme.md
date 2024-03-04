@@ -8,10 +8,6 @@ An avid portal with way too much in their neural cortex.
 
 ---
 
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Antarctica.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Aventurina.png" width="360px">
-<!-- <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Arteria.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/NioTech.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Synactris.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Slytherclaw.png" width="360px"> -->
-
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/light.png" width="360px">
 
 
@@ -22,7 +18,7 @@ An avid portal with way too much in their neural cortex.
 <a href="https://bloons.fandom.com/wiki/User:Sup2point0"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Bloons Wiki.png" width="360px"> </a>
 
 
-## Qualitys
+## Qualities
 
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/introvert.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/curious.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/independent.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/driven.png" width="360px">
