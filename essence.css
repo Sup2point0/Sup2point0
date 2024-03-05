@@ -9,9 +9,10 @@
   --blue-nova: #4090f1;
   --blue-cresc: #c0f0ff;
   --blue-spirit: #70c7ff;
-  --blue-elec: #40e0ff;
+  --blue-sky: #45c7f1;
   --blue-ocean: #2070c1;
   --blue-deep: #145090;
+  --blue-elec: #40e0ff;
   --blue-night: #00172a;
   
   --pink-elec: #ff0090;
@@ -19,7 +20,11 @@
   --teal-elec: #40f190;
   --purp-nova: #9040f1;
   
-  --grey-nova: #90969e;
+  --grey-nova: #a9b0b8,
+  --grey-swallow: #dfe7f1,
+  --grey-spirit: #c7d0d9,
+  --grey-ocean: #90969e,
+  --grey-storm: #70767c,
 }
 
 /* high-level */
