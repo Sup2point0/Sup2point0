@@ -93,16 +93,22 @@ h3 {
 .row {
   display: flex;
   justify-content: space-evenly;
-  padding: 1em;
+  margin: 1em;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
 }
 .link-box {
-  background-color: var(--blue-deep);
+  background-color: hsl(var(--blue-deep) / 42%);
   color: #fff;
 }
 
 .footer {
   background-color: rgba(0, 0, 0, 0.2);
-  padding: 1rem;
+  margins: 1em;
   text-align: center;
   color: var(--grey-nova);
 }
@@ -193,3 +199,4 @@ a:hover {
 }
 
 h3 #loves {color: var(--pink-elec)}
+h3 #creations {color: var(--teal-elec)}
