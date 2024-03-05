@@ -14,9 +14,9 @@
   --blue-deep: #145090;
   --blue-night: #00172a;
   
-  --pink-nova: #ff0090;
+  --pink-elec: #ff0090;
   --pink-spirit: #f190f1;
-  --teal-electric: #40f190;
+  --teal-elec: #40f190;
   --purp-nova: #9040f1;
   
   --grey-nova: #90969e;
@@ -39,9 +39,12 @@ p {
   color: #fff;
 }
 
-::selection {
-  color: #fff;
-  background-color: var(--pink-nova);
+h1 {}
+
+h2 {}
+
+h3 {
+  font-family: var(--font-head);
 }
 
 /* section */
@@ -79,8 +82,17 @@ p {
   justify-content: space-evenly;
 }
 
-.sections {
+.explore {
   text-align: center;
+}
+.row {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1em;
+}
+.link-box {
+  background-color: var(--blue-deep);
+  color: #fff;
 }
 
 .footer {
@@ -91,12 +103,21 @@ p {
 }
 
 /* property */
+::selection {
+  color: #fff;
+  background-color: var(--pink-nova);
+}
+
 a {
   color: var(--pink-nova);
   transition: color 0.1s linear;
 }
 a:hover {
   color: var(--purp-nova);
+}
+
+.highlight {
+  color: var(--lilac-cresc);
 }
 
 .collapsible {
@@ -165,3 +186,5 @@ a:hover {
   top: 269px;
   z-index: 2;
 }
+
+h3 #loves {color: var(--pink-elec)}
