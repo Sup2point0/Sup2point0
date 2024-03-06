@@ -64,12 +64,17 @@ p {
 h1 {
   font-family: var(--font-head);
   font-weight: 700;
-  font-size: 3em;
+  font-size: 3.0em;
 }
 h2 {
   font-family: var(--font-head);
   font-weight: 600;
   font-size: 2.5em;
+}
+h3 {
+  font-family: var(--font-head);
+  font-weight: 500;
+  font-size: 2.0em;
 }
 
 /* section */
@@ -130,7 +135,7 @@ h2 {
   border-radius: 1em;
   background-color: var(--blue-sky);
   background-color: hsl(var(--blue-deep) / 80%);
-  width: 100px;
+  width: 30em;
   margin: 2em;
   color: #fff;
 }
