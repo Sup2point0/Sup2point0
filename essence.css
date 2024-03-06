@@ -225,7 +225,7 @@ a:hover {
 }
 
 #sup {
-/*   position: absolute; */
+  position: absolute;
   top: 269px;
   z-index: 2;
 }
