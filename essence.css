@@ -20,11 +20,11 @@
   --teal-elec: #40f190;
   --purp-nova: #9040f1;
   
-  --grey-nova: #a9b0b8,
-  --grey-swallow: #dfe7f1,
-  --grey-spirit: #c7d0d9,
-  --grey-ocean: #90969e,
-  --grey-storm: #70767c,
+  --grey-nova: #a9b0b8;
+  --grey-swallow: #dfe7f1;
+  --grey-spirit: #c7d0d9;
+  --grey-ocean: #90969e;
+  --grey-storm: #70767c;
 }
 
 /* high-level */
@@ -107,7 +107,7 @@ h3 {
 
 .footer {
   background-color: rgba(0, 0, 0, 0.2);
-  margins: 1em;
+  margin: 1em;
   text-align: center;
   color: var(--grey-nova);
 }
