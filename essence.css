@@ -152,11 +152,11 @@ h3 {
 }
 
 a {
-  color: var(--pink-nova);
+  color: var(--teal-lightning);
   transition: color 0.1s linear;
 }
 a:hover {
-  color: var(--purp-nova);
+  color: var(--purp-elec);
 }
 
 .highlight {
