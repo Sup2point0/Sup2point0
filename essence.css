@@ -133,7 +133,7 @@ h3 {
 .link-box {
   border-radius: 1em;
   background-color: var(--blue-sky);
-  background-color: hsl(var(--blue-deep) / 20%);
+  background-color: hsl(var(--blue-deep) / 80%);
   color: #fff;
   width: 42%;
 }
