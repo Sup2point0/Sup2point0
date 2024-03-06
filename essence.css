@@ -166,34 +166,6 @@ a:hover {
   color: var(--lilac-cresc);
 }
 
-.collapsible {
-  width: 90%;
-  background-color: var(--blue-deep);
-  border: none;
-  font-family: var(--font-head);
-  font-size: 1em;
-  color: #fff;
-  text-align: center;
-  padding: 1em;
-  transition: background-color 0.1s linear;
-}
-.collapsible:hover {
-  background-color: var(--pink-nova);
-}
-.collapsible.active {
-  background-color: var(--blue-ocean);
-}
-.collapsible.active:hover {
-  background-color: var(--purp-nova);
-}
-
-.content {
-  background-color: rgba(0, 0, 0, 0.2);
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.4s ease-out;
-}
-
 .anim {
   animation-fill-mode: backwards;
 }
@@ -233,5 +205,8 @@ a:hover {
   z-index: 2;
 }
 
-h3 #loves {color: var(--pink-elec)}
-h3 #creations {color: var(--teal-elec)}
+#loves h3 {color: var(--pink-elec)}
+#creations h3 {color: var(--teal-elec)}
+
+#languages h3 {color: var(--purp-nova)}
+#software h3 {color: var(--blue-elec)}
