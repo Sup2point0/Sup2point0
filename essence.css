@@ -3,8 +3,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 
 :root {
-  --font-head: 'Montserrat', 'Segoe UI Semibold', 'Segoe UI', sans-serif;
   --font-body: 'Abel', 'Segoe UI', sans-serif;
+  --font-head: 'Montserrat', 'Segoe UI Semibold', 'Segoe UI', sans-serif;
+  --font-h1: 'Montserrat Bold', 'Segoe UI Bold', sans-serif;
+  --font-h2: 'Montserrat Semibold', 'Segoe UI Semibold', sans-serif;
 
   --blue-nova: #4090f1;
   --blue-cresc: #c0f0ff;
@@ -62,18 +64,15 @@ p {
 }
 
 h1 {
-  font-family: var(--font-head);
-  font-weight: 700;
+  font-family: var(--font-h1);
   font-size: 3.0em;
 }
 h2 {
-  font-family: var(--font-head);
-  font-weight: 600;
+  font-family: var(--font-h2);
   font-size: 2.5em;
 }
 h3 {
-  font-family: var(--font-head);
-  font-weight: 500;
+  font-family: var(--font-h2);
   font-size: 2.0em;
 }
 
