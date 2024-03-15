@@ -5,6 +5,9 @@
 :root {
   --font-body: 'Abel', 'Segoe UI', system-ui, sans-serif;
   --font-head: 'Montserrat', 'Segoe UI Semibold', 'Segoe UI', system-ui, sans-serif;
+  --font-h1: 'Montserrat Bold';
+  --font-h2: 'Montserrat Semibold';
+  --font-h3: 'Montserrat Medium';
 
   /* NOTE colour variables defined in <nova.css> */
 }
