@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 
 :root {
-  --font-body: 'Abel', 'Segoe UI', sans-serif;
-  --font-head: 'Montserrat', 'Segoe UI Semibold', 'Segoe UI', sans-serif;
+  --font-body: 'Abel', 'Segoe UI', system-ui, sans-serif;
+  --font-head: 'Montserrat', 'Segoe UI Semibold', 'Segoe UI', system-ui, sans-serif;
 
   /* NOTE colour variables defined in <nova.css> */
 }
@@ -121,12 +121,17 @@ h3 {
 
 a {
   text-decoration: none;
-  color: var(--teal-lightning);
-  transition: color 0.1s linear;
+  color: var(--blue-cresc);
+  transition: color 0.07s linear;
 }
 a:hover {
-  color: var(--teal-elec);
+  color: var(--blue-elec);
 }
+a:visited {
+  color: var(--lilac-cresc);
+}
+a:visited:hover {
+  color: var(--lilac-nova);
 
 .highlight {
   color: var(--lilac-cresc);
@@ -171,8 +176,11 @@ a:hover {
   z-index: 2;
 }
 
+#aptitudes h3 {color: var(--yellow-solar)}
+#qualities h3 {color: var(--blue-nova)}
 #loves h3 {color: var(--pink-elec)}
 #creations h3 {color: var(--teal-elec)}
-
 #languages h3 {color: var(--purp-nova)}
 #software h3 {color: var(--blue-elec)}
+#achievements h3 {color: var(--aquamarine-accent)}
+#hopes-dreams h3 {color: var(--mellow-cresc)}
