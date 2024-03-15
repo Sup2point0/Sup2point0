@@ -176,11 +176,11 @@ a:visited:hover {
   z-index: 2;
 }
 
-#aptitudes h3 {color: var(--yellow-solar)}
-#qualities h3 {color: var(--blue-nova)}
-#loves h3 {color: var(--pink-elec)}
-#creations h3 {color: var(--teal-elec)}
+#aptitudes h3 a {color: var(--yellow-solar)}
+#qualities h3 a {color: var(--blue-nova)}
+#loves h3 a {color: var(--pink-elec)}
+#creations h3 a {color: var(--teal-elec)}
 #languages h3 {color: var(--purp-nova)}
 #software h3 {color: var(--blue-elec)}
 #achievements h3 {color: var(--aquamarine-accent)}
-#hopes-dreams h3 {color: var(--mellow-cresc)}
+#hopes-and-dreams h3 {color: var(--mellow-cresc)}
