@@ -5,9 +5,6 @@
 :root {
   --font-body: 'Abel', 'Segoe UI', system-ui, sans-serif;
   --font-head: 'Montserrat', 'Segoe UI Semibold', 'Segoe UI', system-ui, sans-serif;
-  --font-h1: 'Montserrat Bold';
-  --font-h2: 'Montserrat Semibold';
-  --font-h3: 'Montserrat Medium';
 
   /* NOTE colour variables defined in <nova.css> */
 }
@@ -30,18 +27,18 @@ p {
 }
 
 h1 {
-  font-family: var(--font-h1);
+  font-family: var(--font-head);
   font-weight: 700;
   font-size: 3.0em;
 }
 h2 {
-  font-family: var(--font-h2);
-  font-weight: 700;
+  font-family: var(--font-head);
+  font-weight: 600;
   font-size: 2.5em;
 }
 h3 {
-  font-family: var(--font-h2);
-  font-weight: 700;
+  font-family: var(--font-head);
+  font-weight: 500;
   font-size: 2.0em;
 }
 
@@ -135,6 +132,7 @@ a:visited {
 }
 a:visited:hover {
   color: var(--lilac-nova);
+}
 
 .highlight {
   color: var(--lilac-cresc);
