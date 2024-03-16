@@ -100,10 +100,9 @@ h3 {
 .link-box {
   border-radius: 1em;
   background-color: var(--blue-sky);
-  background-color: hsl(var(--blue-deep) / 80%);
+/*   background-color: hsl(var(--blue-deep) / 80%); */
   width: 27em;
   margin: 2em;
-  color: #fff;
 }
 
 .footer {
