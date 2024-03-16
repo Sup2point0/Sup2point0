@@ -181,7 +181,7 @@ a:visited:hover {
 #qualities h3 a {color: var(--blue-nova)}
 #loves h3 a {color: var(--pink-elec)}
 #creations h3 a {color: var(--teal-elec)}
-#languages h3 {color: var(--purp-nova)}
-#software h3 {color: var(--blue-elec)}
-#achievements h3 {color: var(--aquamarine-accent)}
-#hopes-and-dreams h3 {color: var(--mellow-cresc)}
+#languages h3 a {color: var(--purp-nova)}
+#software h3 a {color: var(--blue-elec)}
+#achievements h3 a {color: var(--aquamarine-accent)}
+#hopes-and-dreams h3 a {color: var(--mellow-cresc)}
