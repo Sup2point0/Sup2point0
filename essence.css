@@ -90,6 +90,7 @@ h3 {
 }
 .link-box {
   border-radius: 2em;
+  background-color: rgba(0, 0, 0, 0.69);
   background-color: color-mix(in srgb, var(--blue-deep) 20%, transparent);
   width: 30em;
   height: 12em;
@@ -100,6 +101,7 @@ h3 {
 }
 .link-box:hover {
   background-color: color-mix(in srgb, var(--blue-deep) 40%, transparent);
+  border: 1px solid #ffffff99;
 }
 
 .footer {
