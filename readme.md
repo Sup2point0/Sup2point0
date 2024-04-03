@@ -49,7 +49,7 @@ Heads up y'all, we're currently UNDER CONSTRUCTION
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/HTML.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/CSS.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Swift.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/CS.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Markdown.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/LATEX.png" width="360px">
-<!-- <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/supcode.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Carbon.png" width="360px"> -->
+<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/supcode.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Carbon.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/SQL.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/MATLAB.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/JSON.png" width="360px">
 
