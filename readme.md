@@ -10,6 +10,8 @@ An avid portal with way too much in their neural cortex.
 
 Heads up y'all, we're currently UNDER CONSTRUCTION  
 
+<!--
+
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/light.png" width="360px">
 
 
@@ -50,5 +52,7 @@ Heads up y'all, we're currently UNDER CONSTRUCTION
 <!-- <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/supcode.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Carbon.png" width="360px"> -->
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/SQL.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/MATLAB.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/JSON.png" width="360px">
+
+-->
 
 </div>
