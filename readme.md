@@ -8,9 +8,7 @@ An avid portal with way too much in their neural cortex.
 
 ---
 
-> [!NOTE]
-> Heads up y'all, we're currently  
-> UNDER CONSTRUCTION  
+Heads up y'all, we're currently UNDER CONSTRUCTION  
 
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/light.png" width="360px">
 
