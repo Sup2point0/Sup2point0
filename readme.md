@@ -66,6 +66,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ---
 
-[ VIEW FULL PROFILE ](https://github.com/Sup2point0/Assort/blob/origin/sup.md)
+[ [ **VIEW FULL PROFILE** ](https://github.com/Sup2point0/Assort/blob/origin/sup.md) ]
 
 </div>
