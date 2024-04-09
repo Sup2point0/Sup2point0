@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Sup2point0/Assort/blob/origin/sup.md">
-  <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/sup.png" width="690px">
+  <img width="690px" src=".assets/sup.png">
 </a>
 
 An avid portal with way too much in their neural cortex.
@@ -17,6 +17,11 @@ Um, carrots are cool. Also light mode is awesome.
 If you’re new here, you could drop into my [site<sup>↗</sup>](https://sup2point0.github.io). If you’re bored and feel like delving into my universe, my super-repo [*Assort*](https://github.com/Sup2point0/Assort) is literally endless – and who knows, maybe by the time you finish all of it I’ll have added twice as many files! (not really)
 
 Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to explore ;)
+
+
+## Languages
+
+<img width="169px" src=".assets/usertiles/python.png">
 
 
 <!--
