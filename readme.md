@@ -21,7 +21,18 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ## Languages
 
-<img width="169px" src=".assets/usertiles/python.png">
+<img height="42px" src=".assets/usertiles/python.png">
+<img height="42px" src=".assets/usertiles/csharp.png">
+<img height="42px" src=".assets/usertiles/html.png">
+<img height="42px" src=".assets/usertiles/css.png">
+
+<img height="42px" src=".assets/usertiles/markdown.png">
+<img height="42px" src=".assets/usertiles/latex.png">
+<img height="42px" src=".assets/usertiles/json.png">
+
+
+## Technologies
+<img height="42px" src=".assets/usertiles/unity.png">
 
 
 <!--
