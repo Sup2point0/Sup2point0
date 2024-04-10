@@ -31,11 +31,32 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ---
 
+<img height="42px" alt="Antarctica" src=".assets/usertiles/antarctica.png">
+<img height="42px" alt="Aventurina" src=".assets/usertiles/aventurina.png">
 <img height="42px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
+
+
+## Qualities
+
+<img height="42px" src=".assets/usertiles/introvert.png">
+<img height="42px" src=".assets/usertiles/curious.png">
+<img height="42px" src=".assets/usertiles/independent.png">
+<img height="42px" src=".assets/usertiles/driven.png">
+<img height="42px" src=".assets/usertiles/creative.png">
+<img height="42px" src=".assets/usertiles/focused.png">
+<img height="42px" src=".assets/usertiles/serene.png">
+<img height="42px" src=".assets/usertiles/overthinking.png">
+<img height="42px" src=".assets/usertiles/turbulent.png">
+<img height="42px" src=".assets/usertiles/nihilist.png">
 
 
 ## Languages
 
+<img height="42px" src=".assets/usertiles/english.png">
+<img height="42px" src=".assets/usertiles/chinese.png">
+<img height="42px" src=".assets/usertiles/french.png">
+<img height="42px" src=".assets/usertiles/same.png">
+<br>
 <img height="42px" src=".assets/usertiles/python.png">
 <img height="42px" src=".assets/usertiles/csharp.png">
 <img height="42px" src=".assets/usertiles/html.png">
@@ -49,11 +70,37 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 
 ## Technologies
+
 <img height="42px" src=".assets/usertiles/vscode.png">
 <img height="42px" src=".assets/usertiles/unity.png">
 <img height="42px" src=".assets/usertiles/powerpoint.png">
+<img height="42px" src=".assets/usertiles/excel.png">
 <img height="42px" src=".assets/usertiles/replit.png">
 <img height="42px" src=".assets/usertiles/musescore.png">
+
+
+## Loves
+
+<img height="42px" src=".assets/usertiles/game-dev.png">
+<img height="42px" src=".assets/usertiles/programming.png">
+<img height="42px" src=".assets/usertiles/graphic-design.png">
+<img height="42px" src=".assets/usertiles/music.png">
+<img height="42px" src=".assets/usertiles/reading.png">
+<br>
+<img height="42px" src=".assets/usertiles/organic-chemistry.png">
+<img height="42px" src=".assets/usertiles/geometry.png">
+<img height="42px" src=".assets/usertiles/complex-numbers.png">
+<img height="42px" src=".assets/usertiles/electronic-music.png">
+<img height="42px" src=".assets/usertiles/languages.png">
+
+
+## Aptitudes
+
+<img height="42px" src=".assets/usertiles/professional-procrastinator.png">
+<img height="42px" src=".assets/usertiles/typing-speed.png">
+<img height="42px" src=".assets/usertiles/rubix-record.png">
+
+
 
 
 <!--
