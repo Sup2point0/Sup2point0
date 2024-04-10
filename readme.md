@@ -7,15 +7,17 @@
 An avid portal with way too much in their neural cortex.
 
 <a href="https://sup2point0.github.io">
-  <img height="42px" alt="sup2point0.github.io" src=".assets/usertiles/site.png"> </a>
+  <img height="42px" alt="sup2point0.github.io" src=".assets/usertiles/site.png"></a>
 <a href="https://soundcloud.com/Sup2point0">
-  <img height="42px" alt="SoundCloud" src=".assets/usertiles/soundcloud.png"> </a>
+  <img height="42px" alt="SoundCloud" src=".assets/usertiles/pro-soundcloud.png"></a>
 <a href="https://scratch.mit.edu/users/Sup2point0">
-  <img height="42px" alt="Scratch" src=".assets/usertiles/scratch.png"> </a>
+  <img height="42px" alt="reddit" src=".assets/usertiles/pro-reddit.png"></a>
+<a href="https://reddit.com/u/Sup2pointO">
+  <img height="42px" alt="Scratch" src=".assets/usertiles/pro-scratch.png"></a>
 <a href="https://soundcloud.com/sup2point0">
-  <img height="42px" alt="Bloons Wiki" src=".assets/usertiles/bloons-wiki.png"> </a>
+  <img height="42px" alt="Bloons Wiki" src=".assets/usertiles/pro-bloons-wiki.png"></a>
 <a href="https://plantsvszombies.fandom.com/wiki/User:Sup2point0">
-  <img height="42px" alt="PvZ Wiki" src=".assets/usertiles/pvz-wiki.png"> </a>
+  <img height="42px" alt="PvZ Wiki" src=".assets/usertiles/pro-pvz-wiki.png"></a>
 
 ---
 
@@ -91,7 +93,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="42px" src=".assets/usertiles/geometry.png">
 <img height="42px" src=".assets/usertiles/complex-numbers.png">
 <img height="42px" src=".assets/usertiles/electronic-music.png">
-<img height="42px" src=".assets/usertiles/languages.png">
+<img height="42px" src=".assets/usertiles/language.png">
 
 
 ## Aptitudes
