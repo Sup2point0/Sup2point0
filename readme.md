@@ -14,10 +14,6 @@ An avid portal with way too much in their neural cortex.
   <img height="42px" alt="reddit" src=".assets/usertiles/pro-reddit.png"></a>
 <a href="https://reddit.com/u/Sup2pointO">
   <img height="42px" alt="Scratch" src=".assets/usertiles/pro-scratch.png"></a>
-<a href="https://soundcloud.com/sup2point0">
-  <img height="42px" alt="Bloons Wiki" src=".assets/usertiles/pro-bloons-wiki.png"></a>
-<a href="https://plantsvszombies.fandom.com/wiki/User:Sup2point0">
-  <img height="42px" alt="PvZ Wiki" src=".assets/usertiles/pro-pvz-wiki.png"></a>
 
 ---
 
@@ -86,7 +82,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="42px" src=".assets/usertiles/game-dev.png">
 <img height="42px" src=".assets/usertiles/programming.png">
 <img height="42px" src=".assets/usertiles/graphic-design.png">
-<img height="42px" src=".assets/usertiles/music.png">
+<img height="42px" src=".assets/usertiles/music-creation.png">
 <img height="42px" src=".assets/usertiles/reading.png">
 <br>
 <img height="42px" src=".assets/usertiles/organic-chemistry.png">
