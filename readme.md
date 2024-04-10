@@ -6,6 +6,17 @@
 
 An avid portal with way too much in their neural cortex.
 
+<a href="https://sup2point0.github.io">
+  <img height="42px" alt="sup2point0.github.io" src=".assets/usertiles/site.png"> </a>
+<a href="https://soundcloud.com/Sup2point0">
+  <img height="42px" alt="SoundCloud" src=".assets/usertiles/soundcloud.png"> </a>
+<a href="https://scratch.mit.edu/users/Sup2point0">
+  <img height="42px" alt="Scratch" src=".assets/usertiles/scratch.png"> </a>
+<a href="https://soundcloud.com/sup2point0">
+  <img height="42px" alt="Bloons Wiki" src=".assets/usertiles/bloons-wiki.png"> </a>
+<a href="https://plantsvszombies.fandom.com/wiki/User:Sup2point0">
+  <img height="42px" alt="PvZ Wiki" src=".assets/usertiles/pvz-wiki.png"> </a>
+
 ---
 
 \o sup, I’m Sup o7
@@ -18,6 +29,10 @@ If you’re new here, you could drop into my [site<sup>↗</sup>](https://sup2po
 
 Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to explore ;)
 
+---
+
+<img height="42px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
+
 
 ## Languages
 
@@ -25,27 +40,23 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="42px" src=".assets/usertiles/csharp.png">
 <img height="42px" src=".assets/usertiles/html.png">
 <img height="42px" src=".assets/usertiles/css.png">
-
+<img height="42px" src=".assets/usertiles/javascript.png">
+<br>
+<img height="42px" src=".assets/usertiles/scratch.png">
 <img height="42px" src=".assets/usertiles/markdown.png">
 <img height="42px" src=".assets/usertiles/latex.png">
 <img height="42px" src=".assets/usertiles/json.png">
 
 
 ## Technologies
+<img height="42px" src=".assets/usertiles/vscode.png">
 <img height="42px" src=".assets/usertiles/unity.png">
+<img height="42px" src=".assets/usertiles/powerpoint.png">
+<img height="42px" src=".assets/usertiles/replit.png">
+<img height="42px" src=".assets/usertiles/musescore.png">
 
 
 <!--
-
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/light.png" width="360px">
-
-
-## Profiles
-
-<a href="https://scratch.mit.edu/users/Sup2point0"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Scratcher.png" width="360px"> </a> <a href="https://community.fandom.com/wiki/User:Sup2point0"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Fandom.png" width="360px"> </a>
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/reddit.png" width="360px">
-<a href="https://bloons.fandom.com/wiki/User:Sup2point0"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Bloons Wiki.png" width="360px"> </a>
-
 
 ## Qualities
 
@@ -66,18 +77,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/geometrics.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/complex.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/electronic.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/epic.png" width="360px">
 <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/language.png" width="360px">
-
-
-## Programming Languages
-
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Scratch.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Python.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/HTML.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/CSS.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Swift.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/CS.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Markdown.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/LATEX.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/supcode.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/Carbon.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/SQL.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/MATLAB.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/JSON.png" width="360px">
-
 -->
 
 ---
