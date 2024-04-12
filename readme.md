@@ -34,20 +34,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="42px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
 
 
-## Qualities
-
-<img height="42px" src=".assets/usertiles/introvert.png">
-<img height="42px" src=".assets/usertiles/curious.png">
-<img height="42px" src=".assets/usertiles/independent.png">
-<img height="42px" src=".assets/usertiles/driven.png">
-<img height="42px" src=".assets/usertiles/creative.png">
-<img height="42px" src=".assets/usertiles/focused.png">
-<img height="42px" src=".assets/usertiles/serene.png">
-<img height="42px" src=".assets/usertiles/overthinking.png">
-<img height="42px" src=".assets/usertiles/turbulent.png">
-<img height="42px" src=".assets/usertiles/nihilist.png">
-
-
 ## Languages
 
 <img height="42px" src=".assets/usertiles/english.png">
@@ -99,30 +85,19 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="42px" src=".assets/usertiles/rubix-record.png">
 
 
-
-
-<!--
-
 ## Qualities
 
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/introvert.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/curious.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/independent.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/driven.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/creative.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/focused.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/turbulent.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/nihilist.png" width="360px">
+<img height="42px" src=".assets/usertiles/introvert.png">
+<img height="42px" src=".assets/usertiles/curious.png">
+<img height="42px" src=".assets/usertiles/independent.png">
+<img height="42px" src=".assets/usertiles/driven.png">
+<img height="42px" src=".assets/usertiles/creative.png">
+<img height="42px" src=".assets/usertiles/focused.png">
+<img height="42px" src=".assets/usertiles/serene.png">
+<img height="42px" src=".assets/usertiles/overthinking.png">
+<img height="42px" src=".assets/usertiles/turbulent.png">
+<img height="42px" src=".assets/usertiles/nihilist.png">
 
-
-## Interests
-
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/gamedev.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/programming.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/graphics.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/composition.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/piano.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/drums.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/reading.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/tennis.png" width="360px">
-
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/organic.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/biochemistry.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/geometrics.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/complex.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/electronic.png" width="360px"> <img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/epic.png" width="360px">
-<img src="https://github.com/Sup2point0/Assort/blob/origin/.assets/sup/language.png" width="360px">
--->
 
 ---
 
