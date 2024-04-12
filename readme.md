@@ -61,6 +61,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="42px" src=".assets/usertiles/excel.png">
 <img height="42px" src=".assets/usertiles/replit.png">
 <img height="42px" src=".assets/usertiles/musescore.png">
+<img height="42px" src=".assets/usertiles/chemdraw.png">
 
 
 ## Loves
