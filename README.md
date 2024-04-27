@@ -32,7 +32,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 ---
 
 <img height="37px" alt="Antarctica" src=".assets/usertiles/antarctica.png">
-<img height="37px" alt="Aventurina" src=".assets/usertiles/aventurina.png">
+<img height="37px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
 <img height="37px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
 
 
@@ -45,6 +45,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <br>
 <img height="37px" src=".assets/usertiles/python.png">
 <img height="37px" src=".assets/usertiles/csharp.png">
+<!-- <img height="37px" src=".assets/usertiles/swift.png"> -->
 <img height="37px" src=".assets/usertiles/html.png">
 <img height="37px" src=".assets/usertiles/css.png">
 <img height="37px" src=".assets/usertiles/javascript.png">
@@ -87,11 +88,11 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 <img height="37px" src=".assets/usertiles/game-dev.png">
 <img height="37px" src=".assets/usertiles/graphic-design.png">
-<img height="37px" src=".assets/usertiles/music-creation.png">
-<!-- <img height="37px" src=".assets/usertiles/music.png"> -->
+<img height="37px" src=".assets/usertiles/music.png">
+<img height="37px" src=".assets/usertiles/card-games.png">
+<img height="37px" src=".assets/usertiles/reading.png">
 <img height="37px" src=".assets/usertiles/organic-chemistry.png">
 <img height="37px" src=".assets/usertiles/geometry.png">
-<img height="37px" src=".assets/usertiles/reading.png">
 <img height="37px" src=".assets/usertiles/language.png">
 
 
