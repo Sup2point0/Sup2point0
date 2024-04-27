@@ -57,6 +57,9 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/json.png">
 
 
+<details>
+  <summary> <b> View More </b> </summary>
+
 ## Technologies
 
 <img height="37px" src=".assets/usertiles/numpy.png">
@@ -120,5 +123,8 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 ---
 
 [ [ **VIEW FULL PROFILE** ](https://github.com/Sup2point0/Assort/blob/origin/sup.md) ]
+
+</details>
+
 
 </div>
