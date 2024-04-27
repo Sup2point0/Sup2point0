@@ -57,16 +57,14 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/json.png">
 
 
-<details>
-  <summary> <b> View More </b> </summary>
-
 ## Technologies
 
+<img height="37px" src=".assets/usertiles/nextcord.png">
+<img height="37px" src=".assets/usertiles/discord-py.png">
+<img height="37px" src=".assets/usertiles/matplotlib.png">
 <img height="37px" src=".assets/usertiles/numpy.png">
 <img height="37px" src=".assets/usertiles/tensorflow.png">
 <img height="37px" src=".assets/usertiles/keras.png">
-<img height="37px" src=".assets/usertiles/discord-py.png">
-<img height="37px" src=".assets/usertiles/nextcord.png">
 <img height="37px" src=".assets/usertiles/pytest.png">
 
 
@@ -81,8 +79,8 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <br>
 <img height="37px" src=".assets/usertiles/powerpoint.png">
 <img height="37px" src=".assets/usertiles/excel.png">
+<img height="37px" src=".assets/usertiles/garage-band.png">
 <img height="37px" src=".assets/usertiles/desmos.png">
-<!-- <img height="37px" src=".assets/usertiles/garage-band.png"> -->
 <img height="37px" src=".assets/usertiles/musescore.png">
 <img height="37px" src=".assets/usertiles/chemdraw.png">
 
@@ -122,9 +120,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ---
 
-[ [ **VIEW FULL PROFILE** ](https://github.com/Sup2point0/Assort/blob/origin/sup.md) ]
-
-</details>
+[ [ **VIEW MORE** ](https://github.com/Sup2point0/Assort/blob/origin/sup.md) ]
 
 
 </div>
