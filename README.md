@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Sup2point0/Assort/blob/origin/sup.md">
-  <img width="690px" src=".assets/sup.png">
+  <img width="690px" src=".assets/sup.png" title="Haha! You found this!">
 </a>
 
 An avid portal with way too much in their neural cortex.
@@ -17,7 +17,7 @@ An avid portal with way too much in their neural cortex.
 
 ---
 
-\o sup, I’m Sup o7
+sup, I’m Sup o/
 
 Damn, there’s so much I want to include here that I don’t know what to put here.
 
@@ -35,6 +35,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
 <img height="37px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
 
+<!-- content kinda ordered in significance -->
 
 ## Languages
 
@@ -100,8 +101,10 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 ## Aptitudes
 
 <img height="37px" src=".assets/usertiles/professional-procrastinator.png">
-<img height="37px" src=".assets/usertiles/typing-speed.png">
-<img height="37px" src=".assets/usertiles/rubix-record.png">
+<img height="37px" src=".assets/usertiles/typing-speed.png"
+  title="Raw record of just over 150 WPM (no caps or special characters) but I average out anywhere above 100 WPM, really. Limiting factor is usually my mind struggling to keep up with my fingers 0.o">
+<img height="37px" src=".assets/usertiles/rubix-record.png"
+  title="This was like, 7 years ago at this point, btw – altho I still can solve a Rubik’s Cube decently quickly (I think)">
 
 
 ## Qualities
@@ -124,3 +127,5 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 
 </div>
+
+<!-- bit long, yeah, but I really couldn’t bring myself to exclude any of it :v -->
