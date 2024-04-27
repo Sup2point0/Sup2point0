@@ -48,7 +48,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/html.png">
 <img height="37px" src=".assets/usertiles/css.png">
 <img height="37px" src=".assets/usertiles/javascript.png">
-<img height="37px" src=".assets/usertiles/sqlite.png">
+<img height="37px" src=".assets/usertiles/sql.png">
 <br>
 <img height="37px" src=".assets/usertiles/scratch.png">
 <img height="37px" src=".assets/usertiles/markdown.png">
@@ -61,6 +61,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/git.png">
 <img height="37px" src=".assets/usertiles/github-actions.png">
 <img height="37px" src=".assets/usertiles/codespaces.png">
+<br>
 <img height="37px" src=".assets/usertiles/numpy.png">
 <img height="37px" src=".assets/usertiles/tensorflow.png">
 <img height="37px" src=".assets/usertiles/keras.png">
@@ -84,7 +85,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 ## Loves
 
 <img height="37px" src=".assets/usertiles/game-dev.png">
-<img height="37px" src=".assets/usertiles/programming.png">
 <img height="37px" src=".assets/usertiles/graphic-design.png">
 <img height="37px" src=".assets/usertiles/music-creation.png">
 <img height="37px" src=".assets/usertiles/reading.png">
