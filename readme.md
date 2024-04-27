@@ -58,10 +58,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ## Technologies
 
-<img height="37px" src=".assets/usertiles/git.png">
-<img height="37px" src=".assets/usertiles/github-actions.png">
-<img height="37px" src=".assets/usertiles/codespaces.png">
-<br>
 <img height="37px" src=".assets/usertiles/numpy.png">
 <img height="37px" src=".assets/usertiles/tensorflow.png">
 <img height="37px" src=".assets/usertiles/keras.png">
@@ -72,12 +68,17 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ## Applications
 
+<img height="37px" src=".assets/usertiles/git.png">
 <img height="37px" src=".assets/usertiles/vscode.png">
 <img height="37px" src=".assets/usertiles/unity.png">
+<img height="37px" src=".assets/usertiles/github-actions.png">
+<img height="37px" src=".assets/usertiles/codespaces.png">
+<img height="37px" src=".assets/usertiles/replit.png">
+<br>
 <img height="37px" src=".assets/usertiles/powerpoint.png">
 <img height="37px" src=".assets/usertiles/excel.png">
-<img height="37px" src=".assets/usertiles/replit.png">
 <img height="37px" src=".assets/usertiles/desmos.png">
+<!-- <img height="37px" src=".assets/usertiles/garage-band.png"> -->
 <img height="37px" src=".assets/usertiles/musescore.png">
 <img height="37px" src=".assets/usertiles/chemdraw.png">
 
@@ -87,12 +88,10 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/game-dev.png">
 <img height="37px" src=".assets/usertiles/graphic-design.png">
 <img height="37px" src=".assets/usertiles/music-creation.png">
-<img height="37px" src=".assets/usertiles/reading.png">
-<br>
+<!-- <img height="37px" src=".assets/usertiles/music.png"> -->
 <img height="37px" src=".assets/usertiles/organic-chemistry.png">
 <img height="37px" src=".assets/usertiles/geometry.png">
-<img height="37px" src=".assets/usertiles/complex-numbers.png">
-<img height="37px" src=".assets/usertiles/electronic-music.png">
+<img height="37px" src=".assets/usertiles/reading.png">
 <img height="37px" src=".assets/usertiles/language.png">
 
 
