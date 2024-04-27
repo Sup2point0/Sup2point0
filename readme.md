@@ -58,6 +58,9 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ## Technologies
 
+<img height="37px" src=".assets/usertiles/git.png">
+<img height="37px" src=".assets/usertiles/github-actions.png">
+<img height="37px" src=".assets/usertiles/codespaces.png">
 <img height="37px" src=".assets/usertiles/numpy.png">
 <img height="37px" src=".assets/usertiles/tensorflow.png">
 <img height="37px" src=".assets/usertiles/keras.png">
@@ -73,6 +76,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/powerpoint.png">
 <img height="37px" src=".assets/usertiles/excel.png">
 <img height="37px" src=".assets/usertiles/replit.png">
+<img height="37px" src=".assets/usertiles/desmos.png">
 <img height="37px" src=".assets/usertiles/musescore.png">
 <img height="37px" src=".assets/usertiles/chemdraw.png">
 
