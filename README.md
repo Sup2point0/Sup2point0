@@ -79,10 +79,10 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/replit.png">
 <br>
 <img height="37px" src=".assets/usertiles/powerpoint.png">
-<img height="37px" src=".assets/usertiles/excel.png">
 <img height="37px" src=".assets/usertiles/garage-band.png">
 <img height="37px" src=".assets/usertiles/desmos.png">
 <img height="37px" src=".assets/usertiles/musescore.png">
+<img height="37px" src=".assets/usertiles/excel.png">
 <img height="37px" src=".assets/usertiles/chemdraw.png">
 
 
