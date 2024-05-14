@@ -55,7 +55,11 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/scratch.png">
 <img height="37px" src=".assets/usertiles/markdown.png">
 <img height="37px" src=".assets/usertiles/latex.png">
+<img height="37px" src=".assets/usertiles/regex.png">
 <img height="37px" src=".assets/usertiles/json.png">
+<img height="37px" src=".assets/usertiles/json-schema.png">
+<img height="37px" src=".assets/usertiles/yaml.png">
+<img height="37px" src=".assets/usertiles/toml.png">
 
 
 ## Technologies
@@ -66,6 +70,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/numpy.png">
 <img height="37px" src=".assets/usertiles/tensorflow.png">
 <img height="37px" src=".assets/usertiles/keras.png">
+<img height="37px" src=".assets/usertiles/sqla.png">
 <img height="37px" src=".assets/usertiles/pytest.png">
 
 
