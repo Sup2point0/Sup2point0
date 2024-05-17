@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/Sup2point0/Assort/blob/origin/sup.md">
-  <img width="690px" src=".assets/sup.png" title="Haha! You found this!">
+  <img width="690px" alt="Sup#2.0" src=".assets/sup.png" title="Haha! You found this!">
 </a>
 
-An avid portal with way too much in their neural cortex.
+[**An avid portal with way too much in their neural cortex.**](https://sup2point0.github.io/creations)
 
 <a href="https://sup2point0.github.io">
   <img height="37px" alt="sup2point0.github.io" src=".assets/usertiles/site.png"></a>
@@ -37,7 +37,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 <!-- content kinda ordered in significance -->
 
-## Languages
+## [Languages](https://sup2point0.github.io/programming-languages)
 
 <img height="37px" src=".assets/usertiles/english.png">
 <img height="37px" src=".assets/usertiles/chinese.png">
@@ -59,7 +59,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/json.png">
 <img height="37px" src=".assets/usertiles/json-schema.png">
 <img height="37px" src=".assets/usertiles/yaml.png">
-<img height="37px" src=".assets/usertiles/toml.png">
+<!-- <img height="37px" src=".assets/usertiles/toml.png"> -->
 
 
 ## Technologies
@@ -92,7 +92,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="37px" src=".assets/usertiles/chemdraw.png">
 
 
-## Loves
+## [Loves](https://sup2point0.github.io/loves)
 
 <img height="37px" src=".assets/usertiles/game-dev.png">
 <img height="37px" src=".assets/usertiles/graphic-design.png">
