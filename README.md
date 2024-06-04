@@ -7,13 +7,13 @@
 [**An avid portal with way too much in their neural cortex.**](https://sup2point0.github.io/creations)
 
 <a href="https://sup2point0.github.io">
-  <img height="37px" alt="sup2point0.github.io" src=".assets/usertiles/site.png"></a>
+  <img height="36px" alt="sup2point0.github.io" src=".assets/usertiles/site.png"></a>
 <a href="https://soundcloud.com/Sup2point0">
-  <img height="37px" alt="SoundCloud" src=".assets/usertiles/pro-soundcloud.png"></a>
+  <img height="36px" alt="SoundCloud" src=".assets/usertiles/pro-soundcloud.png"></a>
 <a href="https://scratch.mit.edu/users/Sup2point0">
-  <img height="37px" alt="reddit" src=".assets/usertiles/pro-reddit.png"></a>
+  <img height="36px" alt="reddit" src=".assets/usertiles/pro-reddit.png"></a>
 <a href="https://reddit.com/u/Sup2pointO">
-  <img height="37px" alt="Scratch" src=".assets/usertiles/pro-scratch.png"></a>
+  <img height="36px" alt="Scratch" src=".assets/usertiles/pro-scratch.png"></a>
 
 ---
 
@@ -31,100 +31,103 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ---
 
-<img height="37px" alt="Antarctica" src=".assets/usertiles/antarctica.png">
-<img height="37px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
-<img height="37px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
+<img height="36px" alt="Antarctica" src=".assets/usertiles/antarctica.png">
+<img height="36px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
+<img height="36px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
 
 <!-- content kinda ordered in significance -->
 
 ## [Languages](https://sup2point0.github.io/programming-languages)
 
-<img height="37px" src=".assets/usertiles/english.png">
-<img height="37px" src=".assets/usertiles/chinese.png">
-<img height="37px" src=".assets/usertiles/french.png">
-<img height="37px" src=".assets/usertiles/same.png">
+<img height="36px" src=".assets/usertiles/english.png">
+<img height="36px" src=".assets/usertiles/chinese.png">
+<img height="36px" src=".assets/usertiles/french.png">
+<img height="36px" src=".assets/usertiles/same.png">
 <br>
-<img height="37px" src=".assets/usertiles/python.png">
-<img height="37px" src=".assets/usertiles/csharp.png">
-<!-- <img height="37px" src=".assets/usertiles/swift.png"> -->
-<img height="37px" src=".assets/usertiles/html.png">
-<img height="37px" src=".assets/usertiles/css.png">
-<img height="37px" src=".assets/usertiles/javascript.png">
-<img height="37px" src=".assets/usertiles/sql.png">
+<img height="36px" src=".assets/usertiles/python.png">
+<img height="36px" src=".assets/usertiles/csharp.png">
+<!-- <img height="36px" src=".assets/usertiles/swift.png"> -->
+<img height="36px" src=".assets/usertiles/html.png">
+<img height="36px" src=".assets/usertiles/css.png">
+<img height="36px" src=".assets/usertiles/scss.png">
+<img height="36px" src=".assets/usertiles/javascript.png">
+<img height="36px" src=".assets/usertiles/typescript.png">
+<img height="36px" src=".assets/usertiles/sql.png">
 <br>
-<img height="37px" src=".assets/usertiles/scratch.png">
-<img height="37px" src=".assets/usertiles/markdown.png">
-<img height="37px" src=".assets/usertiles/latex.png">
-<img height="37px" src=".assets/usertiles/regex.png">
-<img height="37px" src=".assets/usertiles/json.png">
-<img height="37px" src=".assets/usertiles/json-schema.png">
-<img height="37px" src=".assets/usertiles/yaml.png">
-<!-- <img height="37px" src=".assets/usertiles/toml.png"> -->
+<img height="36px" src=".assets/usertiles/scratch.png">
+<img height="36px" src=".assets/usertiles/markdown.png">
+<img height="36px" src=".assets/usertiles/latex.png">
+<img height="36px" src=".assets/usertiles/regex.png">
+<img height="36px" src=".assets/usertiles/json.png">
+<img height="36px" src=".assets/usertiles/json-schema.png">
+<img height="36px" src=".assets/usertiles/yaml.png">
+<!-- <img height="36px" src=".assets/usertiles/toml.png"> -->
 
 
 ## Technologies
 
-<img height="37px" src=".assets/usertiles/nextcord.png">
-<img height="37px" src=".assets/usertiles/discord-py.png">
-<img height="37px" src=".assets/usertiles/matplotlib.png">
-<img height="37px" src=".assets/usertiles/numpy.png">
-<img height="37px" src=".assets/usertiles/tensorflow.png">
-<img height="37px" src=".assets/usertiles/keras.png">
-<img height="37px" src=".assets/usertiles/sqla.png">
-<img height="37px" src=".assets/usertiles/pytest.png">
+<img height="36px" src=".assets/usertiles/sveltekit.png">
+<img height="36px" src=".assets/usertiles/nextcord.png">
+<img height="36px" src=".assets/usertiles/discord-py.png">
+<img height="36px" src=".assets/usertiles/matplotlib.png">
+<img height="36px" src=".assets/usertiles/numpy.png">
+<img height="36px" src=".assets/usertiles/tensorflow.png">
+<img height="36px" src=".assets/usertiles/keras.png">
+<img height="36px" src=".assets/usertiles/sqla.png">
+<img height="36px" src=".assets/usertiles/pytest.png">
 
 
 ## Applications
 
-<img height="37px" src=".assets/usertiles/git.png">
-<img height="37px" src=".assets/usertiles/vscode.png">
-<img height="37px" src=".assets/usertiles/unity.png">
-<img height="37px" src=".assets/usertiles/github-actions.png">
-<img height="37px" src=".assets/usertiles/codespaces.png">
-<img height="37px" src=".assets/usertiles/replit.png">
+<img height="36px" src=".assets/usertiles/git.png">
+<img height="36px" src=".assets/usertiles/vscode.png">
+<img height="36px" src=".assets/usertiles/unity.png">
+<img height="36px" src=".assets/usertiles/github-actions.png">
+<img height="36px" src=".assets/usertiles/codespaces.png">
+<img height="36px" src=".assets/usertiles/replit.png">
 <br>
-<img height="37px" src=".assets/usertiles/powerpoint.png">
-<img height="37px" src=".assets/usertiles/garage-band.png">
-<img height="37px" src=".assets/usertiles/desmos.png">
-<img height="37px" src=".assets/usertiles/molview.png">
-<img height="37px" src=".assets/usertiles/musescore.png">
-<img height="37px" src=".assets/usertiles/excel.png">
-<img height="37px" src=".assets/usertiles/chemdraw.png">
+<img height="36px" src=".assets/usertiles/powerpoint.png">
+<img height="36px" src=".assets/usertiles/garage-band.png">
+<img height="36px" src=".assets/usertiles/desmos.png">
+<img height="36px" src=".assets/usertiles/molview.png">
+<img height="36px" src=".assets/usertiles/musescore.png">
+<img height="36px" src=".assets/usertiles/excel.png">
+<img height="36px" src=".assets/usertiles/chemdraw.png">
 
 
 ## [Loves](https://sup2point0.github.io/loves)
 
-<img height="37px" src=".assets/usertiles/game-dev.png">
-<img height="37px" src=".assets/usertiles/graphic-design.png">
-<img height="37px" src=".assets/usertiles/music.png">
-<img height="37px" src=".assets/usertiles/card-games.png">
-<img height="37px" src=".assets/usertiles/reading.png">
-<img height="37px" src=".assets/usertiles/organic-chemistry.png">
-<img height="37px" src=".assets/usertiles/geometry.png">
-<img height="37px" src=".assets/usertiles/language.png">
+<img height="36px" src=".assets/usertiles/game-dev.png">
+<img height="36px" src=".assets/usertiles/graphic-design.png">
+<img height="36px" src=".assets/usertiles/music.png">
+<img height="36px" src=".assets/usertiles/card-games.png">
+<img height="36px" src=".assets/usertiles/reading.png">
+<img height="36px" src=".assets/usertiles/organic-chemistry.png">
+<img height="36px" src=".assets/usertiles/geometry.png">
+<img height="36px" src=".assets/usertiles/language.png">
 
 
 ## Aptitudes
 
-<img height="37px" src=".assets/usertiles/professional-procrastinator.png">
-<img height="37px" src=".assets/usertiles/typing-speed.png"
+<img height="36px" src=".assets/usertiles/professional-procrastinator.png">
+<img height="36px" src=".assets/usertiles/typing-speed.png"
   title="Raw record of just over 150 WPM (no caps or special characters) but I average out anywhere above 100 WPM, really. Limiting factor is usually my mind struggling to keep up with my fingers 0.o">
-<img height="37px" src=".assets/usertiles/rubix-record.png"
+<img height="36px" src=".assets/usertiles/rubix-record.png"
   title="This was like, 7 years ago at this point, btw – altho I still can solve a Rubik’s Cube decently quickly (I think)">
 
 
 ## Qualities
 
-<img height="37px" src=".assets/usertiles/introvert.png">
-<img height="37px" src=".assets/usertiles/curious.png">
-<img height="37px" src=".assets/usertiles/independent.png">
-<img height="37px" src=".assets/usertiles/driven.png">
-<img height="37px" src=".assets/usertiles/creative.png">
-<img height="37px" src=".assets/usertiles/focused.png">
-<img height="37px" src=".assets/usertiles/serene.png">
-<img height="37px" src=".assets/usertiles/overthinking.png">
-<img height="37px" src=".assets/usertiles/turbulent.png">
-<img height="37px" src=".assets/usertiles/nihilist.png">
+<img height="36px" src=".assets/usertiles/introvert.png">
+<img height="36px" src=".assets/usertiles/curious.png">
+<img height="36px" src=".assets/usertiles/independent.png">
+<img height="36px" src=".assets/usertiles/driven.png">
+<img height="36px" src=".assets/usertiles/creative.png">
+<img height="36px" src=".assets/usertiles/focused.png">
+<img height="36px" src=".assets/usertiles/serene.png">
+<img height="36px" src=".assets/usertiles/overthinking.png">
+<img height="36px" src=".assets/usertiles/turbulent.png">
+<img height="36px" src=".assets/usertiles/nihilist.png">
 
 
 ---
