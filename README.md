@@ -51,7 +51,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/css.png">
 <img height="36px" src=".assets/usertiles/scss.png">
 <img height="36px" src=".assets/usertiles/javascript.png">
-<img height="36px" src=".assets/usertiles/typescript.png">
+<!-- <img height="36px" src=".assets/usertiles/typescript.png"> -->
 <img height="36px" src=".assets/usertiles/sql.png">
 <br>
 <img height="36px" src=".assets/usertiles/scratch.png">
