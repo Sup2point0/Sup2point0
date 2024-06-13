@@ -51,20 +51,21 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/css.png">
 <img height="36px" src=".assets/usertiles/scss.png">
 <img height="36px" src=".assets/usertiles/javascript.png">
-<!-- <img height="36px" src=".assets/usertiles/typescript.png"> -->
-<img height="36px" src=".assets/usertiles/sql.png">
+<img height="36px" src=".assets/usertiles/typescript.png">
 <br>
 <img height="36px" src=".assets/usertiles/scratch.png">
 <img height="36px" src=".assets/usertiles/markdown.png">
 <img height="36px" src=".assets/usertiles/latex.png">
+<img height="36px" src=".assets/usertiles/sql.png">
 <img height="36px" src=".assets/usertiles/regex.png">
+<br>
 <img height="36px" src=".assets/usertiles/json.png">
 <img height="36px" src=".assets/usertiles/json-schema.png">
 <img height="36px" src=".assets/usertiles/yaml.png">
 <!-- <img height="36px" src=".assets/usertiles/toml.png"> -->
 
 
-## Technologies
+## Frameworks
 
 <img height="36px" src=".assets/usertiles/sveltekit.png">
 <img height="36px" src=".assets/usertiles/nextcord.png">
