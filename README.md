@@ -37,7 +37,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 <!-- content kinda ordered in significance -->
 
-## [Languages](https://sup2point0.github.io/programming-languages)
+## [Languages](https://sup2point0.github.io/self/programming-languages)
 
 <img height="36px" src=".assets/usertiles/english.png">
 <img height="36px" src=".assets/usertiles/chinese.png">
@@ -52,6 +52,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/scss.png">
 <img height="36px" src=".assets/usertiles/javascript.png">
 <img height="36px" src=".assets/usertiles/typescript.png">
+<img height="36px" src=".assets/usertiles/ruby.png">
 <img height="36px" src=".assets/usertiles/sql.png">
 <br>
 <img height="36px" src=".assets/usertiles/scratch.png">
@@ -77,7 +78,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/pytest.png">
 
 
-## Applications
+## [Applications](https://sup2point0.github.io/self/applications)
 
 <img height="36px" src=".assets/usertiles/git.png">
 <img height="36px" src=".assets/usertiles/vscode.png">
@@ -95,7 +96,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/chemdraw.png">
 
 
-## [Loves](https://sup2point0.github.io/loves)
+## [Loves](https://sup2point0.github.io/self/loves)
 
 <img height="36px" src=".assets/usertiles/game-dev.png">
 <img height="36px" src=".assets/usertiles/graphic-design.png">
@@ -116,7 +117,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
   title="This was like, 7 years ago at this point, btw – altho I still can solve a Rubik’s Cube decently quickly (I think)">
 
 
-## Qualities
+## [Qualities](https://sup2point0.github.io/self/qualities)
 
 <img height="36px" src=".assets/usertiles/introvert.png">
 <img height="36px" src=".assets/usertiles/curious.png">
