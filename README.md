@@ -46,25 +46,25 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <br>
 <img height="36px" src=".assets/usertiles/python.png">
 <img height="36px" src=".assets/usertiles/csharp.png">
+<img height="36px" src=".assets/usertiles/ruby.png">
 <!-- <img height="36px" src=".assets/usertiles/swift.png"> -->
+<br>
 <img height="36px" src=".assets/usertiles/html.png">
 <img height="36px" src=".assets/usertiles/css.png">
 <img height="36px" src=".assets/usertiles/scss.png">
 <img height="36px" src=".assets/usertiles/javascript.png">
 <img height="36px" src=".assets/usertiles/typescript.png">
-<img height="36px" src=".assets/usertiles/ruby.png">
-<img height="36px" src=".assets/usertiles/sql.png">
 <br>
 <img height="36px" src=".assets/usertiles/scratch.png">
 <img height="36px" src=".assets/usertiles/markdown.png">
 <img height="36px" src=".assets/usertiles/latex.png">
-<img height="36px" src=".assets/usertiles/sql.png">
-<img height="36px" src=".assets/usertiles/regex.png">
 <br>
 <img height="36px" src=".assets/usertiles/json.png">
 <img height="36px" src=".assets/usertiles/json-schema.png">
 <img height="36px" src=".assets/usertiles/yaml.png">
 <!-- <img height="36px" src=".assets/usertiles/toml.png"> -->
+<img height="36px" src=".assets/usertiles/sql.png">
+<img height="36px" src=".assets/usertiles/regex.png">
 
 
 ## Frameworks
