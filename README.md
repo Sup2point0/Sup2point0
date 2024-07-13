@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Sup2point0/Assort/blob/origin/sup.md">
-  <img width="690px" alt="Sup#2.0" src=".assets/sup.png" title="Haha! You found this!">
+  <img width="690px" alt="Sup#2.0" src=".assets/sup.png" title="ooh, what’s this?">
 </a>
 
 [**An avid portal with way too much in their neural cortex.**](https://sup2point0.github.io/creations)
@@ -23,7 +23,7 @@ Damn, there’s so much I want to include here that I don’t know what to put h
 
 Um, carrots are cool. Also light mode is awesome.
 
-If you’re new here, you could drop into my [site<sup>↗</sup>](https://sup2point0.github.io) (currently under development). If you’re bored and feel like delving into my universe, my super-repo [*Assort*](https://github.com/Sup2point0/Assort) is literally endless – and who knows, maybe by the time you finish all of it I’ll have added twice as many files! (not really)
+If you feel like delving into my universe, head to my super-repo [*Assort*](https://github.com/Sup2point0/Assort) or its [site](https://sup2point0.github.io/Assort)! Who knows, by the time you finish all of it perhaps I’ll have added twice as many files! (not really)
 
 I’ve had my fair share of catastrophic merge conflicts (and even merge-commit-less merge conflicts, would you believe it), tho I’m sure there’s ever more to come. Also don’t worry about my mildly ridiculous commit count, I have a lot of repos and often make micro-commits when on the go :v
 
@@ -34,7 +34,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <a href="https://github.com/Sup2point0/Antarctica">
   <img height="36px" alt="Antarctica" src=".assets/usertiles/antarctica.png"></a>
 <img height="36px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
-<img height="36px" src=".assets/usertiles/professional-procrastinator.png">
+<img height="36px" alt="Professional Procrastinator B)" src=".assets/usertiles/professional-procrastinator.png">
 <img height="36px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
 
 
@@ -135,7 +135,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/language.png">
 
 
-## [Qualities](https://sup2point0.github.io/self/qualities)
+## [Aptitudes](https://sup2point0.github.io/self/aptitudes)
 
 <img height="36px" src=".assets/usertiles/introvert.png">
 <img height="36px" src=".assets/usertiles/curious.png">
