@@ -96,7 +96,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/numpy.png">
 <img height="36px" src=".assets/usertiles/tensorflow.png">
 <img height="36px" src=".assets/usertiles/keras.png">
-<img height="36px" src=".assets/usertiles/sqla.png">
 <img height="36px" src=".assets/usertiles/pytest.png">
 
 
@@ -137,7 +136,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ## [Aptitudes](https://sup2point0.github.io/self/aptitudes)
 
-<img height="36px" src=".assets/usertiles/introvert.png">
 <img height="36px" src=".assets/usertiles/curious.png">
 <img height="36px" src=".assets/usertiles/independent.png">
 <img height="36px" src=".assets/usertiles/driven.png">
