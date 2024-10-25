@@ -1,18 +1,18 @@
 <div align="center">
 
-<a href="https://github.com/Sup2point0/Assort/blob/origin/sup.md">
+<a href="https://sup2point0.github.io">
   <img width="690px" alt="Sup#2.0" src=".assets/sup.png" title="ooh, what’s this?">
 </a>
 
-[**An avid portal with way too much in their neural cortex.**](https://sup2point0.github.io/creations)
+[**An avid portal with way too much in their neural cortex.**](https://sup2point0.github.io/Assort)
 
 <a href="https://sup2point0.github.io">
   <img height="36px" alt="sup2point0.github.io" src=".assets/usertiles/site.png"></a>
 <a href="https://soundcloud.com/Sup2point0">
   <img height="36px" alt="SoundCloud" src=".assets/usertiles/pro-soundcloud.png"></a>
-<a href="https://scratch.mit.edu/users/Sup2point0">
-  <img height="36px" alt="reddit" src=".assets/usertiles/pro-reddit.png"></a>
 <a href="https://reddit.com/u/Sup2pointO">
+  <img height="36px" alt="reddit" src=".assets/usertiles/pro-reddit.png"></a>
+<a href="https://scratch.mit.edu/users/Sup2point0">
   <img height="36px" alt="Scratch" src=".assets/usertiles/pro-scratch.png"></a>
 
 ---
@@ -23,7 +23,7 @@ Damn, there’s so much I want to have here that I don’t even know what to inc
 
 Um, carrots are cool. And light mode is awesome.
 
-If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site](https://sup2point0.github.io/Assort)! Who knows, by the time you finish all of it perhaps I’ll have added twice as many files... (not really)
+If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)! Who knows, by the time you finish all of it perhaps I’ll have added twice as many files... (not really)
 
 I’ve had my fair share of catastrophic merge conflicts (and merge-commit-less merge conflicts, would you believe it), tho I’m sure there’s ever more to come. Also don’t worry about my mildly ridiculous commit count, I have a lot of repos and often make micro-commits on the go :v
 
@@ -40,7 +40,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 <!-- content kinda ordered in significance -->
 
-## [Languages](https://sup2point0.github.io/self/programming-languages)
+## Languages
 
 <img height="36px" src=".assets/usertiles/english.png">
 <img height="36px" src=".assets/usertiles/chinese.png">
@@ -99,7 +99,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/pytest.png">
 
 
-## [Applications](https://sup2point0.github.io/self/applications)
+## Applications
 
 <img height="36px" src=".assets/usertiles/git.png">
 <img height="36px" src=".assets/usertiles/vscode.png">
@@ -122,7 +122,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/chemdraw.png">
 
 
-## [Loves](https://sup2point0.github.io/self/loves)
+## Loves
 
 <img height="36px" src=".assets/usertiles/game-dev.png">
 <img height="36px" src=".assets/usertiles/graphic-design.png">
@@ -134,7 +134,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/language.png">
 
 
-## [Aptitudes](https://sup2point0.github.io/self/aptitudes)
+## Aptitudes
 
 <img height="36px" src=".assets/usertiles/curious.png">
 <img height="36px" src=".assets/usertiles/independent.png">
