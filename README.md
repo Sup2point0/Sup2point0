@@ -15,7 +15,7 @@
 <a href="https://youtube.com/@SuppetySup">
   <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a>
 <a href="https://soundcloud.com/Sup2point0">
-  <img height="42px" alt="SoundCloud" src=".assets/pops/bloons-wiki.png"></a>
+  <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png"></a>
 <a href="https://scratch.mit.edu/users/Sup2point0">
   <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a>
 <a href="https://sup2point0.github.io/Assort">
