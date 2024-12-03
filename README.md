@@ -46,7 +46,10 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ## Music
 
-<img height="200px" src=".assets/tracks/reminiscence.png">
+<img height="169px" src=".assets/tracks/dawn.png">
+<img height="169px" src=".assets/tracks/day.png">
+<img height="169px" src=".assets/tracks/night.png">
+<img height="169px" src=".assets/tracks/reminiscence.png">
 
 
 <!-- content kinda ordered in significance -->
