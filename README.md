@@ -9,9 +9,9 @@
 <a href="https://sup2point0.github.io">
   <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
 <!-- <a href="https://discord.com/">
-  <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a>
+  <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a> -->
 <a href="https://reddit.com/u/Sup2pointO">
-  <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a> -->
+  <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a>
 <a href="https://youtube.com/@SuppetySup">
   <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a>
 <a href="https://soundcloud.com/Sup2point0">
