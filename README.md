@@ -38,119 +38,119 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 ---
 
 <a href="https://github.com/Sup2point0/Antarctica">
-  <img height="42px" alt="Antarctica" src=".assets/usertiles/antarctica.png"></a>
-<img height="42px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
-<img height="42px" alt="Professional Procrastinator B)" src=".assets/usertiles/professional-procrastinator.png">
-<img height="42px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
+  <img height="36px" alt="Antarctica" src=".assets/usertiles/antarctica.png"></a>
+<img height="36px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
+<img height="36px" alt="Professional Procrastinator B)" src=".assets/usertiles/professional-procrastinator.png">
+<img height="36px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
 
 
 <!-- content kinda ordered in significance -->
 
 ## Languages
 
-<img height="42px" src=".assets/usertiles/english.png">
-<img height="42px" src=".assets/usertiles/chinese.png">
-<img height="42px" src=".assets/usertiles/french.png">
+<img height="36px" src=".assets/usertiles/english.png">
+<img height="36px" src=".assets/usertiles/chinese.png">
+<img height="36px" src=".assets/usertiles/french.png">
 <a href="https://www.python.org">
-  <img height="42px" src=".assets/usertiles/same.png"></a>
+  <img height="36px" src=".assets/usertiles/same.png"></a>
 
 <br>
 
 <a href="https://www.python.org">
-  <img height="42px" src=".assets/usertiles/python.png"></a>
+  <img height="36px" src=".assets/usertiles/python.png"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
-  <img height="42px" src=".assets/usertiles/csharp.png"></a>
+  <img height="36px" src=".assets/usertiles/csharp.png"></a>
 <a href="https://www.ruby-lang.org">
-  <img height="42px" src=".assets/usertiles/ruby.png"></a>
-<!-- <img height="42px" src=".assets/usertiles/swift.png"> -->
+  <img height="36px" src=".assets/usertiles/ruby.png"></a>
+<!-- <img height="36px" src=".assets/usertiles/swift.png"> -->
 
 <br>
 
-<img height="42px" src=".assets/usertiles/html.png">
-<img height="42px" src=".assets/usertiles/css.png">
+<img height="36px" src=".assets/usertiles/html.png">
+<img height="36px" src=".assets/usertiles/css.png">
 <a href="https://sass-lang.com">
-  <img height="42px" src=".assets/usertiles/scss.png"></a>
-<img height="42px" src=".assets/usertiles/javascript.png">
+  <img height="36px" src=".assets/usertiles/scss.png"></a>
+<img height="36px" src=".assets/usertiles/javascript.png">
 <a href="https://www.typescriptlang.org">
-  <img height="42px" src=".assets/usertiles/typescript.png"></a>
+  <img height="36px" src=".assets/usertiles/typescript.png"></a>
 
 <br>
 
-<img height="42px" src=".assets/usertiles/scratch.png">
+<img height="36px" src=".assets/usertiles/scratch.png">
 <a href="https://www.markdownguide.org">
-  <img height="42px" src=".assets/usertiles/markdown.png"></a>
-<img height="42px" src=".assets/usertiles/latex.png">
+  <img height="36px" src=".assets/usertiles/markdown.png"></a>
+<img height="36px" src=".assets/usertiles/latex.png">
 
 <br>
 
-<img height="42px" src=".assets/usertiles/json.png">
+<img height="36px" src=".assets/usertiles/json.png">
 <a href="https://json-schema.org">
-  <img height="42px" src=".assets/usertiles/json-schema.png"></a>
-<img height="42px" src=".assets/usertiles/yaml.png">
-<!-- <img height="42px" src=".assets/usertiles/toml.png"> -->
-<img height="42px" src=".assets/usertiles/sql.png">
-<img height="42px" src=".assets/usertiles/regex.png">
+  <img height="36px" src=".assets/usertiles/json-schema.png"></a>
+<img height="36px" src=".assets/usertiles/yaml.png">
+<!-- <img height="36px" src=".assets/usertiles/toml.png"> -->
+<img height="36px" src=".assets/usertiles/sql.png">
+<img height="36px" src=".assets/usertiles/regex.png">
 
 
 ## Frameworks
 
 <a href="https://kit.svelte.dev">
-  <img height="42px" src=".assets/usertiles/sveltekit.png"></a>
-<img height="42px" src=".assets/usertiles/nextcord.png">
-<img height="42px" src=".assets/usertiles/discord-py.png">
-<img height="42px" src=".assets/usertiles/matplotlib.png">
-<img height="42px" src=".assets/usertiles/numpy.png">
-<img height="42px" src=".assets/usertiles/tensorflow.png">
-<img height="42px" src=".assets/usertiles/keras.png">
-<img height="42px" src=".assets/usertiles/pytest.png">
+  <img height="36px" src=".assets/usertiles/sveltekit.png"></a>
+<img height="36px" src=".assets/usertiles/nextcord.png">
+<img height="36px" src=".assets/usertiles/discord-py.png">
+<img height="36px" src=".assets/usertiles/matplotlib.png">
+<img height="36px" src=".assets/usertiles/numpy.png">
+<img height="36px" src=".assets/usertiles/tensorflow.png">
+<img height="36px" src=".assets/usertiles/keras.png">
+<img height="36px" src=".assets/usertiles/pytest.png">
 
 
 ## Applications
 
-<img height="42px" src=".assets/usertiles/git.png">
-<img height="42px" src=".assets/usertiles/vscode.png">
-<img height="42px" src=".assets/usertiles/unity.png">
-<img height="42px" src=".assets/usertiles/github-actions.png">
-<img height="42px" src=".assets/usertiles/codespaces.png">
-<img height="42px" src=".assets/usertiles/replit.png">
+<img height="36px" src=".assets/usertiles/git.png">
+<img height="36px" src=".assets/usertiles/vscode.png">
+<img height="36px" src=".assets/usertiles/unity.png">
+<img height="36px" src=".assets/usertiles/github-actions.png">
+<img height="36px" src=".assets/usertiles/codespaces.png">
+<img height="36px" src=".assets/usertiles/replit.png">
 
 <br>
 
-<img height="42px" src=".assets/usertiles/powerpoint.png">
+<img height="36px" src=".assets/usertiles/powerpoint.png">
 <a href="https://www.apple.com/ios/garageband">
-  <img height="42px" src=".assets/usertiles/garage-band.png"></a>
+  <img height="36px" src=".assets/usertiles/garage-band.png"></a>
 <a href="https://www.desmos.com/calculator">
-  <img height="42px" src=".assets/usertiles/desmos.png"></a>
+  <img height="36px" src=".assets/usertiles/desmos.png"></a>
 <a href="https://molview.org">
-  <img height="42px" src=".assets/usertiles/molview.png"></a>
-<img height="42px" src=".assets/usertiles/musescore.png">
-<img height="42px" src=".assets/usertiles/excel.png">
-<img height="42px" src=".assets/usertiles/chemdraw.png">
+  <img height="36px" src=".assets/usertiles/molview.png"></a>
+<img height="36px" src=".assets/usertiles/musescore.png">
+<img height="36px" src=".assets/usertiles/excel.png">
+<img height="36px" src=".assets/usertiles/chemdraw.png">
 
 
 ## Loves
 
-<img height="42px" src=".assets/usertiles/game-dev.png">
-<img height="42px" src=".assets/usertiles/graphic-design.png">
-<img height="42px" src=".assets/usertiles/music.png">
-<img height="42px" src=".assets/usertiles/card-games.png">
-<img height="42px" src=".assets/usertiles/reading.png">
-<img height="42px" src=".assets/usertiles/organic-chemistry.png">
-<img height="42px" src=".assets/usertiles/geometry.png">
-<img height="42px" src=".assets/usertiles/language.png">
+<img height="36px" src=".assets/usertiles/game-dev.png">
+<img height="36px" src=".assets/usertiles/graphic-design.png">
+<img height="36px" src=".assets/usertiles/music.png">
+<img height="36px" src=".assets/usertiles/card-games.png">
+<img height="36px" src=".assets/usertiles/reading.png">
+<img height="36px" src=".assets/usertiles/organic-chemistry.png">
+<img height="36px" src=".assets/usertiles/geometry.png">
+<img height="36px" src=".assets/usertiles/language.png">
 
 
 ## Aptitudes
 
-<img height="42px" src=".assets/usertiles/curious.png">
-<img height="42px" src=".assets/usertiles/independent.png">
-<img height="42px" src=".assets/usertiles/driven.png">
-<img height="42px" src=".assets/usertiles/creative.png">
-<img height="42px" src=".assets/usertiles/focused.png">
-<img height="42px" src=".assets/usertiles/serene.png">
-<img height="42px" src=".assets/usertiles/overthinking.png">
-<img height="42px" src=".assets/usertiles/turbulent.png">
-<img height="42px" src=".assets/usertiles/nihilist.png">
+<img height="36px" src=".assets/usertiles/curious.png">
+<img height="36px" src=".assets/usertiles/independent.png">
+<img height="36px" src=".assets/usertiles/driven.png">
+<img height="36px" src=".assets/usertiles/creative.png">
+<img height="36px" src=".assets/usertiles/focused.png">
+<img height="36px" src=".assets/usertiles/serene.png">
+<img height="36px" src=".assets/usertiles/overthinking.png">
+<img height="36px" src=".assets/usertiles/turbulent.png">
+<img height="36px" src=".assets/usertiles/nihilist.png">
 
 
 ---
