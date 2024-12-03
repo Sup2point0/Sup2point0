@@ -44,6 +44,11 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
 
 
+## Music
+
+<img height="200px" src=".assets/tracks/reminiscence.png">
+
+
 <!-- content kinda ordered in significance -->
 
 ## Languages
