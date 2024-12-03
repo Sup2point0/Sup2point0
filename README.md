@@ -97,10 +97,8 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <a href="https://kit.svelte.dev">
   <img height="36px" src=".assets/usertiles/sveltekit.png"></a>
 <img height="36px" src=".assets/usertiles/nextcord.png">
-<img height="36px" src=".assets/usertiles/discord-py.png">
 <img height="36px" src=".assets/usertiles/matplotlib.png">
 <img height="36px" src=".assets/usertiles/numpy.png">
-<img height="36px" src=".assets/usertiles/tensorflow.png">
 <img height="36px" src=".assets/usertiles/keras.png">
 <img height="36px" src=".assets/usertiles/pytest.png">
 
@@ -124,7 +122,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <a href="https://molview.org">
   <img height="36px" src=".assets/usertiles/molview.png"></a>
 <img height="36px" src=".assets/usertiles/musescore.png">
-<img height="36px" src=".assets/usertiles/excel.png">
 <img height="36px" src=".assets/usertiles/chemdraw.png">
 
 
