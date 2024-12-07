@@ -46,10 +46,24 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ## Music
 
-<img height="169px" src=".assets/tracks/dawn.png">
-<img height="169px" src=".assets/tracks/day.png">
-<img height="169px" src=".assets/tracks/night.png">
-<img height="169px" src=".assets/tracks/reminiscence.png">
+<a title="Dawn"
+  href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/dawn.png"></a>
+<a title="Day"
+  href="https://soundcloud.com/sup2point0/day">
+  <img height="144px" src=".assets/tracks/day.png"></a>
+<a title="Night"
+  href="https://soundcloud.com/sup2point0/night">
+  <img height="144px" src=".assets/tracks/night.png"></a>
+<a title="Aphenia"
+  href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/aphenia.png"></a>
+<a title="Ceruleus"
+  href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/ceruleus.png"></a>
+<a title="Reminiscence"
+  href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/reminiscence.png"></a>
 
 
 <!-- content kinda ordered in significance -->
