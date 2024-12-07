@@ -158,7 +158,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/geometry.png">
 <img height="36px" src=".assets/usertiles/language.png">
 
-
+<!--
 ## Aptitudes
 
 <img height="36px" src=".assets/usertiles/curious.png">
@@ -170,11 +170,11 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/overthinking.png">
 <img height="36px" src=".assets/usertiles/turbulent.png">
 <img height="36px" src=".assets/usertiles/nihilist.png">
-
+-->
 
 ---
 
-[ [ **VIEW MORE** ](https://github.com/Sup2point0/Assort/blob/origin/sup.md) ]
+[ [ **VIEW MORE** ](https://https://sup2point0.github.io) ]
 
 
 </div>
