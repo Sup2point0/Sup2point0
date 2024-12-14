@@ -6,20 +6,27 @@
 
 [**An avid portal with way too much in their neural cortex.**](https://sup2point0.github.io/Assort)
 
-<a href="https://sup2point0.github.io">
-  <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
-<!-- <a href="https://discord.com/">
-  <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a> -->
-<a href="https://reddit.com/u/Sup2pointO">
-  <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a>
-<a href="https://youtube.com/@SuppetySup">
-  <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a>
-<a href="https://soundcloud.com/Sup2point0">
-  <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png"></a>
-<a href="https://scratch.mit.edu/users/Sup2point0">
-  <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a>
-<a href="https://sup2point0.github.io/Assort">
-  <img height="42px" alt="Assort" src=".assets/pops/assort.png"></a>
+<a title="Site" href="https://sup2point0.github.io">
+  <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a
+>
+<!-- <a title="Discord" href="https://discord.com/">
+  <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a
+> -->
+<a title="reddit" href="https://reddit.com/u/Sup2pointO">
+  <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a
+>
+<a title="YouTube" href="https://youtube.com/@SuppetySup">
+  <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a
+>
+<a title="SoundCloud" href="https://soundcloud.com/Sup2point0">
+  <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png"></a
+>
+<a title="Scratch" href="https://scratch.mit.edu/users/Sup2point0">
+  <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a
+>
+<a title="Assort" href="https://sup2point0.github.io/Assort">
+  <img height="42px" alt="Assort" src=".assets/pops/assort.png"></a
+>
 
 ---
 
@@ -46,24 +53,24 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 ## Music
 
-<a title="Dawn"
-  href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/dawn.png"></a>
-<a title="Day"
-  href="https://soundcloud.com/sup2point0/day">
-  <img height="144px" src=".assets/tracks/day.png"></a>
-<a title="Night"
-  href="https://soundcloud.com/sup2point0/night">
-  <img height="144px" src=".assets/tracks/night.png"></a>
-<a title="Aphenia"
-  href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/aphenia.png"></a>
-<a title="Ceruleus"
-  href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/ceruleus.png"></a>
-<a title="Reminiscence"
-  href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/reminiscence.png"></a>
+<a title="Dawn" href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/dawn.png"></a
+>
+<a title="Day" href="https://soundcloud.com/sup2point0/day">
+  <img height="144px" src=".assets/tracks/day.png"></a
+>
+<a title="Night" href="https://soundcloud.com/sup2point0/night">
+  <img height="144px" src=".assets/tracks/night.png"></a
+>
+<a title="Aphenia" href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/aphenia.png"></a
+>
+<a title="Ceruleus" href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/ceruleus.png"></a
+>
+<a title="Reminiscence" href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/reminiscence.png"></a
+>
 
 
 <!-- content kinda ordered in significance -->
