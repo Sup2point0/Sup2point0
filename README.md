@@ -47,45 +47,39 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <a href="https://github.com/Sup2point0/Antarctica">
   <img height="36px" alt="Antarctica" src=".assets/usertiles/antarctica.png"></a>
 <img height="36px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
-<img height="36px" alt="Professional Procrastinator B)" src=".assets/usertiles/professional-procrastinator.png">
 <img height="36px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
 
 
 ## Music
 
-<a title="Dawn" href="https://sup2point0.github.io/sup/music">
+<a title="Algorhythm Origins / Dawn" href="https://sup2point0.github.io/sup/music">
   <img height="144px" src=".assets/tracks/dawn.png"></a
 >
-<a title="Day" href="https://soundcloud.com/sup2point0/day">
+<a title="Algorhythm Origins / Day" href="https://soundcloud.com/sup2point0/day">
   <img height="144px" src=".assets/tracks/day.png"></a
 >
-<a title="Night" href="https://soundcloud.com/sup2point0/night">
+<a title="Algorhythm Origins / Night" href="https://soundcloud.com/sup2point0/night">
   <img height="144px" src=".assets/tracks/night.png"></a
 >
-<a title="Aphenia" href="https://sup2point0.github.io/sup/music">
+<a title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music">
   <img height="144px" src=".assets/tracks/aphenia.png"></a
 >
-<a title="Ceruleus" href="https://sup2point0.github.io/sup/music">
+<a title="ELYSION / Ceruleus" href="https://sup2point0.github.io/sup/music">
   <img height="144px" src=".assets/tracks/ceruleus.png"></a
 >
-<a title="Reminiscence" href="https://sup2point0.github.io/sup/music">
+<a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music">
   <img height="144px" src=".assets/tracks/reminiscence.png"></a
 >
 
-
-<!-- content kinda ordered in significance -->
 
 ## Languages
 
 <img height="36px" src=".assets/usertiles/english.png">
 <img height="36px" src=".assets/usertiles/chinese.png">
-<img height="36px" src=".assets/usertiles/french.png">
-<a href="https://www.python.org">
-  <img height="36px" src=".assets/usertiles/same.png"></a>
 
 <br>
 
-<a href="https://www.python.org">
+<a title="Python" href="https://www.python.org">
   <img height="36px" src=".assets/usertiles/python.png"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
   <img height="36px" src=".assets/usertiles/csharp.png"></a>
@@ -116,19 +110,20 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <a href="https://json-schema.org">
   <img height="36px" src=".assets/usertiles/json-schema.png"></a>
 <img height="36px" src=".assets/usertiles/yaml.png">
-<!-- <img height="36px" src=".assets/usertiles/toml.png"> -->
+
 <img height="36px" src=".assets/usertiles/sql.png">
 <img height="36px" src=".assets/usertiles/regex.png">
 
 
 ## Frameworks
 
-<a href="https://kit.svelte.dev">
-  <img height="36px" src=".assets/usertiles/sveltekit.png"></a>
+<a href="https://svelte.dev">
+  <img height="36px" src=".assets/usertiles/svelte.png"></a
+>
+<a href="https://svelte.dev">
+  <img height="36px" src=".assets/usertiles/sveltekit.png"></a
+>
 <img height="36px" src=".assets/usertiles/nextcord.png">
-<img height="36px" src=".assets/usertiles/matplotlib.png">
-<img height="36px" src=".assets/usertiles/numpy.png">
-<img height="36px" src=".assets/usertiles/keras.png">
 <img height="36px" src=".assets/usertiles/pytest.png">
 
 
@@ -145,7 +140,7 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 <img height="36px" src=".assets/usertiles/powerpoint.png">
 <a href="https://www.apple.com/ios/garageband">
-  <img height="36px" src=".assets/usertiles/garage-band.png"></a>
+  <img height="36px" src=".assets/usertiles/garageband.png"></a>
 <a href="https://www.desmos.com/calculator">
   <img height="36px" src=".assets/usertiles/desmos.png"></a>
 <a href="https://molview.org">
@@ -165,25 +160,9 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/geometry.png">
 <img height="36px" src=".assets/usertiles/language.png">
 
-<!--
-## Aptitudes
-
-<img height="36px" src=".assets/usertiles/curious.png">
-<img height="36px" src=".assets/usertiles/independent.png">
-<img height="36px" src=".assets/usertiles/driven.png">
-<img height="36px" src=".assets/usertiles/creative.png">
-<img height="36px" src=".assets/usertiles/focused.png">
-<img height="36px" src=".assets/usertiles/serene.png">
-<img height="36px" src=".assets/usertiles/overthinking.png">
-<img height="36px" src=".assets/usertiles/turbulent.png">
-<img height="36px" src=".assets/usertiles/nihilist.png">
--->
-
 ---
 
 [ [ **VIEW MORE** ](https://https://sup2point0.github.io) ]
 
 
 </div>
-
-<!-- bit long, yeah, but I really couldn’t bring myself to exclude any of it :v -->
