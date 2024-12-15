@@ -115,8 +115,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <a title="LaTeX" href="https://www.latex-project.org">
   <img height="36px" src=".assets/usertiles/latex.png"></a>
 
-<br>
-
 <a title="JSON" href="https://wikipedia.org/wiki/JSON">
   <img height="36px" src=".assets/usertiles/json.png"></a>
 
@@ -125,8 +123,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 <a title="YAML" href="https://yaml.org">
   <img height="36px" src=".assets/usertiles/yaml.png"></a>
-
-<br>
 
 <a title="RegEx" href="https://wikipedia.org/wiki/Regular_expression">
   <img height="36px" src=".assets/usertiles/regex.png"></a>
@@ -143,36 +139,51 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <a title="SvelteKit" href="https://svelte.dev/docs/kit/introduction">
   <img height="36px" src=".assets/usertiles/sveltekit.png"></a>
 
-<a title="Nextcord" href="https://docs.nextcord.dev/en/stable">
+<a title="Nextcord" href="https://docs.nextcord.dev/en/stable/">
   <img height="36px" src=".assets/usertiles/nextcord.png"></a>
 
-<img height="36px" src=".assets/usertiles/discord-py.png">
-<img height="36px" src=".assets/usertiles/pytest.png">
-<img height="36px" src=".assets/usertiles/scratch.png">
+<a title="discord.py" href="https://discordpy.readthedocs.io/en/stable/">
+  <img height="36px" src=".assets/usertiles/discord-py.png"></a>
+
+<a title="pytest" href="https://docs.pytest.org/en/stable/">
+  <img height="36px" src=".assets/usertiles/pytest.png"></a>
+
+<a title="Scratch" href="https://scratch.mit.edu">
+  <img height="36px" src=".assets/usertiles/scratch.png"></a>
 
 
 ## Applications
 
 <img height="36px" src=".assets/usertiles/git.png">
 <img height="36px" src=".assets/usertiles/vscode.png">
-<img height="36px" src=".assets/usertiles/unity.png">
-<img height="36px" src=".assets/usertiles/github-actions.png">
-<img height="36px" src=".assets/usertiles/codespaces.png">
-<img height="36px" src=".assets/usertiles/replit.png">
+
+<a title="Unity" href="https://unity.com/">
+  <img height="36px" src=".assets/usertiles/unity.png"></a>
+
+<a title="GitHub Actions" href="https://github.com/features/actions">
+  <img height="36px" src=".assets/usertiles/github-actions.png"></a>
+
+<a title="GitHub Codespaces" href="https://github.com/features/codespaces">
+  <img height="36px" src=".assets/usertiles/codespaces.png"></a>
 
 <br>
 
 <img height="36px" src=".assets/usertiles/powerpoint.png">
-<a href="https://www.apple.com/ios/garageband">
+
+<a title="GarageBand for iPadOS" href="https://www.apple.com/ios/garageband">
   <img height="36px" src=".assets/usertiles/garageband.png"></a>
 
-<a href="https://www.desmos.com/calculator">
+<a title="Desmos" href="https://www.desmos.com/calculator">
   <img height="36px" src=".assets/usertiles/desmos.png"></a>
 
-<a href="https://molview.org">
+<a title="MolView" href="https://molview.org">
   <img height="36px" src=".assets/usertiles/molview.png"></a>
-<img height="36px" src=".assets/usertiles/musescore.png">
-<img height="36px" src=".assets/usertiles/chemdraw.png">
+
+<a title="MuseScore" href="https://musescore.org/en">
+  <img height="36px" src=".assets/usertiles/musescore.png"></a>
+
+<a title="ChemDraw" href="https://revvitysignals.com/products/research/chemdraw">
+  <img height="36px" src=".assets/usertiles/chemdraw.png"></a>
 
 
 ## Loves
