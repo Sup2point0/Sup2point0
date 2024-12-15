@@ -6,7 +6,7 @@
 
 [**An avid portal with way too much in their neural cortex.**](https://sup2point0.github.io/Assort)
 
-<a title="Site" href="https://sup2point0.github.io">
+<a title="sup2point0.github.io" href="https://sup2point0.github.io">
   <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
 
 <!-- <a title="Discord" href="https://discord.com/">
@@ -42,7 +42,7 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 
 ---
 
-<a href="https://github.com/Sup2point0/Antarctica">
+<a title="Antarctica" href="https://github.com/Sup2point0/Antarctica">
   <img height="36px" alt="Antarctica" src=".assets/usertiles/antarctica.png"></a>
 <img height="36px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
 <img height="36px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
@@ -52,12 +52,12 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 
 <a title="Assort" href="https://sup2point0.github.io/Assort">
   <img width="360px" src=".assets/projects/assort.png"></a>
-<a title="Assort" href="https://sup2point0.github.io/Assort">
-  <img width="360px" src=".assets/projects/assort.png"></a>
-<a title="Assort" href="https://sup2point0.github.io/Assort">
-  <img width="360px" src=".assets/projects/assort.png"></a>
-<a title="Assort" href="https://sup2point0.github.io/Assort">
-  <img width="360px" src=".assets/projects/assort.png"></a>
+
+<a title="pyco:bytes" href="https://sup2point0.github.io/pycobytes">
+  <img width="360px" src=".assets/projects/pycobytes.png"></a>
+
+<a title="Integrity" href="https://sup2point0.github.io/integrity">
+  <img width="360px" src=".assets/projects/integrity.png"></a>
 
 
 ## Languages
