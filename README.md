@@ -177,6 +177,20 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
   <img height="36px" src=".assets/usertiles/chemdraw.png"></a>
 
 
+## Loves
+
+<img height="36px" src=".assets/usertiles/game-dev.png">
+<img height="36px" src=".assets/usertiles/graphic-design.png">
+<img height="36px" src=".assets/usertiles/music.png">
+<img height="36px" src=".assets/usertiles/card-games.png">
+<img height="36px" src=".assets/usertiles/writing.png">
+<!-- <img height="36px" src=".assets/usertiles/integration.png"> -->
+<img height="36px" src=".assets/usertiles/reading.png">
+<img height="36px" src=".assets/usertiles/organic-chemistry.png">
+<img height="36px" src=".assets/usertiles/geometry.png">
+<img height="36px" src=".assets/usertiles/language.png">
+
+
 ## Music
 
 <a title="Algorhythm Origins / Dawn" href="https://sup2point0.github.io/sup/music">
@@ -196,20 +210,6 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 
 <a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music">
   <img height="144px" src=".assets/tracks/reminiscence.png"></a>
-
-
-## Loves
-
-<img height="36px" src=".assets/usertiles/game-dev.png">
-<img height="36px" src=".assets/usertiles/graphic-design.png">
-<img height="36px" src=".assets/usertiles/music.png">
-<img height="36px" src=".assets/usertiles/card-games.png">
-<img height="36px" src=".assets/usertiles/writing.png">
-<!-- <img height="36px" src=".assets/usertiles/integration.png"> -->
-<img height="36px" src=".assets/usertiles/reading.png">
-<img height="36px" src=".assets/usertiles/organic-chemistry.png">
-<img height="36px" src=".assets/usertiles/geometry.png">
-<img height="36px" src=".assets/usertiles/language.png">
 
 
 ---
