@@ -32,15 +32,13 @@
 
 sup o/
 
-Damn, there’s so much I want to have here that I don’t even know what to include.
+Analysis paralysis has rendered me incapable of deciding what to write here, sooo...
 
-Um, carrots are cool. And light mode is awesome.
+I’m just an adventurer creating stuff I love.
 
-If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)! Who knows, by the time you finish all of it perhaps I’ll have added twice as many files... (not really)
+Carrots are cool. And light mode is awesome (except when programming).
 
-I’ve had my fair share of catastrophic merge conflicts (and merge-commit-less merge conflicts, would you believe it), tho I’m sure there’s ever more to come. Also don’t worry about my mildly ridiculous commit count, I have a lot of repos and often make micro-commits on the go :v
-
-Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to explore ;)
+If you feel like delving into my universe, head to my super-repo megawiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)!
 
 ---
 
@@ -60,28 +58,6 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
   <img width="360px" src=".assets/projects/assort.png"></a>
 <a title="Assort" href="https://sup2point0.github.io/Assort">
   <img width="360px" src=".assets/projects/assort.png"></a>
-
-
-## Music
-
-<a title="Algorhythm Origins / Dawn" href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/dawn.png"></a>
-
-<a title="Algorhythm Origins / Day" href="https://soundcloud.com/sup2point0/day">
-  <img height="144px" src=".assets/tracks/day.png"></a>
-
-<a title="Algorhythm Origins / Night" href="https://soundcloud.com/sup2point0/night">
-  <img height="144px" src=".assets/tracks/night.png"></a>
-
-<a title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/aphenia.png"></a>
-
-<a title="ELYSION / Ceruleus" href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/ceruleus.png"></a>
-
-<a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/reminiscence.png"></a>
-
 
 
 ## Languages
@@ -198,6 +174,27 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
   <img height="36px" src=".assets/usertiles/chemdraw.png"></a>
 
 
+## Music
+
+<a title="Algorhythm Origins / Dawn" href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/dawn.png"></a>
+
+<a title="Algorhythm Origins / Day" href="https://soundcloud.com/sup2point0/day">
+  <img height="144px" src=".assets/tracks/day.png"></a>
+
+<a title="Algorhythm Origins / Night" href="https://soundcloud.com/sup2point0/night">
+  <img height="144px" src=".assets/tracks/night.png"></a>
+
+<a title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/aphenia.png"></a>
+
+<a title="ELYSION / Ceruleus" href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/ceruleus.png"></a>
+
+<a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music">
+  <img height="144px" src=".assets/tracks/reminiscence.png"></a>
+
+
 ## Loves
 
 <img height="36px" src=".assets/usertiles/game-dev.png">
@@ -211,9 +208,14 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/geometry.png">
 <img height="36px" src=".assets/usertiles/language.png">
 
+
 ---
 
-[ [ **VIEW MORE** ](https://https://sup2point0.github.io) ]
+I’ve had my fair share of catastrophic merge conflicts (and merge-commit-less merge conflicts, would you believe it), tho I’m sure there’s ever more to come. Oh, and don’t worry about my ridiculous commit counts, it’s all micro-commits on the go hehe
+
+---
+
+[ [ **VIEW MORE** ](https://sup2point0.github.io) ]
 
 
 </div>
