@@ -53,13 +53,13 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 ## Projects
 
 <a title="Assort" href="https://sup2point0.github.io/Assort">
-  <img width="420px" src=".assets/projects/assort.png"></a>
+  <img width="360px" src=".assets/projects/assort.png"></a>
 <a title="Assort" href="https://sup2point0.github.io/Assort">
-  <img width="420px" src=".assets/projects/assort.png"></a>
+  <img width="360px" src=".assets/projects/assort.png"></a>
 <a title="Assort" href="https://sup2point0.github.io/Assort">
-  <img width="420px" src=".assets/projects/assort.png"></a>
+  <img width="360px" src=".assets/projects/assort.png"></a>
 <a title="Assort" href="https://sup2point0.github.io/Assort">
-  <img width="420px" src=".assets/projects/assort.png"></a>
+  <img width="360px" src=".assets/projects/assort.png"></a>
 
 
 ## Music
