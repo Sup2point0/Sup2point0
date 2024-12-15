@@ -7,26 +7,26 @@
 [**An avid portal with way too much in their neural cortex.**](https://sup2point0.github.io/Assort)
 
 <a title="Site" href="https://sup2point0.github.io">
-  <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a
->
+  <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
+
 <!-- <a title="Discord" href="https://discord.com/">
-  <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a
-> -->
+  <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a> 
+  -->
 <a title="reddit" href="https://reddit.com/u/Sup2pointO">
-  <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a
->
+  <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a>
+
 <a title="YouTube" href="https://youtube.com/@SuppetySup">
-  <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a
->
+  <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a>
+
 <a title="SoundCloud" href="https://soundcloud.com/Sup2point0">
-  <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png"></a
->
+  <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png"></a>
+
 <a title="Scratch" href="https://scratch.mit.edu/users/Sup2point0">
-  <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a
->
+  <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a>
+
 <a title="Assort" href="https://sup2point0.github.io/Assort">
-  <img height="42px" alt="Assort" src=".assets/pops/assort.png"></a
->
+  <img height="42px" alt="Assort" src=".assets/pops/assort.png"></a>
+
 
 ---
 
@@ -53,23 +53,23 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 ## Music
 
 <a title="Algorhythm Origins / Dawn" href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/dawn.png"></a
->
+  <img height="144px" src=".assets/tracks/dawn.png"></a>
+
 <a title="Algorhythm Origins / Day" href="https://soundcloud.com/sup2point0/day">
-  <img height="144px" src=".assets/tracks/day.png"></a
->
+  <img height="144px" src=".assets/tracks/day.png"></a>
+
 <a title="Algorhythm Origins / Night" href="https://soundcloud.com/sup2point0/night">
-  <img height="144px" src=".assets/tracks/night.png"></a
->
+  <img height="144px" src=".assets/tracks/night.png"></a>
+
 <a title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/aphenia.png"></a
->
+  <img height="144px" src=".assets/tracks/aphenia.png"></a>
+
 <a title="ELYSION / Ceruleus" href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/ceruleus.png"></a
->
+  <img height="144px" src=".assets/tracks/ceruleus.png"></a>
+
 <a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music">
-  <img height="144px" src=".assets/tracks/reminiscence.png"></a
->
+  <img height="144px" src=".assets/tracks/reminiscence.png"></a>
+
 
 
 ## Languages
@@ -81,50 +81,74 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 
 <a title="Python" href="https://www.python.org">
   <img height="36px" src=".assets/usertiles/python.png"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp">
+
+<a title="C#" href="https://learn.microsoft.com/en-us/dotnet/csharp">
   <img height="36px" src=".assets/usertiles/csharp.png"></a>
-<a href="https://www.ruby-lang.org">
+
+<a title="Ruby" href="https://www.ruby-lang.org">
   <img height="36px" src=".assets/usertiles/ruby.png"></a>
+
 <!-- <img height="36px" src=".assets/usertiles/swift.png"> -->
 
 <br>
 
-<img height="36px" src=".assets/usertiles/html.png">
-<img height="36px" src=".assets/usertiles/css.png">
-<a href="https://sass-lang.com">
+<a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML">
+  <img height="36px" src=".assets/usertiles/html.png"></a>
+
+<a title="CSS" href="https://developer.mozilla.org/docs/Web/CSS">
+  <img height="36px" src=".assets/usertiles/css.png"></a>
+
+<a title="SCSS" href="https://sass-lang.com">
   <img height="36px" src=".assets/usertiles/scss.png"></a>
-<img height="36px" src=".assets/usertiles/javascript.png">
-<a href="https://www.typescriptlang.org">
+
+<a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript">
+  <img height="36px" src=".assets/usertiles/javascript.png"></a>
+
+<a title="TypeScript" href="https://www.typescriptlang.org">
   <img height="36px" src=".assets/usertiles/typescript.png"></a>
 
 <br>
 
-<img height="36px" src=".assets/usertiles/scratch.png">
-<a href="https://www.markdownguide.org">
+<a title="Markdown" href="https://www.markdownguide.org">
   <img height="36px" src=".assets/usertiles/markdown.png"></a>
-<img height="36px" src=".assets/usertiles/latex.png">
+
+<a title="LaTeX" href="https://www.latex-project.org">
+  <img height="36px" src=".assets/usertiles/latex.png"></a>
 
 <br>
 
-<img height="36px" src=".assets/usertiles/json.png">
-<a href="https://json-schema.org">
-  <img height="36px" src=".assets/usertiles/json-schema.png"></a>
-<img height="36px" src=".assets/usertiles/yaml.png">
+<a title="JSON" href="https://wikipedia.org/wiki/JSON">
+  <img height="36px" src=".assets/usertiles/json.png"></a>
 
-<img height="36px" src=".assets/usertiles/sql.png">
-<img height="36px" src=".assets/usertiles/regex.png">
+<a title="JSON Schema" href="https://json-schema.org">
+  <img height="36px" src=".assets/usertiles/json-schema.png"></a>
+
+<a title="YAML" href="https://yaml.org">
+  <img height="36px" src=".assets/usertiles/yaml.png"></a>
+
+<br>
+
+<a title="RegEx" href="https://wikipedia.org/wiki/Regular_expression">
+  <img height="36px" src=".assets/usertiles/regex.png"></a>
+
+<a title="SQL" href="https://en.wikipedia.org/wiki/SQL">
+  <img height="36px" src=".assets/usertiles/sql.png"></a>
 
 
 ## Frameworks
 
-<a href="https://svelte.dev">
-  <img height="36px" src=".assets/usertiles/svelte.png"></a
->
-<a href="https://svelte.dev">
-  <img height="36px" src=".assets/usertiles/sveltekit.png"></a
->
-<img height="36px" src=".assets/usertiles/nextcord.png">
+<a title="Svelte" href="https://svelte.dev">
+  <img height="36px" src=".assets/usertiles/svelte.png"></a>
+
+<a title="SvelteKit" href="https://svelte.dev/docs/kit/introduction">
+  <img height="36px" src=".assets/usertiles/sveltekit.png"></a>
+
+<a title="Nextcord" href="https://docs.nextcord.dev/en/stable">
+  <img height="36px" src=".assets/usertiles/nextcord.png"></a>
+
+<img height="36px" src=".assets/usertiles/discord-py.png">
 <img height="36px" src=".assets/usertiles/pytest.png">
+<img height="36px" src=".assets/usertiles/scratch.png">
 
 
 ## Applications
@@ -141,8 +165,10 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/powerpoint.png">
 <a href="https://www.apple.com/ios/garageband">
   <img height="36px" src=".assets/usertiles/garageband.png"></a>
+
 <a href="https://www.desmos.com/calculator">
   <img height="36px" src=".assets/usertiles/desmos.png"></a>
+
 <a href="https://molview.org">
   <img height="36px" src=".assets/usertiles/molview.png"></a>
 <img height="36px" src=".assets/usertiles/musescore.png">
@@ -155,6 +181,8 @@ Anyway, I’ve hit my self-imposed character limit, so... I’ll leave you to ex
 <img height="36px" src=".assets/usertiles/graphic-design.png">
 <img height="36px" src=".assets/usertiles/music.png">
 <img height="36px" src=".assets/usertiles/card-games.png">
+<img height="36px" src=".assets/usertiles/writing.png">
+<!-- <img height="36px" src=".assets/usertiles/integration.png"> -->
 <img height="36px" src=".assets/usertiles/reading.png">
 <img height="36px" src=".assets/usertiles/organic-chemistry.png">
 <img height="36px" src=".assets/usertiles/geometry.png">
