@@ -53,6 +53,9 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 <a title="Assort" href="https://sup2point0.github.io/Assort">
   <img width="360px" src=".assets/projects/assort.png"></a>
 
+<a title="Squarkdown" href="https://github.com/Sup2point0/stranger-quarkdown">
+  <img width="360px" src=".assets/projects/squarkdown.png"></a>
+
 <a title="pyco:bytes" href="https://sup2point0.github.io/pycobytes">
   <img width="360px" src=".assets/projects/pycobytes.png"></a>
 
