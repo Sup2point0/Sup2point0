@@ -12,6 +12,7 @@
 <!-- <a title="Discord" href="https://discord.com/">
   <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a> 
   -->
+
 <a title="reddit" href="https://reddit.com/u/Sup2pointO">
   <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a>
 
@@ -34,17 +35,17 @@ sup o/
 
 Analysis paralysis has rendered me incapable of deciding what to write here, sooo...
 
-I’m just an adventurer creating stuff I love.
+Carrots are cool. And light mode is awesome.
 
-Carrots are cool. And light mode is awesome (except when programming).
-
-If you feel like delving into my universe, head to my super-repo megawiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)!
+I’m just an adventurer creating stuff I love. If you feel like delving into my universe, head to my super-repo megawiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)!
 
 ---
 
 <a title="Antarctica" href="https://github.com/Sup2point0/Antarctica">
   <img height="36px" alt="Antarctica" src=".assets/usertiles/antarctica.png"></a>
+
 <img height="36px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
+  
 <img height="36px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
 
 
@@ -112,14 +113,8 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 <a title="JSON Schema" href="https://json-schema.org">
   <img height="36px" src=".assets/usertiles/json-schema.png"></a>
 
-<a title="YAML" href="https://yaml.org">
-  <img height="36px" src=".assets/usertiles/yaml.png"></a>
-
 <a title="RegEx" href="https://wikipedia.org/wiki/Regular_expression">
   <img height="36px" src=".assets/usertiles/regex.png"></a>
-
-<a title="SQL" href="https://en.wikipedia.org/wiki/SQL">
-  <img height="36px" src=".assets/usertiles/sql.png"></a>
 
 
 ## Frameworks
@@ -145,7 +140,9 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 
 ## Applications
 
-<img height="36px" src=".assets/usertiles/git.png">
+<a title="git" href="https://git-scm.com">
+  <img height="36px" src=".assets/usertiles/git.png"></a>
+  
 <img height="36px" src=".assets/usertiles/vscode.png">
 
 <a title="Unity" href="https://unity.com/">
@@ -161,7 +158,7 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 
 <img height="36px" src=".assets/usertiles/powerpoint.png">
 
-<a title="GarageBand for iPadOS" href="https://www.apple.com/ios/garageband">
+<a title="GarageBand (iPadOS)" href="https://www.apple.com/ios/garageband">
   <img height="36px" src=".assets/usertiles/garageband.png"></a>
 
 <a title="Desmos" href="https://www.desmos.com/calculator">
