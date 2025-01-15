@@ -42,11 +42,11 @@ I’m just an adventurer creating stuff I love. If you feel like delving into my
 ---
 
 <a title="Antarctica" href="https://github.com/Sup2point0/Antarctica">
-  <img height="36px" alt="Antarctica" src=".assets/usertiles/antarctica.png"></a>
+  <img height="36px" alt="Antarctica" src=".assets/tiles/antarctica.png"></a>
 
-<img height="36px" alt="Aventurina, the Prime District of Antarctica" src=".assets/usertiles/aventurina.png">
+<img height="36px" alt="Aventurina, the Prime District of Antarctica" src=".assets/tiles/aventurina.png">
   
-<img height="36px" alt="LIGHT MODE SUPREMACY" src=".assets/usertiles/light-mode.png">
+<img height="36px" alt="LIGHT MODE SUPREMACY" src=".assets/tiles/light-mode.png">
 
 
 ## Projects
@@ -66,126 +66,126 @@ I’m just an adventurer creating stuff I love. If you feel like delving into my
 
 ## Languages
 
-<img height="36px" src=".assets/usertiles/english.svg">
-<img height="36px" src=".assets/usertiles/chinese.svg">
+<img height="36px" src=".assets/tiles/english.svg">
+<img height="36px" src=".assets/tiles/chinese.svg">
 
 <br>
 
 <a title="Python" href="https://www.python.org">
-  <img height="36px" src=".assets/usertiles/python.svg"></a>
+  <img height="36px" src=".assets/tiles/python.svg"></a>
 
 <a title="C#" href="https://learn.microsoft.com/en-us/dotnet/csharp">
-  <img height="36px" src=".assets/usertiles/csharp.svg"></a>
+  <img height="36px" src=".assets/tiles/csharp.svg"></a>
 
 <a title="Ruby" href="https://www.ruby-lang.org">
-  <img height="36px" src=".assets/usertiles/ruby.svg"></a>
+  <img height="36px" src=".assets/tiles/ruby.svg"></a>
 
-<!-- <img height="36px" src=".assets/usertiles/swift.png"> -->
+<!-- <img height="36px" src=".assets/tiles/swift.png"> -->
 
 <br>
 
 <a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML">
-  <img height="36px" src=".assets/usertiles/html.png"></a>
+  <img height="36px" src=".assets/tiles/html.png"></a>
 
 <a title="CSS" href="https://developer.mozilla.org/docs/Web/CSS">
-  <img height="36px" src=".assets/usertiles/css.png"></a>
+  <img height="36px" src=".assets/tiles/css.png"></a>
 
 <a title="SCSS" href="https://sass-lang.com">
-  <img height="36px" src=".assets/usertiles/scss.png"></a>
+  <img height="36px" src=".assets/tiles/scss.png"></a>
 
 <a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript">
-  <img height="36px" src=".assets/usertiles/javascript.png"></a>
+  <img height="36px" src=".assets/tiles/javascript.png"></a>
 
 <a title="TypeScript" href="https://www.typescriptlang.org">
-  <img height="36px" src=".assets/usertiles/typescript.png"></a>
+  <img height="36px" src=".assets/tiles/typescript.png"></a>
 
 <br>
 
 <a title="Markdown" href="https://www.markdownguide.org">
-  <img height="36px" src=".assets/usertiles/markdown.png"></a>
+  <img height="36px" src=".assets/tiles/markdown.png"></a>
 
 <a title="LaTeX" href="https://www.latex-project.org">
-  <img height="36px" src=".assets/usertiles/latex.png"></a>
+  <img height="36px" src=".assets/tiles/latex.png"></a>
 
 <a title="JSON" href="https://wikipedia.org/wiki/JSON">
-  <img height="36px" src=".assets/usertiles/json.png"></a>
+  <img height="36px" src=".assets/tiles/json.png"></a>
 
 <a title="JSON Schema" href="https://json-schema.org">
-  <img height="36px" src=".assets/usertiles/json-schema.png"></a>
+  <img height="36px" src=".assets/tiles/json-schema.png"></a>
 
 <a title="RegEx" href="https://wikipedia.org/wiki/Regular_expression">
-  <img height="36px" src=".assets/usertiles/regex.png"></a>
+  <img height="36px" src=".assets/tiles/regex.png"></a>
 
 
 ## Frameworks
 
 <a title="Svelte" href="https://svelte.dev">
-  <img height="36px" src=".assets/usertiles/svelte.png"></a>
+  <img height="36px" src=".assets/tiles/svelte.png"></a>
 
 <a title="SvelteKit" href="https://svelte.dev/docs/kit/introduction">
-  <img height="36px" src=".assets/usertiles/sveltekit.png"></a>
+  <img height="36px" src=".assets/tiles/sveltekit.png"></a>
 
 <a title="Nextcord" href="https://docs.nextcord.dev/en/stable/">
-  <img height="36px" src=".assets/usertiles/nextcord.png"></a>
+  <img height="36px" src=".assets/tiles/nextcord.png"></a>
 
 <a title="discord.py" href="https://discordpy.readthedocs.io/en/stable/">
-  <img height="36px" src=".assets/usertiles/discord-py.png"></a>
+  <img height="36px" src=".assets/tiles/discord-py.png"></a>
 
 <a title="pytest" href="https://docs.pytest.org/en/stable/">
-  <img height="36px" src=".assets/usertiles/pytest.png"></a>
+  <img height="36px" src=".assets/tiles/pytest.png"></a>
 
 <a title="Scratch" href="https://scratch.mit.edu">
-  <img height="36px" src=".assets/usertiles/scratch.png"></a>
+  <img height="36px" src=".assets/tiles/scratch.png"></a>
 
 
 ## Applications
 
 <a title="git" href="https://git-scm.com">
-  <img height="36px" src=".assets/usertiles/git.png"></a>
+  <img height="36px" src=".assets/tiles/git.png"></a>
   
-<img height="36px" src=".assets/usertiles/vscode.png">
+<img height="36px" src=".assets/tiles/vscode.png">
 
 <a title="Unity" href="https://unity.com/">
-  <img height="36px" src=".assets/usertiles/unity.png"></a>
+  <img height="36px" src=".assets/tiles/unity.png"></a>
 
 <a title="GitHub Actions" href="https://github.com/features/actions">
-  <img height="36px" src=".assets/usertiles/github-actions.png"></a>
+  <img height="36px" src=".assets/tiles/github-actions.png"></a>
 
 <a title="GitHub Codespaces" href="https://github.com/features/codespaces">
-  <img height="36px" src=".assets/usertiles/codespaces.png"></a>
+  <img height="36px" src=".assets/tiles/codespaces.png"></a>
 
 <br>
 
-<img height="36px" src=".assets/usertiles/powerpoint.png">
+<img height="36px" src=".assets/tiles/powerpoint.png">
 
 <a title="GarageBand (iPadOS)" href="https://www.apple.com/ios/garageband">
-  <img height="36px" src=".assets/usertiles/garageband.png"></a>
+  <img height="36px" src=".assets/tiles/garageband.png"></a>
 
 <a title="Desmos" href="https://www.desmos.com/calculator">
-  <img height="36px" src=".assets/usertiles/desmos.png"></a>
+  <img height="36px" src=".assets/tiles/desmos.png"></a>
 
 <a title="MolView" href="https://molview.org">
-  <img height="36px" src=".assets/usertiles/molview.png"></a>
+  <img height="36px" src=".assets/tiles/molview.png"></a>
 
 <a title="MuseScore" href="https://musescore.org/en">
-  <img height="36px" src=".assets/usertiles/musescore.png"></a>
+  <img height="36px" src=".assets/tiles/musescore.png"></a>
 
 <a title="ChemDraw" href="https://revvitysignals.com/products/research/chemdraw">
-  <img height="36px" src=".assets/usertiles/chemdraw.png"></a>
+  <img height="36px" src=".assets/tiles/chemdraw.png"></a>
 
 
 ## Loves
 
-<img height="36px" src=".assets/usertiles/game-dev.png">
-<img height="36px" src=".assets/usertiles/graphic-design.png">
-<img height="36px" src=".assets/usertiles/music.png">
-<img height="36px" src=".assets/usertiles/card-games.png">
-<img height="36px" src=".assets/usertiles/writing.png">
-<!-- <img height="36px" src=".assets/usertiles/integration.png"> -->
-<img height="36px" src=".assets/usertiles/reading.png">
-<img height="36px" src=".assets/usertiles/organic-chemistry.png">
-<img height="36px" src=".assets/usertiles/geometry.png">
-<img height="36px" src=".assets/usertiles/language.png">
+<img height="36px" src=".assets/tiles/game-dev.png">
+<img height="36px" src=".assets/tiles/graphic-design.png">
+<img height="36px" src=".assets/tiles/music.png">
+<img height="36px" src=".assets/tiles/card-games.png">
+<img height="36px" src=".assets/tiles/writing.png">
+<!-- <img height="36px" src=".assets/tiles/integration.png"> -->
+<img height="36px" src=".assets/tiles/reading.png">
+<img height="36px" src=".assets/tiles/organic-chemistry.png">
+<img height="36px" src=".assets/tiles/geometry.png">
+<img height="36px" src=".assets/tiles/language.png">
 
 
 ## Music
