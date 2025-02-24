@@ -63,6 +63,9 @@ I’m just an adventurer creating stuff I love. If you feel like delving into my
 <a title="Integrity" href="https://sup2point0.github.io/integrity">
   <img width="360px" src=".assets/projects/integrity.png"></a>
 
+<a title="PENGUIN" href="https://github.com/Sup2point0/PENGUIN">
+  <img width="360px" src=".assets/projects/penguin.png"></a>
+
 
 ## Languages
 
@@ -199,13 +202,16 @@ I’m just an adventurer creating stuff I love. If you feel like delving into my
 <a title="Algorhythm Origins / Night" href="https://soundcloud.com/sup2point0/night">
   <img height="144px" src=".assets/tracks/night.png"></a>
 
-<a title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music">
+<a title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music/elysion">
   <img height="144px" src=".assets/tracks/aphenia.png"></a>
 
-<a title="ELYSION / Ceruleus" href="https://sup2point0.github.io/sup/music">
+<a title="ELYSION / Ceruleus" href="https://sup2point0.github.io/sup/music/elysion">
   <img height="144px" src=".assets/tracks/ceruleus.png"></a>
 
-<a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music">
+<a title="ELYSION / Viridian" href="https://sup2point0.github.io/sup/music/elysion">
+  <img height="144px" src=".assets/tracks/viridian.png"></a>
+
+<a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music/algo-vision">
   <img height="144px" src=".assets/tracks/reminiscence.png"></a>
 
 
