@@ -69,19 +69,19 @@ I’m just an adventurer creating stuff I love. If you feel like delving into my
 
 ## Languages
 
-<img height="36px" src=".assets/tiles/english.svg">
-<img height="36px" src=".assets/tiles/chinese.svg">
+<img height="36px" src=".assets/tiles/english.png">
+<img height="36px" src=".assets/tiles/chinese.png">
 
 <br>
 
 <a title="Python" href="https://www.python.org">
-  <img height="36px" src=".assets/tiles/python.svg"></a>
+  <img height="36px" src=".assets/tiles/python.png"></a>
 
 <a title="C#" href="https://learn.microsoft.com/en-us/dotnet/csharp">
-  <img height="36px" src=".assets/tiles/csharp.svg"></a>
+  <img height="36px" src=".assets/tiles/csharp.png"></a>
 
 <a title="Ruby" href="https://www.ruby-lang.org">
-  <img height="36px" src=".assets/tiles/ruby.svg"></a>
+  <img height="36px" src=".assets/tiles/ruby.png"></a>
 
 <!-- <img height="36px" src=".assets/tiles/swift.png"> -->
 
