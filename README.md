@@ -202,6 +202,12 @@ I’m just an adventurer creating stuff I love. If you feel like delving into my
 <a title="Algorhythm Origins / Night" href="https://soundcloud.com/sup2point0/night">
   <img height="144px" src=".assets/tracks/night.png"></a>
 
+<a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music/algo-vision">
+  <img height="144px" src=".assets/tracks/reminiscence.png"></a>
+
+<a title="Algorhythm Vision / Another Dawn" href="https://sup2point0.github.io/sup/music/algo-vision">
+  <img height="144px" src=".assets/tracks/another-dawn.png"></a>
+
 <a title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music/elysion">
   <img height="144px" src=".assets/tracks/aphenia.png"></a>
 
@@ -210,12 +216,6 @@ I’m just an adventurer creating stuff I love. If you feel like delving into my
 
 <a title="ELYSION / Viridian" href="https://sup2point0.github.io/sup/music/elysion">
   <img height="144px" src=".assets/tracks/viridian.png"></a>
-
-<a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music/algo-vision">
-  <img height="144px" src=".assets/tracks/reminiscence.png"></a>
-
-<a title="Algorhythm Vision / Another Dawn" href="https://sup2point0.github.io/sup/music/algo-vision">
-  <img height="144px" src=".assets/tracks/another-dawn.png"></a>
 
 <a title="Voxel" href="https://sup2point0.github.io/sup/music/cortex">
   <img height="144px" src=".assets/tracks/voxel.png"></a>
