@@ -36,7 +36,7 @@ Analysis paralysis has rendered me incapable of deciding what to write here, soo
 
 Carrots are cool. And light mode is awesome.
 
-I’m just an adventurer creating stuff I love. If you feel like delving into my universe, head to my super-repo megawiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)!
+I’m just an adventurer creating stuff I love. Recently, that’s been projects in Unity and Svelte. If you feel like delving into my universe, head to my super-repo megawiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)!
 
 ---
 
@@ -192,32 +192,35 @@ I’m just an adventurer creating stuff I love. If you feel like delving into my
 
 ## Music
 
-<a title="Algorhythm Origins / Dawn" href="https://sup2point0.github.io/sup/music">
+<a title="Algorhythm Origins / Dawn" href="https://sup2point0.github.io/sup/create/albums/algo-origins#music">
   <img height="144px" src=".assets/tracks/dawn.png"></a>
 
-<a title="Algorhythm Origins / Day" href="https://soundcloud.com/sup2point0/day">
+<a title="Algorhythm Origins / Day" href="https://soundcloud.com/sup2point0/create/albums/algo-origins#day">
   <img height="144px" src=".assets/tracks/day.png"></a>
 
-<a title="Algorhythm Origins / Night" href="https://soundcloud.com/sup2point0/night">
+<a title="Algorhythm Origins / Night" href="https://soundcloud.com/sup2point0/create/albums/algo-origins#night">
   <img height="144px" src=".assets/tracks/night.png"></a>
 
-<a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music/algo-vision">
+<a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#reminiscence">
   <img height="144px" src=".assets/tracks/reminiscence.png"></a>
 
-<a title="Algorhythm Vision / Another Dawn" href="https://sup2point0.github.io/sup/music/algo-vision">
+<a title="Algorhythm Vision / Another Dawn" href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#another-dawn">
   <img height="144px" src=".assets/tracks/another-dawn.png"></a>
 
-<a title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music/elysion">
+<a title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music/create/albums/elysion#aphenia">
   <img height="144px" src=".assets/tracks/aphenia.png"></a>
 
-<a title="ELYSION / Ceruleus" href="https://sup2point0.github.io/sup/music/elysion">
+<a title="ELYSION / Ceruleus" href="https://sup2point0.github.io/sup/music/create/albums/elysion#ceruleus">
   <img height="144px" src=".assets/tracks/ceruleus.png"></a>
 
-<a title="ELYSION / Viridian" href="https://sup2point0.github.io/sup/music/elysion">
+<a title="ELYSION / Viridian" href="https://sup2point0.github.io/sup/music/create/albums/elysion#viridian">
   <img height="144px" src=".assets/tracks/viridian.png"></a>
 
-<a title="Voxel" href="https://sup2point0.github.io/sup/music/cortex">
+<a title="Cortex / Voxel" href="https://sup2point0.github.io/sup/music/create/albums/cortex#voxel">
   <img height="144px" src=".assets/tracks/voxel.png"></a>
+
+<a title="Cortex / Π0!ZV/Σ" href="https://sup2point0.github.io/sup/music/create/albums/cortex#elysion">
+  <img height="144px" src=".assets/tracks/elysion.png"></a>
 
 
 ---
