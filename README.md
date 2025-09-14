@@ -195,10 +195,10 @@ I’m just an adventurer creating stuff I love. Recently, that’s been projects
 <a title="Algorhythm Origins / Dawn" href="https://sup2point0.github.io/sup/create/albums/algo-origins#music">
   <img height="144px" src=".assets/tracks/dawn.png"></a>
 
-<a title="Algorhythm Origins / Day" href="https://soundcloud.com/sup2point0/create/albums/algo-origins#day">
+<a title="Algorhythm Origins / Day" href="https://sup2point0.github.io/sup/create/albums/algo-origins#day">
   <img height="144px" src=".assets/tracks/day.png"></a>
 
-<a title="Algorhythm Origins / Night" href="https://soundcloud.com/sup2point0/create/albums/algo-origins#night">
+<a title="Algorhythm Origins / Night" href="https://sup2point0.github.io/sup/create/albums/algo-origins#night">
   <img height="144px" src=".assets/tracks/night.png"></a>
 
 <a title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#reminiscence">
