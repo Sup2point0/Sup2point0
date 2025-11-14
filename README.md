@@ -64,8 +64,8 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 <a title="Integrity" href="https://sup2point0.github.io/integrity">
   <img width="360px" src=".assets/projects/integrity.png"></a>
 
-<a title="PENGUIN" href="https://github.com/Sup2point0/PENGUIN">
-  <img width="360px" src=".assets/projects/penguin.png"></a>
+<!-- <a title="PENGUIN" href="https://github.com/Sup2point0/PENGUIN">
+  <img width="360px" src=".assets/projects/penguin.png"></a> -->
 
 
 ## Languages
@@ -82,8 +82,8 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 <a title="Haskell" href="https://www.haskell.org">
   <img height="36px" src=".assets/tiles/haskell.png"></a>
 
-<!-- <a title="Rust" href="https://rust-lang.org">
-  <img height="36px" src=".assets/tiles/rust.png"></a> -->
+<a title="Rust" href="https://rust-lang.org">
+  <img height="36px" src=".assets/tiles/rust.png"></a>
 
 <br>
 
@@ -112,6 +112,9 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 
 <a title="LaTeX" href="https://www.latex-project.org">
   <img height="36px" src=".assets/tiles/latex.png"></a>
+
+<a title="SQLite" href="https://sqlite.org/">
+  <img height="36px" src=".assets/tiles/sql.png"></a>
 
 <a title="JSON" href="https://wikipedia.org/wiki/JSON">
   <img height="36px" src=".assets/tiles/json.png"></a>
