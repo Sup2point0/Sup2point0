@@ -6,25 +6,25 @@
 
 [**An avid portal with way too much in their neural cortex.**](https://sup2point0.github.io/Assort)
 
-<a title="sup2point0.github.io" href="https://sup2point0.github.io">
+<a title="sup2point0.github.io" target="_blank" href="https://sup2point0.github.io">
   <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
 
-<a title="Discord" href="https://discord.com/users/752972078579449888">
+<a title="Discord" target="_blank" href="https://discord.com/users/752972078579449888">
   <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a>
 
-<a title="reddit" href="https://reddit.com/u/Sup2pointO">
+<a title="reddit" target="_blank" href="https://reddit.com/u/Sup2pointO">
   <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a>
 
-<a title="YouTube" href="https://youtube.com/@SuppetySup">
+<a title="YouTube" target="_blank" href="https://youtube.com/@VengeanceVanguard">
   <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a>
 
-<a title="SoundCloud" href="https://soundcloud.com/Sup2point0">
+<a title="SoundCloud" target="_blank" href="https://soundcloud.com/Sup2point0">
   <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png"></a>
 
-<!-- <a title="Scratch" href="https://scratch.mit.edu/users/Sup2point0">
+<!-- <a title="Scratch" target="_blank" href="https://scratch.mit.edu/users/Sup2point0">
   <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a> -->
 
-<a title="Assort" href="https://sup2point0.github.io/Assort">
+<a title="Assort" target="_blank" href="https://sup2point0.github.io/Assort">
   <img height="42px" alt="Assort" src=".assets/pops/assort.png"></a>
 
 
@@ -36,7 +36,9 @@ Analysis paralysis has rendered me incapable of deciding what to write here, soo
 
 Carrots are cool. And light mode is awesome.
 
-I’m just an adventurer creating stuff I love. Recently, that’s been projects in Unity and Svelte. If you feel like delving into my universe, head to my super-repo megawiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)!
+I’m just an adventurer creating stuff I love. Recently, that’s been algorithms in Haskell alongside a crippling Rust addiction.
+
+If you feel like delving into my universe, head to my super-repo megawiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)!
 
 ---
 
@@ -82,12 +84,22 @@ I’m just an adventurer creating stuff I love. Recently, that’s been projects
 <a title="Ruby" href="https://www.ruby-lang.org">
   <img height="36px" src=".assets/tiles/ruby.png"></a>
 
-<!-- <img height="36px" src=".assets/tiles/swift.png"> -->
+<a title="Haskell" href="https://www.haskell.org">
+  <img height="36px" src=".assets/tiles/haskell.png"></a>
+
+<!-- <a title="Rust" href="https://rust-lang.org">
+  <img height="36px" src=".assets/tiles/rust.png"></a> -->
 
 <br>
 
-<a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML">
-  <img height="36px" src=".assets/tiles/html.png"></a>
+<a title="Svelte" href="https://svelte.dev">
+  <img height="36px" src=".assets/tiles/svelte.png"></a>
+
+<a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript">
+  <img height="36px" src=".assets/tiles/javascript.png"></a>
+
+<a title="TypeScript" href="https://www.typescriptlang.org">
+  <img height="36px" src=".assets/tiles/typescript.png"></a>
 
 <a title="CSS" href="https://developer.mozilla.org/docs/Web/CSS">
   <img height="36px" src=".assets/tiles/css.png"></a>
@@ -95,11 +107,8 @@ I’m just an adventurer creating stuff I love. Recently, that’s been projects
 <a title="SCSS" href="https://sass-lang.com">
   <img height="36px" src=".assets/tiles/scss.png"></a>
 
-<a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript">
-  <img height="36px" src=".assets/tiles/javascript.png"></a>
-
-<a title="TypeScript" href="https://www.typescriptlang.org">
-  <img height="36px" src=".assets/tiles/typescript.png"></a>
+<a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML">
+  <img height="36px" src=".assets/tiles/html.png"></a>
 
 <br>
 
@@ -119,36 +128,15 @@ I’m just an adventurer creating stuff I love. Recently, that’s been projects
   <img height="36px" src=".assets/tiles/regex.png"></a>
 
 
-## Frameworks
-
-<a title="Svelte" href="https://svelte.dev">
-  <img height="36px" src=".assets/tiles/svelte.png"></a>
-
-<a title="SvelteKit" href="https://svelte.dev/docs/kit/introduction">
-  <img height="36px" src=".assets/tiles/sveltekit.png"></a>
-
-<a title="Nextcord" href="https://docs.nextcord.dev/en/stable/">
-  <img height="36px" src=".assets/tiles/nextcord.png"></a>
-
-<a title="discord.py" href="https://discordpy.readthedocs.io/en/stable/">
-  <img height="36px" src=".assets/tiles/discord-py.png"></a>
-
-<a title="pytest" href="https://docs.pytest.org/en/stable/">
-  <img height="36px" src=".assets/tiles/pytest.png"></a>
-
-<a title="Scratch" href="https://scratch.mit.edu">
-  <img height="36px" src=".assets/tiles/scratch.png"></a>
-
-
 ## Applications
-
-<a title="git" href="https://git-scm.com">
-  <img height="36px" src=".assets/tiles/git.png"></a>
-  
-<img height="36px" src=".assets/tiles/vscode.png">
 
 <a title="Unity" href="https://unity.com/">
   <img height="36px" src=".assets/tiles/unity.png"></a>
+  
+<img height="36px" src=".assets/tiles/vscode.png">
+
+<a title="git" href="https://git-scm.com">
+  <img height="36px" src=".assets/tiles/git.png"></a>
 
 <a title="GitHub Actions" href="https://github.com/features/actions">
   <img height="36px" src=".assets/tiles/github-actions.png"></a>
@@ -187,7 +175,7 @@ I’m just an adventurer creating stuff I love. Recently, that’s been projects
 <img height="36px" src=".assets/tiles/reading.png">
 <img height="36px" src=".assets/tiles/organic-chemistry.png">
 <img height="36px" src=".assets/tiles/geometry.png">
-<img height="36px" src=".assets/tiles/language.png">
+<!-- <img height="36px" src=".assets/tiles/language.png"> -->
 
 
 ## Music
