@@ -70,11 +70,6 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 
 ## Languages
 
-<img height="36px" src=".assets/tiles/english.png">
-<img height="36px" src=".assets/tiles/chinese.png">
-
-<br>
-
 <a title="Python" href="https://www.python.org">
   <img height="36px" src=".assets/tiles/python.png"></a>
 
@@ -95,17 +90,17 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 <a title="Svelte" href="https://svelte.dev">
   <img height="36px" src=".assets/tiles/svelte.png"></a>
 
-<a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript">
-  <img height="36px" src=".assets/tiles/javascript.png"></a>
-
 <a title="TypeScript" href="https://www.typescriptlang.org">
   <img height="36px" src=".assets/tiles/typescript.png"></a>
 
-<a title="CSS" href="https://developer.mozilla.org/docs/Web/CSS">
-  <img height="36px" src=".assets/tiles/css.png"></a>
+<a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript">
+  <img height="36px" src=".assets/tiles/javascript.png"></a>
 
 <a title="SCSS" href="https://sass-lang.com">
   <img height="36px" src=".assets/tiles/scss.png"></a>
+
+<a title="CSS" href="https://developer.mozilla.org/docs/Web/CSS">
+  <img height="36px" src=".assets/tiles/css.png"></a>
 
 <a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML">
   <img height="36px" src=".assets/tiles/html.png"></a>
@@ -146,22 +141,16 @@ If you feel like delving into my universe, head to my super-repo megawiki [*Asso
 
 <br>
 
+<a title="Desmos" href="https://www.desmos.com/calculator">
+  <img height="36px" src=".assets/tiles/desmos.png"></a>
+
 <img height="36px" src=".assets/tiles/powerpoint.png">
 
 <a title="GarageBand (iPadOS)" href="https://www.apple.com/ios/garageband">
   <img height="36px" src=".assets/tiles/garageband.png"></a>
 
-<a title="Desmos" href="https://www.desmos.com/calculator">
-  <img height="36px" src=".assets/tiles/desmos.png"></a>
-
-<a title="MolView" href="https://molview.org">
-  <img height="36px" src=".assets/tiles/molview.png"></a>
-
 <a title="MuseScore" href="https://musescore.org/en">
   <img height="36px" src=".assets/tiles/musescore.png"></a>
-
-<a title="ChemDraw" href="https://revvitysignals.com/products/research/chemdraw">
-  <img height="36px" src=".assets/tiles/chemdraw.png"></a>
 
 
 ## Loves
