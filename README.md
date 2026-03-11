@@ -4,16 +4,10 @@
   <img width="690px" alt="Sup#2.0" src=".assets/sup.png" title="ooh, what’s this?">
 </a>
 
-[**An avid portal with way too much in their neural cortex.**](https://sup2point0.github.io/Assort)
+[**An avid portal with way too much in their neural cortex**](https://sup2point0.github.io/Assort)
 
 <a target="_blank" title="sup2point0.github.io" target="_blank" href="https://sup2point0.github.io">
   <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
-
-<a target="_blank" title="Discord" target="_blank" href="https://discord.com/users/752972078579449888">
-  <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a>
-
-<a target="_blank" title="reddit" target="_blank" href="https://reddit.com/u/Sup2pointO">
-  <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a>
 
 <a target="_blank" title="YouTube" target="_blank" href="https://youtube.com/@VengeanceVanguard">
   <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a>
@@ -21,8 +15,14 @@
 <a target="_blank" title="SoundCloud" target="_blank" href="https://soundcloud.com/Sup2point0">
   <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png"></a>
 
-<!-- <a target="_blank" title="Scratch" target="_blank" href="https://scratch.mit.edu/users/Sup2point0">
-  <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a> -->
+<a target="_blank" title="reddit" target="_blank" href="https://reddit.com/u/Sup2pointO">
+  <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a>
+
+<a target="_blank" title="Discord" target="_blank" href="https://discord.com/users/752972078579449888">
+  <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a>
+
+<a target="_blank" title="Scratch" target="_blank" href="https://scratch.mit.edu/users/Sup2point0">
+  <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a>
 
 <a target="_blank" title="Assort" target="_blank" href="https://sup2point0.github.io/Assort">
   <img height="42px" alt="Assort" src=".assets/pops/assort.png"></a>
@@ -36,14 +36,14 @@ Analysis paralysis has rendered me incapable of deciding what to write here, soo
 
 Carrots are cool. And light mode is awesome.
 
-I’m just an adventurer creating stuff I love. Recently, that’s been algorithms in Haskell alongside a crippling Rust addiction. I’m also writing [weighted-list](https://github.com/Sup2point0/weighted-list) in every single language I know, including Desmos.
+I’m just an adventurer creating stuff I love. Recently, that’s been reviving some old projects, more Svelte webdev, alongside a crippling Rust addiction. I’m also slowly renovating <https://sup2point0.github.io> ^v^
 
 If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)!
 
 ---
 
 
-## Projects
+## [Projects](https://sup2point0.github.io/sup/projects)
 
 <a target="_blank" title="Assort" href="https://sup2point0.github.io/Assort">
   <img width="360px" src=".assets/projects/assort.png"></a>
@@ -51,14 +51,14 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <a target="_blank" title="Squarkdown" href="https://github.com/Sup2point0/stranger-quarkdown">
   <img width="360px" src=".assets/projects/squarkdown.png"></a>
 
-<a target="_blank" title="pyco:bytes" href="https://sup2point0.github.io/pycobytes">
-  <img width="360px" src=".assets/projects/pycobytes.png"></a>
+<a target="_blank" title="lattix" href="https://github.com/Sup2point0/lattix">
+  <img width="360px" src=".assets/projects/lattix.png"></a>
 
 <a target="_blank" title="Integrity" href="https://sup2point0.github.io/integrity">
   <img width="360px" src=".assets/projects/integrity.png"></a>
 
 
-## Languages
+## [Languages](https://sup2point0.github.io/sup/dev)
 
 <a target="_blank" title="Python" href="https://www.python.org">
   <img height="36px" src=".assets/tiles/python.png"></a>
@@ -116,7 +116,7 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
   <img height="36px" src=".assets/tiles/regex.png"></a>
 
 
-## Applications
+## [Applications](https://sup2point0.github.io/sup/dev)
 
 <a target="_blank" title="Unity" href="https://unity.com">
   <img height="36px" src=".assets/tiles/unity.png"></a>
@@ -142,11 +142,8 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <a target="_blank" title="GarageBand (iPadOS)" href="https://www.apple.com/ios/garageband">
   <img height="36px" src=".assets/tiles/garageband.png"></a>
 
-<!-- <a target="_blank" title="MuseScore" href="https://musescore.org/en">
-  <img height="36px" src=".assets/tiles/musescore.png"></a> -->
 
-
-## Loves
+## [Loves](https://sup2point0.github.io/sup/loves)
 
 <img height="36px" src=".assets/tiles/game-dev.png">
 <img height="36px" src=".assets/tiles/graphic-design.png">
@@ -169,7 +166,7 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <img height="36px" alt="LIGHT MODE SUPREMACY" src=".assets/tiles/light-mode.png">
 
 
-## Music
+## [Music](https://sup2point0.github.io/sup/music/create)
 
 <a target="_blank" title="Algorhythm Origins / Day" href="https://sup2point0.github.io/sup/create/albums/algo-origins#day">
   <img height="144px" src=".assets/tracks/day.png"></a>
@@ -204,7 +201,7 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 
 ---
 
-I’ve had my fair share of catastrophic merge conflicts (and merge-commit-less merge conflicts, would you believe it), tho I’m sure there’s ever more to come. Oh, and don’t worry about my ridiculous commit counts, it’s all micro-commits on the go hehe
+I’ve had my fair share of catastrophic merge conflicts (and merge-commit-less merge conflicts, would you believe it), tho I’m sure there’s ever more to come.
 
 ---
 
