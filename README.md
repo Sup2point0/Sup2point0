@@ -209,3 +209,6 @@ I’ve had my fair share of catastrophic merge conflicts (and merge-commit-less 
 
 
 </div>
+
+<!-- Slithering into C# (major) with an intense passion for CS(S) -->
+<!-- Slithering into C# major uniting svelte functionality with rusting skills in CS(S)~ -->
