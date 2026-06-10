@@ -4,7 +4,7 @@
   <img width="690px" alt="Sup#2.0" src=".assets/sup.png" title="ooh, what’s this?">
 </a>
 
-[**An avid portal with way too much in their neural cortex**](https://sup2point0.github.io/Assort)
+[**an avid portal with too much in their neural cortex**](https://sup2point0.github.io/Assort)
 
 <a target="_blank" title="sup2point0.github.io" target="_blank" href="https://sup2point0.github.io">
   <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
@@ -36,7 +36,7 @@ Analysis paralysis has rendered me incapable of deciding what to write here, soo
 
 Carrots are cool. And light mode is awesome.
 
-I’m just an adventurer creating stuff I love. Recently, that’s been reviving some old projects, more Svelte webdev, alongside a crippling Rust addiction. I’m also slowly renovating <https://sup2point0.github.io> ^v^
+I’m just an adventurer creating stuff I love. Recently, that’s been reviving some old projects, Haskell shenanigans, and some wacky C macro magic. I’m also slowly renovating <https://sup2point0.github.io> ^v^
 
 If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)!
 
@@ -74,6 +74,9 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 
 <a target="_blank" title="Ruby" href="https://www.ruby-lang.org">
   <img height="36px" src=".assets/tiles/ruby.png"></a>
+
+<a target="_blank" title="Ruby" href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img height="36px" src=".assets/tiles/c.png"></a>
 
 <br>
 
@@ -198,10 +201,6 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <a target="_blank" title="Cortex / Dactyl" href="https://sup2point0.github.io/sup/music/create/albums/cortex#dactyl">
   <img height="144px" src=".assets/tracks/dactyl.png"></a>
 
-
----
-
-I’ve had my fair share of catastrophic merge conflicts (and merge-commit-less merge conflicts, would you believe it), tho I’m sure there’s ever more to come.
 
 ---
 
