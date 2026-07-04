@@ -30,11 +30,11 @@
 
 sup o/
 
-Analysis paralysis has rendered me incapable of deciding what to write here, sooo...
+Analysis paralysis has rendered me incapable of deciding what to write here, so...
 
-Carrots are cool. And light mode is awesome.
+Carrots are cool, and light mode’s great.
 
-I’m just an adventurer creating stuff I love. Recently, that’s been reviving some old projects, Haskell shenanigans, and some wacky C macro magic. I’m also slowly renovating <https://sup2point0.github.io> ^v^
+I’m just an adventurer creating stuff I love. Recently, that’s been more web dev, adding stupid fun to [sup2point0.github.io](https://sup2point0.github.io), and C macro magic.
 
 If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)!
 
