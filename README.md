@@ -4,8 +4,6 @@
   <img width="690px" alt="Sup#2.0" src=".assets/sup.png" title="ooh, what’s this?">
 </a>
 
-[**an avid portal with too much in their neural cortex**](https://sup2point0.github.io/Assort)
-
 <a target="_blank" title="sup2point0.github.io" target="_blank" href="https://sup2point0.github.io">
   <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
 
@@ -119,7 +117,7 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
   <img height="36px" src=".assets/tiles/regex.png"></a>
 
 
-## [Applications](https://sup2point0.github.io/sup/dev)
+## [Tech](https://sup2point0.github.io/sup/dev)
 
 <a target="_blank" title="Unity" href="https://unity.com">
   <img height="36px" src=".assets/tiles/unity.png"></a>
@@ -200,11 +198,6 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 
 <a target="_blank" title="Cortex / Dactyl" href="https://sup2point0.github.io/sup/music/create/albums/cortex#dactyl">
   <img height="144px" src=".assets/tracks/dactyl.png"></a>
-
-
----
-
-[ [ **VIEW MORE** ](https://sup2point0.github.io) ]
 
 
 </div>
