@@ -4,27 +4,28 @@
   <img width="690px" alt="Sup#2.0" src=".assets/sup.png" title="ooh, what’s this?">
 </a>
 
-<a target="_blank" title="sup2point0.github.io" target="_blank" href="https://sup2point0.github.io">
-  <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
-
-<a target="_blank" title="YouTube" target="_blank" href="https://youtube.com/@VengeanceVanguard">
-  <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a>
-
-<a target="_blank" title="SoundCloud" target="_blank" href="https://soundcloud.com/Sup2point0">
-  <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png"></a>
-
-<a target="_blank" title="reddit" target="_blank" href="https://reddit.com/u/Sup2pointO">
-  <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a>
-
-<a target="_blank" title="Discord" target="_blank" href="https://discord.com/users/752972078579449888">
-  <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a>
-
-<a target="_blank" title="Scratch" target="_blank" href="https://scratch.mit.edu/users/Sup2point0">
-  <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a>
-
-<a target="_blank" title="Assort" target="_blank" href="https://sup2point0.github.io/Assort">
-  <img height="42px" alt="Assort" src=".assets/pops/assort.png"></a>
-
+<div>
+  <a target="_blank" title="sup2point0.github.io" target="_blank" href="https://sup2point0.github.io">
+    <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
+  
+  <a target="_blank" title="YouTube" target="_blank" href="https://youtube.com/@VengeanceVanguard">
+    <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a>
+  
+  <a target="_blank" title="SoundCloud" target="_blank" href="https://soundcloud.com/Sup2point0">
+    <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png"></a>
+  
+  <a target="_blank" title="reddit" target="_blank" href="https://reddit.com/u/Sup2pointO">
+    <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a>
+  
+  <a target="_blank" title="Discord" target="_blank" href="https://discord.com/users/752972078579449888">
+    <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a>
+  
+  <a target="_blank" title="Scratch" target="_blank" href="https://scratch.mit.edu/users/Sup2point0">
+    <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a>
+  
+  <a target="_blank" title="Assort" target="_blank" href="https://sup2point0.github.io/Assort">
+    <img height="42px" alt="Assort" src=".assets/pops/assort.png"></a>
+</div>
 
 ---
 
