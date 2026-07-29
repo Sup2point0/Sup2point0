@@ -66,8 +66,6 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
   height="36" src=".assets/tiles/c.png">
 </a>
 
-<br>
-
 <a title="Svelte" href="https://svelte.dev"><img
   height="36" src=".assets/tiles/svelte.png">
 </a><a title="TypeScript" href="https://www.typescriptlang.org"><img
@@ -81,8 +79,6 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 </a><a title="HTML" href="https://developer.mozilla.org/docs/Web/HTML"><img
   height="36" src=".assets/tiles/html.png">
 </a>
-
-<br>
 
 <a title="Markdown" href="https://www.markdownguide.org"><img
   height="36" src=".assets/tiles/markdown.png">
@@ -109,10 +105,7 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
   height="36" src=".assets/tiles/git.png">
 </a><a title="GitHub Actions" href="https://github.com/features/actions"><img
   height="36" src=".assets/tiles/github-actions.png">
-</a
->
-
-<br>
+</a>
 
 <a title="Desmos" href="https://www.desmos.com"><img
   height="36" src=".assets/tiles/desmos.png">
@@ -132,8 +125,6 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <img height="36" src=".assets/tiles/writing.png">
 <!-- <img height="36" src=".assets/tiles/integration.png"> -->
 <img height="36" src=".assets/tiles/reading.png">
-
-<br>
 
 <a title="Antarctica" href="https://github.com/Sup2point0/Antarctica"><img
   height="36" alt="Antarctica" src=".assets/tiles/antarctica.png">
