@@ -6,25 +6,26 @@
 
 <div>
   <a target="_blank" title="sup2point0.github.io" target="_blank" href="https://sup2point0.github.io">
-    <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png"></a>
-  
-  <a target="_blank" title="YouTube" target="_blank" href="https://youtube.com/@VengeanceVanguard">
-    <img height="42px" alt="YouTube" src=".assets/pops/youtube.png"></a>
-  
+    <img height="42px" alt="sup2point0.github.io" src=".assets/pops/site.png">
+  </a>
+  <a target="_blank" title="YouTube" target="_blank" href="https://youtube.com/@SuppetySup">
+    <img height="42px" alt="YouTube" src=".assets/pops/youtube.png">
+  </a>
   <a target="_blank" title="SoundCloud" target="_blank" href="https://soundcloud.com/Sup2point0">
-    <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png"></a>
-  
+    <img height="42px" alt="SoundCloud" src=".assets/pops/soundcloud.png">
+  </a>
   <a target="_blank" title="reddit" target="_blank" href="https://reddit.com/u/Sup2pointO">
-    <img height="42px" alt="reddit" src=".assets/pops/reddit.png"></a>
-  
+    <img height="42px" alt="reddit" src=".assets/pops/reddit.png">
+  </a>
   <a target="_blank" title="Discord" target="_blank" href="https://discord.com/users/752972078579449888">
-    <img height="42px" alt="Discord" src=".assets/pops/discord.png"></a>
-  
+    <img height="42px" alt="Discord" src=".assets/pops/discord.png">
+  </a>
   <a target="_blank" title="Scratch" target="_blank" href="https://scratch.mit.edu/users/Sup2point0">
-    <img height="42px" alt="Scratch" src=".assets/pops/scratch.png"></a>
-  
+    <img height="42px" alt="Scratch" src=".assets/pops/scratch.png">
+  </a>
   <a target="_blank" title="Assort" target="_blank" href="https://sup2point0.github.io/Assort">
-    <img height="42px" alt="Assort" src=".assets/pops/assort.png"></a>
+    <img height="42px" alt="Assort" src=".assets/pops/assort.png">
+  </a>
 </div>
 
 ---
@@ -45,104 +46,112 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 ## [Projects](https://sup2point0.github.io/sup/projects)
 
 <a target="_blank" title="Assort" href="https://sup2point0.github.io/Assort">
-  <img width="360px" src=".assets/projects/assort.png"></a>
-
+  <img width="360px" src=".assets/projects/assort.png">
+</a>
 <a target="_blank" title="Squarkdown" href="https://github.com/Sup2point0/stranger-quarkdown">
-  <img width="360px" src=".assets/projects/squarkdown.png"></a>
-
+  <img width="360px" src=".assets/projects/squarkdown.png">
+</a>
 <a target="_blank" title="lattix" href="https://github.com/Sup2point0/lattix">
-  <img width="360px" src=".assets/projects/lattix.png"></a>
-
+  <img width="360px" src=".assets/projects/lattix.png">
+</a>
 <a target="_blank" title="Integrity" href="https://sup2point0.github.io/integrity">
-  <img width="360px" src=".assets/projects/integrity.png"></a>
+  <img width="360px" src=".assets/projects/integrity.png">
+</a>
 
 
 ## [Languages](https://sup2point0.github.io/sup/dev)
 
 <a target="_blank" title="Python" href="https://www.python.org">
-  <img height="36px" src=".assets/tiles/python.png"></a>
-
+  <img height="36px" src=".assets/tiles/python.png">
+</a>
 <a target="_blank" title="Rust" href="https://rust-lang.org">
-  <img height="36px" src=".assets/tiles/rust.png"></a>
-
+  <img height="36px" src=".assets/tiles/rust.png">
+</a>
 <a target="_blank" title="C#" href="https://learn.microsoft.com/en-us/dotnet/csharp">
-  <img height="36px" src=".assets/tiles/csharp.png"></a>
-
+  <img height="36px" src=".assets/tiles/csharp.png">
+</a>
 <a target="_blank" title="Haskell" href="https://www.haskell.org">
-  <img height="36px" src=".assets/tiles/haskell.png"></a>
-
+  <img height="36px" src=".assets/tiles/haskell.png">
+</a>
 <a target="_blank" title="Ruby" href="https://www.ruby-lang.org">
-  <img height="36px" src=".assets/tiles/ruby.png"></a>
-
+  <img height="36px" src=".assets/tiles/ruby.png">
+</a>
 <a target="_blank" title="Ruby" href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img height="36px" src=".assets/tiles/c.png"></a>
+  <img height="36px" src=".assets/tiles/c.png">
+</a>
 
 <br>
 
 <a target="_blank" title="Svelte" href="https://svelte.dev">
-  <img height="36px" src=".assets/tiles/svelte.png"></a>
-
+  <img height="36px" src=".assets/tiles/svelte.png">
+</a>
 <a target="_blank" title="TypeScript" href="https://www.typescriptlang.org">
-  <img height="36px" src=".assets/tiles/typescript.png"></a>
-
+  <img height="36px" src=".assets/tiles/typescript.png">
+</a>
 <a target="_blank" title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript">
-  <img height="36px" src=".assets/tiles/javascript.png"></a>
-
+  <img height="36px" src=".assets/tiles/javascript.png">
+</a>
 <a target="_blank" title="SCSS" href="https://sass-lang.com">
-  <img height="36px" src=".assets/tiles/scss.png"></a>
-
+  <img height="36px" src=".assets/tiles/scss.png">
+</a>
 <a target="_blank" title="CSS" href="https://developer.mozilla.org/docs/Web/CSS">
-  <img height="36px" src=".assets/tiles/css.png"></a>
-
+  <img height="36px" src=".assets/tiles/css.png">
+</a>
 <a target="_blank" title="HTML" href="https://developer.mozilla.org/docs/Web/HTML">
-  <img height="36px" src=".assets/tiles/html.png"></a>
+  <img height="36px" src=".assets/tiles/html.png">
+</a>
 
 <br>
 
 <a target="_blank" title="Markdown" href="https://www.markdownguide.org">
-  <img height="36px" src=".assets/tiles/markdown.png"></a>
-
+  <img height="36px" src=".assets/tiles/markdown.png">
+</a>
 <a target="_blank" title="LaTeX" href="https://www.latex-project.org">
-  <img height="36px" src=".assets/tiles/latex.png"></a>
-
+  <img height="36px" src=".assets/tiles/latex.png">
+</a>
 <a target="_blank" title="SQLite" href="https://sqlite.org">
-  <img height="36px" src=".assets/tiles/sql.png"></a>
-
+  <img height="36px" src=".assets/tiles/sql.png">
+</a>
 <a target="_blank" title="JSON" href="https://wikipedia.org/wiki/JSON">
-  <img height="36px" src=".assets/tiles/json.png"></a>
-
+  <img height="36px" src=".assets/tiles/json.png">
+</a>
 <a target="_blank" title="JSON Schema" href="https://json-schema.org">
-  <img height="36px" src=".assets/tiles/json-schema.png"></a>
-
+  <img height="36px" src=".assets/tiles/json-schema.png">
+</a>
 <a target="_blank" title="RegEx" href="https://wikipedia.org/wiki/Regular_expression">
-  <img height="36px" src=".assets/tiles/regex.png"></a>
+  <img height="36px" src=".assets/tiles/regex.png">
+</a>
 
 
 ## [Tech](https://sup2point0.github.io/sup/dev)
 
 <a target="_blank" title="Unity" href="https://unity.com">
-  <img height="36px" src=".assets/tiles/unity.png"></a>
-  
-<img height="36px" src=".assets/tiles/vscode.png">
-
+  <img height="36px" src=".assets/tiles/unity.png">
+</a>
+<a target="_blank" title="Unity" href="https://code.visualstudio.com">
+  <img height="36px" src=".assets/tiles/vscode.png">
+</a>
 <a target="_blank" title="git" href="https://git-scm.com">
-  <img height="36px" src=".assets/tiles/git.png"></a>
-
+  <img height="36px" src=".assets/tiles/git.png">
+</a>
 <a target="_blank" title="GitHub Actions" href="https://github.com/features/actions">
-  <img height="36px" src=".assets/tiles/github-actions.png"></a>
-
+  <img height="36px" src=".assets/tiles/github-actions.png">
+</a>
 <a target="_blank" title="GitHub Codespaces" href="https://github.com/features/codespaces">
-  <img height="36px" src=".assets/tiles/codespaces.png"></a>
+  <img height="36px" src=".assets/tiles/codespaces.png">
+</a>
 
 <br>
 
 <a target="_blank" title="Desmos" href="https://www.desmos.com">
-  <img height="36px" src=".assets/tiles/desmos.png"></a>
+  <img height="36px" src=".assets/tiles/desmos.png">
+</a>
 
 <img height="36px" src=".assets/tiles/powerpoint.png">
 
 <a target="_blank" title="GarageBand (iPadOS)" href="https://www.apple.com/ios/garageband">
-  <img height="36px" src=".assets/tiles/garageband.png"></a>
+  <img height="36px" src=".assets/tiles/garageband.png">
+</a>
 
 
 ## [Loves](https://sup2point0.github.io/sup/loves)
@@ -154,14 +163,13 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <img height="36px" src=".assets/tiles/writing.png">
 <!-- <img height="36px" src=".assets/tiles/integration.png"> -->
 <img height="36px" src=".assets/tiles/reading.png">
-<!-- <img height="36px" src=".assets/tiles/organic-chemistry.png"> -->
-<!-- <img height="36px" src=".assets/tiles/geometry.png"> -->
 <!-- <img height="36px" src=".assets/tiles/language.png"> -->
 
 <br>
 
 <a target="_blank" title="Antarctica" href="https://github.com/Sup2point0/Antarctica">
-  <img height="36px" alt="Antarctica" src=".assets/tiles/antarctica.png"></a>
+  <img height="36px" alt="Antarctica" src=".assets/tiles/antarctica.png">
+</a>
 
 <img height="36px" alt="Aventurina, the Prime District of Antarctica" src=".assets/tiles/aventurina.png">
   
@@ -171,34 +179,35 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 ## [Music](https://sup2point0.github.io/sup/music/create)
 
 <a target="_blank" title="Algorhythm Origins / Day" href="https://sup2point0.github.io/sup/create/albums/algo-origins#day">
-  <img height="144px" src=".assets/tracks/day.png"></a>
-
+  <img height="144px" src=".assets/tracks/day.png">
+</a>
 <a target="_blank" title="Algorhythm Origins / Night" href="https://sup2point0.github.io/sup/create/albums/algo-origins#night">
-  <img height="144px" src=".assets/tracks/night.png"></a>
-
+  <img height="144px" src=".assets/tracks/night.png">
+</a>
 <a target="_blank" title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music/create/albums/elysion#aphenia">
-  <img height="144px" src=".assets/tracks/aphenia.png"></a>
-
+  <img height="144px" src=".assets/tracks/aphenia.png">
+</a>
 <a target="_blank" title="ELYSION / Ceruleus" href="https://sup2point0.github.io/sup/music/create/albums/elysion#ceruleus">
-  <img height="144px" src=".assets/tracks/ceruleus.png"></a>
-
+  <img height="144px" src=".assets/tracks/ceruleus.png">
+</a>
 <a target="_blank" title="ELYSION / Viridian" href="https://sup2point0.github.io/sup/music/create/albums/elysion#viridian">
-  <img height="144px" src=".assets/tracks/viridian.png"></a>
-
+  <img height="144px" src=".assets/tracks/viridian.png">
+</a>
 <a target="_blank" title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#reminiscence">
-  <img height="144px" src=".assets/tracks/reminiscence.png"></a>
-
+  <img height="144px" src=".assets/tracks/reminiscence.png">
+</a>
 <a target="_blank" title="Algorhythm Vision / Another Dawn" href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#another-dawn">
-  <img height="144px" src=".assets/tracks/another-dawn.png"></a>
-
+  <img height="144px" src=".assets/tracks/another-dawn.png">
+</a>
 <a target="_blank" title="Cortex / Voxel" href="https://sup2point0.github.io/sup/music/create/albums/cortex#voxel">
-  <img height="144px" src=".assets/tracks/voxel.png"></a>
-
+  <img height="144px" src=".assets/tracks/voxel.png">
+</a>
 <a target="_blank" title="Cortex / SyntaxErrør" href="https://sup2point0.github.io/sup/music/create/albums/cortex#syntax-error">
-  <img height="144px" src=".assets/tracks/syntax-error.png"></a>
-
+  <img height="144px" src=".assets/tracks/syntax-error.png">
+</a>
 <a target="_blank" title="Cortex / Dactyl" href="https://sup2point0.github.io/sup/music/create/albums/cortex#dactyl">
-  <img height="144px" src=".assets/tracks/dactyl.png"></a>
+  <img height="144px" src=".assets/tracks/dactyl.png">
+</a>
 
 
 </div>
