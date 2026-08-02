@@ -8,38 +8,38 @@
   <a
     title="sup2point0.github.io" href="https://sup2point0.github.io
   ">
-    <img height="42" alt="sup2point0.github.io" src=".assets/pops/site.pn
-  "></a>
+    <img height="42" alt="sup2point0.github.io" src=".assets/pops/site.png"
+  /></a>
   <a
     title="YouTube" href="https://youtube.com/@SuppetySup
   ">
-    <img height="42" alt="YouTube" src=".assets/pops/youtube.pn
-  "></a>
+    <img height="42" alt="YouTube" src=".assets/pops/youtube.png"
+  /></a>
   <a
     title="SoundCloud" href="https://soundcloud.com/Sup2point0
   ">
-    <img height="42" alt="SoundCloud" src=".assets/pops/soundcloud.pn
-  "></a>
+    <img height="42" alt="SoundCloud" src=".assets/pops/soundcloud.png"
+  /></a>
   <a
     title="reddit" href="https://reddit.com/u/Sup2pointO
   ">
-    <img height="42" alt="reddit" src=".assets/pops/reddit.pn
-  "></a>
+    <img height="42" alt="reddit" src=".assets/pops/reddit.png"
+  /></a>
   <a
     title="Discord" href="https://discord.com/users/752972078579449888
   ">
-    <img height="42" alt="Discord" src=".assets/pops/discord.pn
-  "></a>
+    <img height="42" alt="Discord" src=".assets/pops/discord.png"
+  /></a>
   <a
     title="Scratch" href="https://scratch.mit.edu/users/Sup2point0
   ">
-    <img height="42" alt="Scratch" src=".assets/pops/scratch.pn
-  "></a>
+    <img height="42" alt="Scratch" src=".assets/pops/scratch.png"
+  /></a>
   <a
     title="Assort" href="https://sup2point0.github.io/Assort
   ">
-    <img height="42" alt="Assort" src=".assets/pops/assort.pn
-  "></a>
+    <img height="42" alt="Assort" src=".assets/pops/assort.png"
+  /></a>
 </div>
 
 ---
@@ -119,9 +119,8 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 ">
   <img height="36" alt="C" src=".assets/tiles/c.png"
 /></a>
-<!--  -->
-<br>
-<!--  -->
+<br
+/>
 <a
   title="Svelte" href="https://svelte.dev
 ">
@@ -152,9 +151,8 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 ">
   <img height="36" alt="HTML" src=".assets/tiles/html.png"
 /></a>
-<!--  -->
-<br>
-<!--  -->
+<br
+/>
 <a
   title="Markdown" href="https://www.markdownguide.org
 ">
