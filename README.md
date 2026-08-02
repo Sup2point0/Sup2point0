@@ -119,7 +119,9 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 ">
   <img height="36" alt="C" src=".assets/tiles/c.png"
 /></a>
-
+<!--  -->
+<br>
+<!--  -->
 <a
   title="Svelte" href="https://svelte.dev
 ">
@@ -150,7 +152,9 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 ">
   <img height="36" alt="HTML" src=".assets/tiles/html.png"
 /></a>
-
+<!--  -->
+<br>
+<!--  -->
 <a
   title="Markdown" href="https://www.markdownguide.org
 ">
