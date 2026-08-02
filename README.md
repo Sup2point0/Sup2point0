@@ -62,23 +62,23 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <a
   title="Assort" href="https://sup2point0.github.io/Assort
 "><img
-  width="360" src=".assets/projects/assort.png
-"></a>
+  width="360" src=".assets/projects/assort.png"
+/></a>
 <a
   title="Squarkdown" href="https://github.com/Sup2point0/stranger-quarkdown
 "><img
-  width="360" src=".assets/projects/squarkdown.png
-"></a>
+  width="360" src=".assets/projects/squarkdown.png"
+/></a>
 <a
   title="lattix" href="https://github.com/Sup2point0/lattix
 "><img
-  width="360" src=".assets/projects/lattix.png
-"></a>
+  width="360" src=".assets/projects/lattix.png"
+/></a>
 <a
   title="Integrity" href="https://sup2point0.github.io/integrity
 "><img
-  width="360" src=".assets/projects/integrity.png
-"></a>
+  width="360" src=".assets/projects/integrity.png"
+/></a>
 
 
 ## [Languages](https://sup2point0.github.io/sup/dev)
@@ -123,59 +123,59 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <a
   title="Svelte" href="https://svelte.dev
 "><img
-  height="36" alt="Svelte" src=".assets/tiles/svelte-kit.png
-"></a>
+  height="36" alt="Svelte" src=".assets/tiles/svelte-kit.png"
+/></a>
 <a
   title="TypeScript" href="https://www.typescriptlang.org
 "><img
-  height="36" alt="TypeScript" src=".assets/tiles/typescript.png
-"></a>
+  height="36" alt="TypeScript" src=".assets/tiles/typescript.png"
+/></a>
 <a
   title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript
 "><img
-  height="36" alt="JavaScript" src=".assets/tiles/javascript.png
-"></a>
+  height="36" alt="JavaScript" src=".assets/tiles/javascript.png"
+/></a>
 <a
   title="SCSS" href="https://sass-lang.com
 "><img
-  height="36" alt="SCSS" src=".assets/tiles/scss.png
-"></a>
+  height="36" alt="SCSS" src=".assets/tiles/scss.png"
+/></a>
 <a
   title="CSS" href="https://developer.mozilla.org/docs/Web/CSS
 "><img
-  height="36" alt="CSS" src=".assets/tiles/css.png
-"></a>
+  height="36" alt="CSS" src=".assets/tiles/css.png"
+/></a>
 <a
   title="HTML" href="https://developer.mozilla.org/docs/Web/HTML
 "><img
-  height="36" alt="HTML" src=".assets/tiles/html.png
-"></a>
+  height="36" alt="HTML" src=".assets/tiles/html.png"
+/></a>
 
 <a
   title="Markdown" href="https://www.markdownguide.org
 "><img
-  height="36" alt="Markdown" src=".assets/tiles/markdown.png
-"></a>
+  height="36" alt="Markdown" src=".assets/tiles/markdown.png"
+/></a>
 <a
   title="LaTeX" href="https://www.latex-project.org
 "><img
-  height="36" alt="LaTeX" src=".assets/tiles/latex.png
-"></a>
+  height="36" alt="LaTeX" src=".assets/tiles/latex.png"
+/></a>
 <a
   title="JSON" href="https://wikipedia.org/wiki/JSON
 "><img
-  height="36" alt="JSON" src=".assets/tiles/json.png
-"></a>
+  height="36" alt="JSON" src=".assets/tiles/json.png"
+/></a>
 <a
   title="JSON Schema" href="https://json-schema.org
 "><img
-  height="36" alt="JSON Schema" src=".assets/tiles/json-schema.png
-"></a>
+  height="36" alt="JSON Schema" src=".assets/tiles/json-schema.png"
+/></a>
 <a
   title="RegEx" href="https://wikipedia.org/wiki/Regular_expression
 "><img
-  height="36" alt="RegEx" src=".assets/tiles/regex.png
-"></a>
+  height="36" alt="RegEx" src=".assets/tiles/regex.png"
+/></a>
 
 
 ## [Tech](https://sup2point0.github.io/sup/dev)
@@ -183,39 +183,39 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <a
   title="Unity" href="https://unity.com
 "><img
-  height="36" src=".assets/tiles/unity.png
-"></a>
+  height="36" src=".assets/tiles/unity.png"
+/></a>
 <a
   title="extensibility ftw!" href="https://code.visualstudio.com
 "><img
-  height="36" src=".assets/tiles/vscode.png
-"></a>
+  height="36" src=".assets/tiles/vscode.png"
+/></a>
 <a
   title="git" href="https://git-scm.com
 "><img
-  height="36" src=".assets/tiles/git.png
-"></a>
+  height="36" src=".assets/tiles/git.png"
+/></a>
 <a
   title="GitHub Actions" href="https://github.com/features/actions
 "><img
-  height="36" src=".assets/tiles/github-actions.png
-"></a>
+  height="36" src=".assets/tiles/github-actions.png"
+/></a>
 
 <a
   title="Desmos" href="https://www.desmos.com
 "><img
-  height="36" src=".assets/tiles/desmos.png
-"></a>
+  height="36" src=".assets/tiles/desmos.png"
+/></a>
 <a
   title="Microsoft PowerPoint" href="https://powerpoint.cloud.microsoft
 "><img
-  height="36" src=".assets/tiles/powerpoint.png
-"></a>
+  height="36" src=".assets/tiles/powerpoint.png"
+/></a>
 <a
   title="GarageBand (iPadOS)" href="https://www.apple.com/ios/garageband
 "><img
-  height="36" src=".assets/tiles/garageband.png
-"></a>
+  height="36" src=".assets/tiles/garageband.png"
+/></a>
 
 
 ## [Loves](https://sup2point0.github.io/sup/loves)
@@ -231,8 +231,8 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <a
   title="Antarctica" href="https://github.com/Sup2point0/Antarctica
 "><img
-  height="36" alt="Antarctica" src=".assets/tiles/antarctica.png
-"></a>
+  height="36" alt="Antarctica" src=".assets/tiles/antarctica.png"
+/></a>
 <img height="36" alt="Aventurina, the Prime District of Antarctica" src=".assets/tiles/aventurina.png">
 <img height="36" alt="LIGHT MODE SUPREMACY" src=".assets/tiles/light-mode.png">
 
@@ -242,43 +242,43 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <a
   title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music/create/albums/elysion#aphenia
 "><img
-  height="144" src=".assets/tracks/aphenia.png
-"></a>
+  height="144" src=".assets/tracks/aphenia.png"
+/></a>
 <a
   title="ELYSION / Ceruleus" href="https://sup2point0.github.io/sup/music/create/albums/elysion#ceruleus
 "><img
-  height="144" src=".assets/tracks/ceruleus.png
-"></a>
+  height="144" src=".assets/tracks/ceruleus.png"
+/></a>
 <a
   title="ELYSION / Viridian" href="https://sup2point0.github.io/sup/music/create/albums/elysion#viridian
 "><img
-  height="144" src=".assets/tracks/viridian.png
-"></a>
+  height="144" src=".assets/tracks/viridian.png"
+/></a>
 <a
   title="Algorhythm Vision / Reminiscence" href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#reminiscence
 "><img
-  height="144" src=".assets/tracks/reminiscence.png
-"></a>
+  height="144" src=".assets/tracks/reminiscence.png"
+/></a>
 <a
   title="Algorhythm Vision / Another Dawn" href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#another-dawn
 "><img
-  height="144" src=".assets/tracks/another-dawn.png
-"></a>
+  height="144" src=".assets/tracks/another-dawn.png"
+/></a>
 <a
   title="Cortex / Voxel" href="https://sup2point0.github.io/sup/music/create/albums/cortex#voxel
 "><img
-  height="144" src=".assets/tracks/voxel.png
-"></a>
+  height="144" src=".assets/tracks/voxel.png"
+/></a>
 <a
   title="Cortex / SyntaxErrør" href="https://sup2point0.github.io/sup/music/create/albums/cortex#syntax-error
 "><img
-  height="144" src=".assets/tracks/syntax-error.png
-"></a>
+  height="144" src=".assets/tracks/syntax-error.png"
+/></a>
 <a
   title="Cortex / Dactyl" href="https://sup2point0.github.io/sup/music/create/albums/cortex#dactyl
 "><img
-  height="144" src=".assets/tracks/dactyl.png
-"></a>
+  height="144" src=".assets/tracks/dactyl.png"
+/></a>
 
 
 </div>
