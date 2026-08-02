@@ -52,17 +52,17 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 
 ## [Languages](https://sup2point0.github.io/sup/dev)
 
-<a title="Python" href="https://www.python.org"><img
+<a title="TypeError" href="https://www.python.org"><img
   height="36" src=".assets/tiles/python.png">
-</a><a title="Rust" href="https://rust-lang.org"><img
+</a><a title="compiler circlejerk" href="https://rust-lang.org"><img
   height="36" src=".assets/tiles/rust.png">
-</a><a title="C#" href="https://learn.microsoft.com/en-us/dotnet/csharp"><img
+</a><a title="public protected static private internal virtual abstract partial" href="https://learn.microsoft.com/en-us/dotnet/csharp"><img
   height="36" src=".assets/tiles/csharp.png">
-</a><a title="Haskell" href="https://www.haskell.org"><img
+</a><a title="no instance for 'Competent Programmer' arising from 'Buns Code'" href="https://www.haskell.org"><img
   height="36" src=".assets/tiles/haskell.png">
-</a><a title="Ruby" href="https://www.ruby-lang.org"><img
+</a><a title="nil" href="https://www.ruby-lang.org"><img
   height="36" src=".assets/tiles/ruby.png">
-</a><a title="Ruby" href="https://en.wikipedia.org/wiki/C_(programming_language)"><img
+</a><a title="segfault" href="https://en.wikipedia.org/wiki/C_(programming_language)"><img
   height="36" src=".assets/tiles/c.png">
 </a>
 
@@ -133,7 +133,7 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 <img height="36" alt="LIGHT MODE SUPREMACY" src=".assets/tiles/light-mode.png">
 
 
-## [Music](https://sup2point0.github.io/sup/music/create)
+## [Music!](https://sup2point0.github.io/sup/music/create)
 
 <a title="ELYSION / Aphenia" href="https://sup2point0.github.io/sup/music/create/albums/elysion#aphenia"><img
   height="144" src=".assets/tracks/aphenia.png">
