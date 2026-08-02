@@ -183,9 +183,9 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 ## [Tech](https://sup2point0.github.io/sup/dev)
 
 <a
-  title="Unity" href="https://unity.com
+  title="git" href="https://git-scm.com
 ">
-  <img height="36" alt="Unity" src=".assets/tiles/unity.png"
+  <img height="36" alt="git" src=".assets/tiles/git.png"
 /></a>
 <a
   title="extensibility ftw!" href="https://code.visualstudio.com
@@ -193,20 +193,21 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
   <img height="36" alt="VSCode" src=".assets/tiles/vscode.png"
 /></a>
 <a
-  title="git" href="https://git-scm.com
-">
-  <img height="36" alt="git" src=".assets/tiles/git.png"
-/></a>
-<a
   title="GitHub Actions" href="https://github.com/features/actions
 ">
   <img height="36" alt="GitHub Actions" src=".assets/tiles/github-actions.png"
 /></a>
-
+<br
+/>
 <a
   title="Desmos" href="https://www.desmos.com
 ">
   <img height="36" alt="Desmos" src=".assets/tiles/desmos.png"
+/></a>
+<a
+  title="Unity" href="https://unity.com
+">
+  <img height="36" alt="Unity" src=".assets/tiles/unity.png"
 /></a>
 <a
   title="Microsoft PowerPoint" href="https://powerpoint.cloud.microsoft
@@ -217,6 +218,21 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
   title="GarageBand (iPadOS)" href="https://www.apple.com/ios/garageband
 ">
   <img height="36" alt="GarageBand (iPadOS)" src=".assets/tiles/garageband.png"
+/></a>
+<a
+  title="MuseScore" href="https://musescore.com
+">
+  <img height="36" alt="MuseScore" src=".assets/tiles/musescore.png"
+/></a>
+<a
+  title="MolView (classic)" href="https://molview.org
+">
+  <img height="36" alt="MolView (classic)" src=".assets/tiles/molview.png"
+/></a>
+<a
+  title="Microsoft Excel" href="https://excel.cloud.microsoft/en-gb
+">
+  <img height="36" alt="Microsoft Excel" src=".assets/tiles/excel.png"
 /></a>
 
 
