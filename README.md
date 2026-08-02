@@ -232,28 +232,16 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Awxynt
   <img height="144" src=".assets/tracks/aphenia.png"
 /></a>
 <a
+  title="ELYSION / Ephemerald"
+  href="https://sup2point0.github.io/sup/music/create/albums/elysion#ephemerald
+">
+  <img height="144" src=".assets/tracks/ephemerald.png"
+/></a>
+<a
   title="ELYSION / Ceruleus"
   href="https://sup2point0.github.io/sup/music/create/albums/elysion#ceruleus
 ">
   <img height="144" src=".assets/tracks/ceruleus.png"
-/></a>
-<a
-  title="ELYSION / Viridian"
-  href="https://sup2point0.github.io/sup/music/create/albums/elysion#viridian
-">
-  <img height="144" src=".assets/tracks/viridian.png"
-/></a>
-<a
-  title="Algorhythm Vision / Reminiscence"
-  href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#reminiscence
-">
-  <img height="144" src=".assets/tracks/reminiscence.png"
-/></a>
-<a
-  title="Algorhythm Vision / Another Dawn"
-  href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#another-dawn
-">
-  <img height="144" src=".assets/tracks/another-dawn.png"
 /></a>
 <a
   title="Cortex / Voxel"
@@ -272,6 +260,30 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Awxynt
   href="https://sup2point0.github.io/sup/music/create/albums/cortex#dactyl
 ">
   <img height="144" src=".assets/tracks/dactyl.png"
+/></a>
+<a
+  title="Cortex / Π0!ZV/Σ"
+  href="https://sup2point0.github.io/sup/music/create/albums/cortex#elysion
+">
+  <img height="144" src=".assets/tracks/elysion.png"
+/></a>
+<a
+  title="Algorhythm Vision / Another Dawn"
+  href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#another-dawn
+">
+  <img height="144" src=".assets/tracks/another-dawn.png"
+/></a>
+<a
+  title="Algorhythm Vision / Protos"
+  href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#protos
+">
+  <img height="144" src=".assets/tracks/protos.png"
+/></a>
+<a
+  title="Algorhythm Vision / Nightfall"
+  href="https://sup2point0.github.io/sup/music/create/albums/algo-vision#nightfall
+">
+  <img height="144" src=".assets/tracks/nightfall.png"
 /></a>
 
 
