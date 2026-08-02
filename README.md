@@ -52,18 +52,31 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 
 ## [Languages](https://sup2point0.github.io/sup/dev)
 
-<a title="TypeError" href="https://www.python.org"><img
-  height="36" src=".assets/tiles/python.png">
-</a><a title="compiler circlejerk" href="https://rust-lang.org"><img
-  height="36" src=".assets/tiles/rust.png">
-</a><a title="public protected static private internal virtual abstract partial" href="https://learn.microsoft.com/en-us/dotnet/csharp"><img
-  height="36" src=".assets/tiles/csharp.png">
-</a><a title="no instance for 'Competent Programmer' arising from 'Buns Code'" href="https://www.haskell.org"><img
-  height="36" src=".assets/tiles/haskell.png">
-</a><a title="nil" href="https://www.ruby-lang.org"><img
-  height="36" src=".assets/tiles/ruby.png">
-</a><a title="segfault" href="https://en.wikipedia.org/wiki/C_(programming_language)"><img
-  height="36" src=".assets/tiles/c.png">
+<a title="TypeError"
+  href="https://www.python.org"
+><img
+    height="36" alt="Python" src=".assets/tiles/python.png"
+  />
+</a><a title="compiler circlejerk"
+  href="https://rust-lang.org"><img
+    height="36" alt="Rust" src=".assets/tiles/rust.png"
+  />
+</a><a title="public protected static private internal virtual abstract partial"
+  href="https://learn.microsoft.com/en-us/dotnet/csharp"><img
+    height="36" alt="C#" src=".assets/tiles/csharp.png"
+  />
+</a><a title="no instance for 'Competent Programmer' arising from 'Buns Code'"
+  href="https://www.haskell.org"><img
+    height="36" alt="Haskell" src=".assets/tiles/haskell.png"
+  />
+</a><a title="nil"
+  href="https://www.ruby-lang.org"><img
+    height="36" alt="Ruby" src=".assets/tiles/ruby.png"
+  />
+</a><a title="segfault"
+  href="https://en.wikipedia.org/wiki/C_(programming_language)"><img
+    height="36" alt="C" src=".assets/tiles/c.png"
+  />
 </a>
 
 <a title="Svelte" href="https://svelte.dev"><img
@@ -84,8 +97,6 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
   height="36" src=".assets/tiles/markdown.png">
 </a><a title="LaTeX" href="https://www.latex-project.org"><img
   height="36" src=".assets/tiles/latex.png">
-</a><a title="SQLite" href="https://sqlite.org"><img
-  height="36" src=".assets/tiles/sql.png">
 </a><a title="JSON" href="https://wikipedia.org/wiki/JSON"><img
   height="36" src=".assets/tiles/json.png">
 </a><a title="JSON Schema" href="https://json-schema.org"><img
@@ -99,7 +110,7 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 
 <a title="Unity" href="https://unity.com"><img
   height="36" src=".assets/tiles/unity.png">
-</a><a title="Unity" href="https://code.visualstudio.com"><img
+</a><a title="extensibility ftw!" href="https://code.visualstudio.com"><img
   height="36" src=".assets/tiles/vscode.png">
 </a><a title="git" href="https://git-scm.com"><img
   height="36" src=".assets/tiles/git.png">
