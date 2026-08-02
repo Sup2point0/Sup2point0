@@ -68,13 +68,6 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 
 <a title="Svelte" href="https://svelte.dev"><img
   height="36" src=".assets/tiles/svelte-kit.png">
-</a><a title="Rust" href="https://rust-lang.org"><img
-  height="36" src=".assets/tiles/rust.png">
-</a><a title="Svelte" href="https://svelte.dev"><img
-  height="36" src=".assets/tiles/svelte-kit.png">
-</a><a title="Rust" href="https://rust-lang.org"><img
-  height="36" src=".assets/tiles/rust.png">
-
 </a><a title="TypeScript" href="https://www.typescriptlang.org"><img
   height="36" src=".assets/tiles/typescript.png">
 </a><a title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript"><img
