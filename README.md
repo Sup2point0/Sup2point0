@@ -79,8 +79,8 @@ If you feel like delving into my universe, head to my super-repo mega-wiki [*Ass
 </a>
 <a
   title="compiler circlejerk"
-  href="https://rust-lang.org" \
-  > \
+  href="https://rust-lang.org
+">
   <img height="36" alt="Rust" src=".assets/tiles/rust.png" />
 </a>
 <a
