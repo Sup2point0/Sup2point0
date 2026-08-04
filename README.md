@@ -100,22 +100,22 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Awxynt
 <br
 />
 <a
-  title="Svelte" href="https://svelte.dev
+  title="Cybernetically Enhanced Web Apps" href="https://svelte.dev
 ">
-  <img height="36" alt="Svelte" src=".assets/tiles/svelte-kit.png"
+  <img height="36" alt="Svelte / Kit" src=".assets/tiles/svelte-kit.png"
 /></a>
 <a
-  title="TypeScript" href="https://www.typescriptlang.org
+  title="The Best Upgrade of the Worst Invention" href="https://www.typescriptlang.org
 ">
   <img height="36" alt="TypeScript" src=".assets/tiles/typescript.png"
 /></a>
 <a
-  title="JavaScript" href="https://developer.mozilla.org/docs/Web/JavaScript
+  title="The Language Every Developer Inevitably Learns" href="https://developer.mozilla.org/docs/Web/JavaScript
 ">
   <img height="36" alt="JavaScript" src=".assets/tiles/javascript.png"
 /></a>
 <a
-  title="SCSS" href="https://sass-lang.com
+  title="Awesome-in-every-way CSS" href="https://sass-lang.com
 ">
   <img height="36" alt="SCSS" src=".assets/tiles/scss.png"
 /></a>
@@ -142,18 +142,18 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Awxynt
   <img height="36" alt="LaTeX" src=".assets/tiles/latex.png"
 /></a>
 <a
-  title="JSON Schema" href="https://json-schema.org
+  title="JSON" href="https://json-schema.org
 ">
-  <img height="36" alt="JSON Schema" src=".assets/tiles/json-schema.png"
+  <img height="36" alt="JSON / Schema" src=".assets/tiles/json-schema.png"
 /></a>
 <a
-  title="RegEx" href="https://wikipedia.org/wiki/Regular_expression
+  title="Arcane Wizardry" href="https://wikipedia.org/wiki/Regular_expression
 ">
   <img height="36" alt="RegEx" src=".assets/tiles/regex.png"
 /></a>
 
 
-## [Tech](https://sup2point0.github.io/sup/dev)
+## [Toolkit](https://sup2point0.github.io/sup/dev)
 
 <a
   title="git" href="https://git-scm.com
