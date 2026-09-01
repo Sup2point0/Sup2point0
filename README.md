@@ -36,7 +36,7 @@ Analysis paralysis has rendered me incapable of deciding what to write here, so.
 
 Carrots are cool, and light mode’s great.
 
-I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmost*](https://sup2point0.github.io/desmost), a LaTeX to Desmos compiler, [*Awxynth*](https://sup2point0.github.io/awxynth), a mathematical synthesiser, and maybe giving [*Assort*](https://githu b.com/Sup2point0/Assort) its long overdue renovation.
+I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmost*](https://sup2point0.github.io/desmost), a LaTeX to Desmos compiler, [*Awxynth*](https://sup2point0.github.io/awxynth), a mathematical synthesiser, and maybe giving [*Assort*](https://github.com/Sup2point0/Assort) its long overdue renovation.
 
 <!-- If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)! -->
 
