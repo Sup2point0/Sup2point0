@@ -36,7 +36,7 @@ Analysis paralysis has rendered me incapable of deciding what to write here, so.
 
 Carrots are cool, and light mode’s great.
 
-I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmost*](https://sup2point0.github.io/desmost), a LaTeX to Desmos compiler, [*Awxynth*](https://sup2point0.github.io/awxynth), a mathematical synthesiser, and maybe giving [*Assort*](https://github.com/Sup2point0/Assort) its long overdue renovation.
+I’m just an adventurer creating stuff I love. Recently, that’s been rewriting [*Squarkdown*](https://github.com/Sup2point0/stranger-quarkdown) in Rust (I know), building [*Desmost*](https://sup2point0.github.io/desmost), a LaTeX to Desmos compiler, and maybe giving [*Assort*](https://github.com/Sup2point0/Assort) its long overdue renovation...
 
 <!-- If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)! -->
 
@@ -120,7 +120,7 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmos
   <img height="36" alt="SCSS" src=".assets/tiles/scss.png"
 /></a>
 <a
-  title="CSS" href="https://developer.mozilla.org/docs/Web/CSS
+  title="The coolest language name" href="https://developer.mozilla.org/docs/Web/CSS
 ">
   <img height="36" alt="CSS" src=".assets/tiles/css.png"
 /></a>
@@ -166,7 +166,7 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmos
   <img height="36" alt="VSCode" src=".assets/tiles/vscode.png"
 /></a>
 <a
-  title="Desmos" href="https://www.desmos.com
+  title="More than just a graphing calculator" href="https://www.desmos.com
 ">
   <img height="36" alt="Desmos" src=".assets/tiles/desmos.png"
 /></a>
@@ -176,7 +176,7 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmos
   <img height="36" alt="Unity" src=".assets/tiles/unity.png"
 /></a>
 <a
-  title="GitHub Actions" href="https://github.com/features/actions
+  title="Laziness" href="https://github.com/features/actions
 ">
   <img height="36" alt="GitHub Actions" src=".assets/tiles/github-actions.png"
 /></a>
