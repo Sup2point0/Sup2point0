@@ -32,11 +32,9 @@
 
 sup o/
 
-Analysis paralysis has rendered me incapable of deciding what to write here, so...
-
 Carrots are cool, light mode’s great, and 3-space indentation is superior.
 
-I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmost*](https://sup2point0.github.io/desmost), a LaTeX › Desmos compiler, rewriting [*Squarkdown*](https://github.com/Sup2point0/stranger-quarkdown) in Rust (I know), and making [sup2point0.github.io](https://github.com/Sup2point0/sup2point0.github.io) more mobile-friendly.
+I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmost*](https://sup2point0.github.io/desmost) (a LaTeX › Desmos compiler), rewriting [*Squarkdown*](https://github.com/Sup2point0/stranger-quarkdown) in Rust (I know), and making [sup2point0.github.io](https://github.com/Sup2point0/sup2point0.github.io) more mobile-friendly.
 
 <!-- If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)! -->
 
