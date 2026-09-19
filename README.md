@@ -34,9 +34,9 @@ sup o/
 
 Analysis paralysis has rendered me incapable of deciding what to write here, so...
 
-Carrots are cool, and light mode’s great.
+Carrots are cool, light mode’s great, and 3-space indentation is superior.
 
-I’m just an adventurer creating stuff I love. Recently, that’s been rewriting [*Squarkdown*](https://github.com/Sup2point0/stranger-quarkdown) in Rust (I know), building [*Desmost*](https://sup2point0.github.io/desmost), a LaTeX to Desmos compiler, and maybe giving [*Assort*](https://github.com/Sup2point0/Assort) its long overdue renovation...
+I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmost*](https://sup2point0.github.io/desmost), a LaTeX › Desmos compiler, rewriting [*Squarkdown*](https://github.com/Sup2point0/stranger-quarkdown) in Rust (I know), and making [sup2point0.github.io](https://github.com/Sup2point0/sup2point0.github.io) more mobile-friendly.
 
 <!-- If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)! -->
 
@@ -48,25 +48,19 @@ I’m just an adventurer creating stuff I love. Recently, that’s been rewritin
 <a title="Assort" href="https://sup2point0.github.io/Assort">
   <img width="360" src=".assets/projects/assort.png"
 /></a>
-<a title="Squarkdown" href="https://github.com/Sup2point0/stranger-quarkdown">
-  <img width="360" src=".assets/projects/squarkdown.png"
-/></a>
 <a title="lattix" href="https://github.com/Sup2point0/lattix">
   <img width="360" src=".assets/projects/lattix.png"
 /></a>
 <a title="Integrity" href="https://sup2point0.github.io/integrity">
   <img width="360" src=".assets/projects/integrity.png"
 /></a>
+<a title="Squarkdown" href="https://github.com/Sup2point0/stranger-quarkdown">
+  <img width="360" src=".assets/projects/squarkdown.png"
+/></a>
 
 
 ## [Languages](https://sup2point0.github.io/sup/dev)
 
-<a
-  title="TypeError"
-  href="https://www.python.org
-">
-  <img height="36" alt="Python" src=".assets/tiles/python.png"
-/></a>
 <a
   title="compiler circlejerk"
   href="https://rust-lang.org
@@ -80,16 +74,22 @@ I’m just an adventurer creating stuff I love. Recently, that’s been rewritin
   <img height="36" alt="C#" src=".assets/tiles/csharp.png"
 /></a>
 <a
+  title="nil"
+  href="https://www.ruby-lang.org
+">
+  <img height="36" alt="Ruby" src=".assets/tiles/ruby.png"
+/></a>
+<a
   title="no instance for 'Competent Programmer' arising from 'Buns Code'"
   href="https://www.haskell.org
 ">
   <img height="36" alt="Haskell" src=".assets/tiles/haskell.png"
 /></a>
 <a
-  title="nil"
-  href="https://www.ruby-lang.org
+  title="TypeError"
+  href="https://www.python.org
 ">
-  <img height="36" alt="Ruby" src=".assets/tiles/ruby.png"
+  <img height="36" alt="Python" src=".assets/tiles/python.png"
 /></a>
 <a
   title="segfault"
