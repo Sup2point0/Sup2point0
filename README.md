@@ -32,16 +32,14 @@
 
 sup o/
 
-Carrots are cool, light mode’s great, and 3-space indentation is superior.
+Carrots are cool, light mode’s great, and 3-space indentation is superior
 
-I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmost*](https://sup2point0.github.io/desmost) (a LaTeX › Desmos compiler), rewriting [*Squarkdown*](https://github.com/Sup2point0/stranger-quarkdown) in Rust (I know), and making [sup2point0.github.io](https://github.com/Sup2point0/sup2point0.github.io) more mobile-friendly.
+I’m just an adventurer creating stuff I love. Recently, that’s been rewriting [*Squarkdown*](https://github.com/Sup2point0/stranger-quarkdown) in Rust (I know), [*Desmost*](https://sup2point0.github.io/desmost) (a LaTeX › Desmos compiler), and making [sup2point0.github.io](https://github.com/Sup2point0/sup2point0.github.io) more mobile-friendly.
 
 <!-- If you feel like delving into my universe, head to my super-repo mega-wiki [*Assort*](https://github.com/Sup2point0/Assort) or its [site<sup>↗</sup>](https://sup2point0.github.io/Assort)! -->
 
----
 
-
-## [Projects](https://sup2point0.github.io/sup/projects)
+## [Projects](https://sup2point0.github.io/sup/projects 'Project Highlight')
 
 <a title="Assort" href="https://sup2point0.github.io/Assort">
   <img width="360" src=".assets/projects/assort.png"
@@ -57,7 +55,7 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmos
 /></a>
 
 
-## [Languages](https://sup2point0.github.io/sup/dev)
+## [Languages](https://sup2point0.github.io/sup/dev 'Programming Languages I’ve Learnt')
 
 <a
   title="compiler circlejerk"
@@ -151,7 +149,7 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmos
 /></a>
 
 
-## [Toolkit](https://sup2point0.github.io/sup/dev)
+## [Toolkit](https://sup2point0.github.io/sup/dev 'Applications & Technologies I Create With')
 
 <a
   title="git" href="https://git-scm.com
@@ -212,7 +210,7 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmos
 /></a>
 
 
-## [Loves](https://sup2point0.github.io/sup/loves)
+## [Loves](https://sup2point0.github.io/sup/loves 'Things I Love')
 
 <img height="36" alt="Antarctica"          title="Antarctica"                  src=".assets/tiles/antarctica.png">
 <img height="36" alt="music production"    title="music production"            src=".assets/tiles/music-production.png">
@@ -224,7 +222,7 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmos
 <img height="36" alt="worldbuilding"       title="worldbuilding"               src=".assets/tiles/worldbuilding.png">
 
 
-## [Music!](https://sup2point0.github.io/sup/music/create)
+## [Music!](https://sup2point0.github.io/sup/music/create 'Tracks I’ve Made')
 
 <a
   title="ELYSION / Aphenia"
