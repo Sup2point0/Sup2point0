@@ -214,11 +214,14 @@ I’m just an adventurer creating stuff I love. Recently, that’s been [*Desmos
 
 ## [Loves](https://sup2point0.github.io/sup/loves)
 
-<img height="36" alt="Antarctica"    title="Antarctica"                  src=".assets/tiles/antarctica.png">
-<img height="36" alt="Yu-Gi-Oh!"     title="Yu-Gi-Oh! Trading Card Game" src=".assets/tiles/yugioh.png">
-<img height="36" alt="rhythm games"  title="rhythm games"                src=".assets/tiles/rhythm-games.png">
-<img height="36" alt="integration"   title="integration"                 src=".assets/tiles/integration.png">
-<img height="36" alt="worldbuilding" title="worldbuilding"               src=".assets/tiles/worldbuilding.png">
+<img height="36" alt="Antarctica"          title="Antarctica"                  src=".assets/tiles/antarctica.png">
+<img height="36" alt="music production"    title="music production"            src=".assets/tiles/music-production.png">
+<img height="36" alt="Yu-Gi-Oh!"           title="Yu-Gi-Oh! Trading Card Game" src=".assets/tiles/yugioh.png">
+<img height="36" alt="rhythm games"        title="rhythm games"                src=".assets/tiles/rhythm-games.png">
+<img height="36" alt="Skyscrapers puzzles" title="Skyscrapers puzzles"         src=".assets/tiles/skyscrapers.png">
+<img height="36" alt="integration"         title="integration"                 src=".assets/tiles/integration.png">
+<img height="36" alt="reading"             title="reading"                     src=".assets/tiles/reading.png">
+<img height="36" alt="worldbuilding"       title="worldbuilding"               src=".assets/tiles/worldbuilding.png">
 
 
 ## [Music!](https://sup2point0.github.io/sup/music/create)
